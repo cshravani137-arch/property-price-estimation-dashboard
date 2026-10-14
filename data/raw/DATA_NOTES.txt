@@ -1,0 +1,4 @@
+india_property_sample.csv: synthetic educational historical demo data across 10 Indian cities. Not genuine sale records.
+public_listings_extract.csv: small extract of publicly viewable Mumbai, Delhi and Bengaluru asking-price listings. Asking price != verified transaction price.
+sources.csv: source URLs, data types, and local inclusion notes.
+Use `python download_data.py` to download the complete publicly hosted Mumbai/Delhi source CSVs if internet is available.

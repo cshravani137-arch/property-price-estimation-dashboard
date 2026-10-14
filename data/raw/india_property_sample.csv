@@ -1,0 +1,1401 @@
+record_id,city,locality,locality_tier,property_type,area_sqft,bhk,bathrooms,age_years,sale_year,furnishing_status,parking,lift,gated_community,gym,swimming_pool,amenities_count,price_lakhs,data_type
+DEMO-00001,Mumbai,Virar,Affordable,Apartment,700,2,2,16,2023,Semi-Furnished,1,1,0,0,1,3,92.98,Synthetic demo record
+DEMO-00002,Mumbai,Virar,Affordable,Villa,990,2,2,2,2019,Semi-Furnished,1,0,1,1,0,3,199.19,Synthetic demo record
+DEMO-00003,Mumbai,Thane West,Mid-Range,Villa,1450,3,3,25,2025,Semi-Furnished,1,0,1,1,0,3,469.85,Synthetic demo record
+DEMO-00004,Mumbai,Thane West,Mid-Range,Independent House,580,1,1,6,2024,Unfurnished,0,0,1,0,0,1,152.13,Synthetic demo record
+DEMO-00005,Mumbai,Goregaon East,Mid-Range,Apartment,880,2,3,16,2025,Unfurnished,1,0,0,1,0,2,225.55,Synthetic demo record
+DEMO-00006,Mumbai,Thane West,Mid-Range,Apartment,1320,2,2,20,2026,Semi-Furnished,1,1,0,1,0,3,377.89,Synthetic demo record
+DEMO-00007,Mumbai,Thane West,Mid-Range,Apartment,960,3,3,5,2020,Unfurnished,1,1,0,0,0,2,238.12,Synthetic demo record
+DEMO-00008,Mumbai,Goregaon East,Mid-Range,Apartment,650,1,1,14,2020,Unfurnished,0,1,1,1,0,3,158.61,Synthetic demo record
+DEMO-00009,Mumbai,Thane West,Mid-Range,Apartment,780,1,1,21,2018,Unfurnished,0,1,0,0,0,1,135.18,Synthetic demo record
+DEMO-00010,Mumbai,Goregaon East,Mid-Range,Apartment,430,1,1,17,2018,Unfurnished,1,1,1,1,0,4,73.87,Synthetic demo record
+DEMO-00011,Mumbai,Kharghar,Mid-Range,Villa,550,1,1,7,2019,Unfurnished,0,0,1,0,0,1,134.81,Synthetic demo record
+DEMO-00012,Mumbai,Andheri West,Premium,Apartment,300,1,1,25,2019,Furnished,1,1,0,1,0,3,87.37,Synthetic demo record
+DEMO-00013,Mumbai,Powai,Premium,Independent House,300,1,2,14,2023,Unfurnished,1,0,0,1,1,3,99.27,Synthetic demo record
+DEMO-00014,Mumbai,Thane West,Mid-Range,Apartment,850,2,2,15,2022,Unfurnished,0,1,0,0,0,1,204.4,Synthetic demo record
+DEMO-00015,Mumbai,Kharghar,Mid-Range,Independent House,970,2,2,16,2024,Semi-Furnished,1,0,0,1,0,2,213.82,Synthetic demo record
+DEMO-00016,Mumbai,Kharghar,Mid-Range,Apartment,1900,4,4,2,2018,Semi-Furnished,1,1,0,1,1,4,330.24,Synthetic demo record
+DEMO-00017,Mumbai,Goregaon East,Mid-Range,Apartment,1220,2,2,13,2025,Unfurnished,0,1,1,0,0,2,311.25,Synthetic demo record
+DEMO-00018,Mumbai,Bandra West,Premium,Apartment,860,1,1,16,2018,Unfurnished,1,1,0,0,0,2,229.86,Synthetic demo record
+DEMO-00019,Mumbai,Mira Road,Affordable,Villa,680,2,3,0,2024,Unfurnished,1,0,0,0,0,1,119.08,Synthetic demo record
+DEMO-00020,Mumbai,Bandra West,Premium,Builder Floor,1210,2,1,5,2024,Unfurnished,1,0,0,1,0,2,498.49,Synthetic demo record
+DEMO-00021,Mumbai,Thane West,Mid-Range,Apartment,1340,3,3,19,2024,Semi-Furnished,1,1,1,0,0,3,310.01,Synthetic demo record
+DEMO-00022,Mumbai,Goregaon East,Mid-Range,Builder Floor,1220,2,1,23,2026,Semi-Furnished,1,1,0,1,0,3,314.19,Synthetic demo record
+DEMO-00023,Mumbai,Andheri West,Premium,Apartment,1470,3,3,8,2020,Semi-Furnished,1,0,0,0,0,1,476.42,Synthetic demo record
+DEMO-00024,Mumbai,Goregaon East,Mid-Range,Apartment,600,1,1,12,2019,Semi-Furnished,1,1,0,1,0,3,130.63,Synthetic demo record
+DEMO-00025,Mumbai,Thane West,Mid-Range,Apartment,1220,3,4,11,2024,Semi-Furnished,1,1,1,0,0,3,347.58,Synthetic demo record
+DEMO-00026,Mumbai,Andheri West,Premium,Independent House,1360,3,3,7,2024,Semi-Furnished,0,0,0,0,1,1,680.65,Synthetic demo record
+DEMO-00027,Mumbai,Thane West,Mid-Range,Independent House,1520,3,3,23,2022,Furnished,1,0,1,1,0,3,363.74,Synthetic demo record
+DEMO-00028,Mumbai,Kharghar,Mid-Range,Builder Floor,1250,2,2,25,2026,Furnished,1,1,1,0,0,3,374.22,Synthetic demo record
+DEMO-00029,Mumbai,Virar,Affordable,Apartment,1180,2,2,19,2025,Semi-Furnished,1,0,0,1,1,3,195.93,Synthetic demo record
+DEMO-00030,Mumbai,Mira Road,Affordable,Apartment,1600,3,4,5,2024,Semi-Furnished,1,0,1,0,0,2,271.03,Synthetic demo record
+DEMO-00031,Mumbai,Goregaon East,Mid-Range,Apartment,490,1,1,15,2026,Unfurnished,0,0,1,1,0,2,126.94,Synthetic demo record
+DEMO-00032,Mumbai,Goregaon East,Mid-Range,Apartment,1100,3,3,25,2021,Semi-Furnished,1,0,1,0,0,2,249.73,Synthetic demo record
+DEMO-00033,Mumbai,Goregaon East,Mid-Range,Independent House,830,2,3,11,2023,Semi-Furnished,1,0,1,0,0,2,199.07,Synthetic demo record
+DEMO-00034,Mumbai,Bandra West,Premium,Villa,1370,3,4,1,2024,Furnished,1,0,0,0,0,1,606.61,Synthetic demo record
+DEMO-00035,Mumbai,Kharghar,Mid-Range,Apartment,2280,4,4,10,2022,Unfurnished,1,1,1,1,0,4,433.36,Synthetic demo record
+DEMO-00036,Mumbai,Bandra West,Premium,Independent House,680,1,1,14,2021,Unfurnished,1,0,0,1,0,2,259.2,Synthetic demo record
+DEMO-00037,Mumbai,Thane West,Mid-Range,Apartment,770,1,2,4,2024,Furnished,1,1,1,0,0,3,273.97,Synthetic demo record
+DEMO-00038,Mumbai,Powai,Premium,Apartment,1220,3,3,7,2023,Unfurnished,1,1,0,1,0,3,423.77,Synthetic demo record
+DEMO-00039,Mumbai,Bandra West,Premium,Independent House,1050,2,2,16,2021,Unfurnished,1,0,1,1,1,4,430.47,Synthetic demo record
+DEMO-00040,Mumbai,Kharghar,Mid-Range,Apartment,1050,2,2,2,2019,Unfurnished,1,1,1,0,0,3,249.58,Synthetic demo record
+DEMO-00041,Mumbai,Goregaon East,Mid-Range,Independent House,950,2,3,16,2020,Semi-Furnished,1,0,1,0,1,3,191.49,Synthetic demo record
+DEMO-00042,Mumbai,Andheri West,Premium,Apartment,1280,3,4,10,2024,Unfurnished,1,1,0,0,0,2,556.56,Synthetic demo record
+DEMO-00043,Mumbai,Goregaon East,Mid-Range,Independent House,1190,2,1,10,2023,Unfurnished,1,0,0,0,0,1,268.5,Synthetic demo record
+DEMO-00044,Mumbai,Kharghar,Mid-Range,Villa,430,1,1,15,2025,Unfurnished,1,0,1,1,1,4,126.83,Synthetic demo record
+DEMO-00045,Mumbai,Mira Road,Affordable,Apartment,1370,2,3,24,2026,Semi-Furnished,1,1,0,0,0,2,217.44,Synthetic demo record
+DEMO-00046,Mumbai,Powai,Premium,Villa,870,2,1,9,2020,Unfurnished,1,0,1,0,0,2,405.09,Synthetic demo record
+DEMO-00047,Mumbai,Kharghar,Mid-Range,Apartment,890,2,2,5,2025,Unfurnished,1,1,1,0,0,3,281.85,Synthetic demo record
+DEMO-00048,Mumbai,Bandra West,Premium,Apartment,1180,2,2,2,2022,Semi-Furnished,1,1,0,1,1,4,440.24,Synthetic demo record
+DEMO-00049,Mumbai,Thane West,Mid-Range,Apartment,950,1,2,2,2020,Semi-Furnished,0,1,1,0,0,2,229.16,Synthetic demo record
+DEMO-00050,Mumbai,Bandra West,Premium,Apartment,820,2,2,9,2022,Semi-Furnished,0,1,1,1,0,3,263.33,Synthetic demo record
+DEMO-00051,Mumbai,Powai,Premium,Apartment,760,2,3,0,2024,Semi-Furnished,1,0,0,0,0,1,327.47,Synthetic demo record
+DEMO-00052,Mumbai,Goregaon East,Mid-Range,Apartment,1610,3,3,11,2022,Semi-Furnished,1,1,1,0,0,3,378.87,Synthetic demo record
+DEMO-00053,Mumbai,Kharghar,Mid-Range,Independent House,550,1,1,19,2022,Semi-Furnished,0,0,1,0,0,1,132.49,Synthetic demo record
+DEMO-00054,Mumbai,Thane West,Mid-Range,Apartment,1200,3,3,15,2026,Furnished,0,0,0,0,0,0,343.7,Synthetic demo record
+DEMO-00055,Mumbai,Mira Road,Affordable,Apartment,1070,2,1,24,2022,Semi-Furnished,1,1,1,1,0,4,170.16,Synthetic demo record
+DEMO-00056,Mumbai,Goregaon East,Mid-Range,Apartment,740,1,1,25,2022,Semi-Furnished,1,1,0,0,0,2,147.79,Synthetic demo record
+DEMO-00057,Mumbai,Goregaon East,Mid-Range,Villa,1720,4,4,2,2021,Semi-Furnished,1,0,1,0,1,3,545.42,Synthetic demo record
+DEMO-00058,Mumbai,Virar,Affordable,Apartment,1200,3,3,13,2018,Unfurnished,0,0,0,0,0,0,142.63,Synthetic demo record
+DEMO-00059,Mumbai,Goregaon East,Mid-Range,Apartment,1310,3,3,18,2021,Semi-Furnished,0,1,0,0,1,2,250.08,Synthetic demo record
+DEMO-00060,Mumbai,Goregaon East,Mid-Range,Apartment,540,1,1,3,2026,Unfurnished,1,0,1,0,0,2,137.88,Synthetic demo record
+DEMO-00061,Mumbai,Panvel,Affordable,Apartment,1560,3,3,0,2020,Furnished,0,1,1,1,0,3,260.36,Synthetic demo record
+DEMO-00062,Mumbai,Kharghar,Mid-Range,Independent House,1160,2,3,0,2023,Semi-Furnished,1,0,1,1,0,3,350.72,Synthetic demo record
+DEMO-00063,Mumbai,Powai,Premium,Apartment,300,1,1,10,2021,Unfurnished,0,1,1,0,0,2,93.67,Synthetic demo record
+DEMO-00064,Mumbai,Virar,Affordable,Independent House,560,1,2,10,2024,Furnished,1,0,1,0,0,2,95.59,Synthetic demo record
+DEMO-00065,Mumbai,Andheri West,Premium,Apartment,1480,3,4,15,2020,Semi-Furnished,0,1,1,0,1,3,482.37,Synthetic demo record
+DEMO-00066,Mumbai,Goregaon East,Mid-Range,Apartment,710,1,1,22,2026,Semi-Furnished,0,1,1,1,0,3,191.64,Synthetic demo record
+DEMO-00067,Mumbai,Thane West,Mid-Range,Apartment,1530,3,3,3,2019,Semi-Furnished,1,1,1,1,0,4,318.19,Synthetic demo record
+DEMO-00068,Mumbai,Virar,Affordable,Apartment,370,1,1,22,2023,Unfurnished,0,1,0,1,0,2,49.4,Synthetic demo record
+DEMO-00069,Mumbai,Virar,Affordable,Independent House,1320,2,1,23,2026,Semi-Furnished,0,0,1,0,0,1,287.77,Synthetic demo record
+DEMO-00070,Mumbai,Virar,Affordable,Apartment,850,2,1,19,2019,Furnished,1,0,0,0,0,1,113.62,Synthetic demo record
+DEMO-00071,Mumbai,Andheri West,Premium,Apartment,1470,2,2,12,2020,Furnished,1,1,0,1,0,3,513.53,Synthetic demo record
+DEMO-00072,Mumbai,Goregaon East,Mid-Range,Independent House,1130,2,3,21,2019,Semi-Furnished,0,0,0,1,0,1,243.94,Synthetic demo record
+DEMO-00073,Mumbai,Kharghar,Mid-Range,Villa,640,1,1,24,2020,Semi-Furnished,1,0,1,0,0,2,164.67,Synthetic demo record
+DEMO-00074,Mumbai,Bandra West,Premium,Apartment,1620,3,4,8,2019,Furnished,1,1,1,0,0,3,503.15,Synthetic demo record
+DEMO-00075,Mumbai,Bandra West,Premium,Apartment,1650,4,4,23,2025,Semi-Furnished,1,1,1,1,1,5,728.41,Synthetic demo record
+DEMO-00076,Mumbai,Panvel,Affordable,Builder Floor,1770,4,3,10,2020,Semi-Furnished,1,1,1,1,1,5,286.31,Synthetic demo record
+DEMO-00077,Mumbai,Powai,Premium,Independent House,480,1,2,18,2023,Unfurnished,1,0,0,1,1,3,188.41,Synthetic demo record
+DEMO-00078,Mumbai,Panvel,Affordable,Apartment,1100,1,1,3,2024,Semi-Furnished,0,1,0,0,0,1,204.25,Synthetic demo record
+DEMO-00079,Mumbai,Panvel,Affordable,Apartment,1070,2,2,23,2025,Unfurnished,0,1,1,1,0,3,168.97,Synthetic demo record
+DEMO-00080,Mumbai,Mira Road,Affordable,Apartment,1090,2,3,5,2019,Semi-Furnished,1,1,1,1,0,4,143.84,Synthetic demo record
+DEMO-00081,Mumbai,Bandra West,Premium,Apartment,1370,2,2,11,2023,Unfurnished,1,1,1,1,0,4,569.68,Synthetic demo record
+DEMO-00082,Mumbai,Powai,Premium,Apartment,680,1,2,11,2025,Unfurnished,1,1,1,0,0,3,280.9,Synthetic demo record
+DEMO-00083,Mumbai,Goregaon East,Mid-Range,Independent House,1180,2,1,4,2021,Semi-Furnished,0,0,0,1,0,1,318.9,Synthetic demo record
+DEMO-00084,Mumbai,Virar,Affordable,Apartment,930,2,2,3,2021,Semi-Furnished,1,0,1,1,0,3,179.93,Synthetic demo record
+DEMO-00085,Mumbai,Thane West,Mid-Range,Apartment,1180,2,1,13,2022,Furnished,1,1,1,0,0,3,262.76,Synthetic demo record
+DEMO-00086,Mumbai,Panvel,Affordable,Apartment,1030,1,1,5,2018,Unfurnished,1,1,0,0,1,3,139.96,Synthetic demo record
+DEMO-00087,Mumbai,Virar,Affordable,Villa,1020,1,1,20,2020,Unfurnished,1,0,1,1,0,3,185.96,Synthetic demo record
+DEMO-00088,Mumbai,Mira Road,Affordable,Apartment,680,2,1,13,2024,Unfurnished,1,1,0,0,0,2,115.31,Synthetic demo record
+DEMO-00089,Mumbai,Panvel,Affordable,Apartment,880,2,1,4,2021,Unfurnished,0,1,1,0,0,2,128.95,Synthetic demo record
+DEMO-00090,Mumbai,Powai,Premium,Villa,300,1,1,10,2018,Furnished,1,0,0,1,0,2,108.77,Synthetic demo record
+DEMO-00091,Mumbai,Bandra West,Premium,Independent House,1200,2,1,20,2024,Furnished,1,0,0,1,0,2,507.32,Synthetic demo record
+DEMO-00092,Mumbai,Kharghar,Mid-Range,Apartment,1310,2,3,24,2018,Furnished,1,0,1,1,0,3,226.18,Synthetic demo record
+DEMO-00093,Mumbai,Goregaon East,Mid-Range,Apartment,1460,3,4,7,2019,Unfurnished,1,1,1,0,0,3,298.58,Synthetic demo record
+DEMO-00094,Mumbai,Mira Road,Affordable,Builder Floor,1250,2,3,5,2024,Semi-Furnished,1,1,1,1,1,5,252.36,Synthetic demo record
+DEMO-00095,Mumbai,Mira Road,Affordable,Apartment,1850,3,4,14,2020,Semi-Furnished,1,1,1,0,0,3,280.63,Synthetic demo record
+DEMO-00096,Mumbai,Virar,Affordable,Apartment,730,1,2,15,2020,Unfurnished,1,0,0,0,0,1,88.51,Synthetic demo record
+DEMO-00097,Mumbai,Virar,Affordable,Apartment,1490,3,2,4,2024,Unfurnished,1,1,1,1,0,4,263.63,Synthetic demo record
+DEMO-00098,Mumbai,Thane West,Mid-Range,Apartment,680,1,2,17,2018,Semi-Furnished,1,1,1,0,0,3,110.13,Synthetic demo record
+DEMO-00099,Mumbai,Kharghar,Mid-Range,Independent House,1960,4,3,23,2019,Semi-Furnished,0,0,1,0,1,2,342.88,Synthetic demo record
+DEMO-00100,Mumbai,Virar,Affordable,Apartment,1770,3,2,6,2018,Furnished,0,1,1,0,0,2,222.22,Synthetic demo record
+DEMO-00101,Mumbai,Goregaon East,Mid-Range,Independent House,1190,2,2,19,2025,Semi-Furnished,1,0,0,1,0,2,271.74,Synthetic demo record
+DEMO-00102,Mumbai,Kharghar,Mid-Range,Builder Floor,1890,4,5,20,2018,Unfurnished,0,1,0,0,0,1,381.16,Synthetic demo record
+DEMO-00103,Mumbai,Powai,Premium,Apartment,980,1,2,23,2026,Semi-Furnished,1,0,1,0,1,3,346.92,Synthetic demo record
+DEMO-00104,Mumbai,Thane West,Mid-Range,Apartment,1180,3,3,0,2023,Unfurnished,0,0,0,1,0,1,266.27,Synthetic demo record
+DEMO-00105,Mumbai,Andheri West,Premium,Apartment,1220,2,3,9,2026,Semi-Furnished,0,1,0,0,0,1,504.35,Synthetic demo record
+DEMO-00106,Mumbai,Andheri West,Premium,Apartment,1270,2,2,5,2020,Semi-Furnished,1,1,1,0,0,3,448.56,Synthetic demo record
+DEMO-00107,Mumbai,Virar,Affordable,Apartment,1260,2,2,15,2026,Semi-Furnished,1,1,1,0,0,3,270.21,Synthetic demo record
+DEMO-00108,Mumbai,Kharghar,Mid-Range,Apartment,1830,4,5,7,2025,Unfurnished,0,1,0,1,0,2,547.27,Synthetic demo record
+DEMO-00109,Mumbai,Panvel,Affordable,Apartment,1430,3,4,20,2026,Furnished,0,1,0,0,0,1,266.63,Synthetic demo record
+DEMO-00110,Mumbai,Powai,Premium,Independent House,880,1,1,24,2018,Unfurnished,1,0,1,0,0,2,266.11,Synthetic demo record
+DEMO-00111,Mumbai,Kharghar,Mid-Range,Apartment,1240,2,3,0,2021,Furnished,1,1,0,0,0,2,343.06,Synthetic demo record
+DEMO-00112,Mumbai,Kharghar,Mid-Range,Independent House,980,2,3,14,2023,Semi-Furnished,1,0,1,0,0,2,227.45,Synthetic demo record
+DEMO-00113,Mumbai,Thane West,Mid-Range,Villa,1700,3,2,16,2021,Semi-Furnished,1,0,0,0,0,1,471.93,Synthetic demo record
+DEMO-00114,Mumbai,Mira Road,Affordable,Apartment,1390,2,2,19,2024,Furnished,1,1,0,0,0,2,238.53,Synthetic demo record
+DEMO-00115,Mumbai,Thane West,Mid-Range,Apartment,1290,2,3,5,2022,Furnished,0,1,1,0,0,2,318.92,Synthetic demo record
+DEMO-00116,Mumbai,Panvel,Affordable,Villa,1030,2,2,17,2024,Furnished,0,0,0,1,1,2,253.86,Synthetic demo record
+DEMO-00117,Mumbai,Kharghar,Mid-Range,Apartment,580,1,2,19,2019,Semi-Furnished,0,1,1,1,0,3,120.79,Synthetic demo record
+DEMO-00118,Mumbai,Thane West,Mid-Range,Independent House,850,2,2,13,2021,Unfurnished,1,0,1,1,0,3,200.36,Synthetic demo record
+DEMO-00119,Mumbai,Virar,Affordable,Apartment,1150,2,2,3,2026,Unfurnished,0,0,1,1,0,2,256.17,Synthetic demo record
+DEMO-00120,Mumbai,Andheri West,Premium,Apartment,1490,3,3,9,2019,Furnished,1,1,1,0,1,4,504.19,Synthetic demo record
+DEMO-00121,Mumbai,Virar,Affordable,Apartment,1510,3,3,16,2022,Semi-Furnished,0,0,1,0,0,1,258.14,Synthetic demo record
+DEMO-00122,Mumbai,Powai,Premium,Villa,710,2,1,22,2023,Semi-Furnished,1,0,0,0,1,2,312.08,Synthetic demo record
+DEMO-00123,Mumbai,Thane West,Mid-Range,Independent House,1160,2,3,19,2019,Semi-Furnished,0,0,0,0,0,0,207.65,Synthetic demo record
+DEMO-00124,Mumbai,Thane West,Mid-Range,Apartment,660,1,1,6,2026,Unfurnished,0,1,1,0,1,3,193.45,Synthetic demo record
+DEMO-00125,Mumbai,Goregaon East,Mid-Range,Villa,820,2,3,8,2025,Unfurnished,1,0,0,0,0,1,269.93,Synthetic demo record
+DEMO-00126,Mumbai,Virar,Affordable,Apartment,1210,2,2,12,2018,Unfurnished,0,1,1,1,0,3,154.79,Synthetic demo record
+DEMO-00127,Mumbai,Virar,Affordable,Independent House,1360,2,2,9,2020,Semi-Furnished,1,0,0,1,0,2,208.07,Synthetic demo record
+DEMO-00128,Mumbai,Andheri West,Premium,Apartment,570,2,2,5,2025,Unfurnished,1,0,0,1,0,2,230.81,Synthetic demo record
+DEMO-00129,Mumbai,Mira Road,Affordable,Independent House,1140,2,1,16,2022,Furnished,1,0,0,0,0,1,196.45,Synthetic demo record
+DEMO-00130,Mumbai,Goregaon East,Mid-Range,Apartment,1230,2,3,16,2022,Furnished,1,1,0,0,0,2,316.43,Synthetic demo record
+DEMO-00131,Mumbai,Panvel,Affordable,Apartment,730,1,2,7,2024,Semi-Furnished,1,1,1,0,0,3,142.94,Synthetic demo record
+DEMO-00132,Mumbai,Goregaon East,Mid-Range,Villa,1900,4,4,2,2018,Semi-Furnished,0,0,1,1,1,3,550.03,Synthetic demo record
+DEMO-00133,Mumbai,Andheri West,Premium,Apartment,1390,3,4,24,2026,Semi-Furnished,1,0,1,1,1,4,446.81,Synthetic demo record
+DEMO-00134,Mumbai,Kharghar,Mid-Range,Independent House,300,1,1,23,2020,Unfurnished,1,0,1,0,0,2,61.49,Synthetic demo record
+DEMO-00135,Mumbai,Goregaon East,Mid-Range,Apartment,1110,2,2,2,2024,Furnished,1,1,0,1,0,3,327.42,Synthetic demo record
+DEMO-00136,Mumbai,Goregaon East,Mid-Range,Villa,1160,3,4,11,2024,Unfurnished,0,0,0,0,1,1,367.3,Synthetic demo record
+DEMO-00137,Mumbai,Virar,Affordable,Apartment,1120,2,1,15,2020,Furnished,0,1,0,0,1,2,157.23,Synthetic demo record
+DEMO-00138,Mumbai,Bandra West,Premium,Apartment,390,1,1,11,2026,Semi-Furnished,1,1,1,0,1,4,165.81,Synthetic demo record
+DEMO-00139,Mumbai,Thane West,Mid-Range,Apartment,920,2,2,25,2020,Unfurnished,0,1,0,0,0,1,140.09,Synthetic demo record
+DEMO-00140,Mumbai,Virar,Affordable,Apartment,1640,3,2,3,2018,Semi-Furnished,0,1,0,1,0,2,237.14,Synthetic demo record
+DEMO-00141,Delhi,Burari,Affordable,Villa,1620,3,4,1,2018,Semi-Furnished,1,0,1,1,0,3,153.68,Synthetic demo record
+DEMO-00142,Delhi,Janakpuri,Mid-Range,Apartment,1490,2,2,18,2023,Furnished,1,0,0,1,0,2,142.78,Synthetic demo record
+DEMO-00143,Delhi,Mayur Vihar,Mid-Range,Apartment,600,2,2,19,2018,Unfurnished,1,1,0,1,0,3,44.09,Synthetic demo record
+DEMO-00144,Delhi,Narela,Affordable,Apartment,1160,2,2,10,2020,Semi-Furnished,0,1,0,0,0,1,78.84,Synthetic demo record
+DEMO-00145,Delhi,Narela,Affordable,Apartment,300,1,1,7,2024,Furnished,1,1,1,1,0,4,30.0,Synthetic demo record
+DEMO-00146,Delhi,Rohini,Mid-Range,Apartment,800,2,1,18,2026,Unfurnished,1,1,0,1,0,3,74.53,Synthetic demo record
+DEMO-00147,Delhi,Uttam Nagar,Affordable,Apartment,1250,3,3,9,2021,Unfurnished,1,1,0,1,0,3,67.99,Synthetic demo record
+DEMO-00148,Delhi,Dwarka Sector 10,Premium,Villa,670,1,2,15,2018,Semi-Furnished,0,0,0,0,1,1,99.59,Synthetic demo record
+DEMO-00149,Delhi,Janakpuri,Mid-Range,Apartment,2060,4,3,8,2026,Unfurnished,1,1,1,0,0,3,197.69,Synthetic demo record
+DEMO-00150,Delhi,Narela,Affordable,Independent House,1020,1,2,9,2024,Semi-Furnished,0,0,0,0,0,0,84.81,Synthetic demo record
+DEMO-00151,Delhi,Rohini,Mid-Range,Apartment,380,1,2,15,2024,Unfurnished,0,0,0,1,0,1,34.87,Synthetic demo record
+DEMO-00152,Delhi,Janakpuri,Mid-Range,Apartment,440,2,1,25,2021,Semi-Furnished,1,1,1,0,0,3,40.49,Synthetic demo record
+DEMO-00153,Delhi,Narela,Affordable,Apartment,610,1,1,1,2018,Furnished,1,1,0,0,0,2,44.53,Synthetic demo record
+DEMO-00154,Delhi,Janakpuri,Mid-Range,Apartment,1940,3,3,4,2024,Semi-Furnished,1,1,1,0,0,3,221.99,Synthetic demo record
+DEMO-00155,Delhi,Janakpuri,Mid-Range,Apartment,1740,3,3,5,2025,Unfurnished,0,1,1,1,0,3,204.08,Synthetic demo record
+DEMO-00156,Delhi,Narela,Affordable,Independent House,1200,1,1,0,2025,Semi-Furnished,1,0,0,1,0,2,122.33,Synthetic demo record
+DEMO-00157,Delhi,Janakpuri,Mid-Range,Apartment,300,1,2,25,2018,Semi-Furnished,1,1,0,0,0,2,21.12,Synthetic demo record
+DEMO-00158,Delhi,Janakpuri,Mid-Range,Apartment,1220,3,3,1,2022,Semi-Furnished,0,1,1,0,0,2,148.57,Synthetic demo record
+DEMO-00159,Delhi,Rohini,Mid-Range,Apartment,1160,3,3,14,2022,Furnished,1,1,1,0,1,4,127.0,Synthetic demo record
+DEMO-00160,Delhi,Rohini,Mid-Range,Apartment,1400,3,4,8,2019,Unfurnished,0,0,1,0,1,2,111.03,Synthetic demo record
+DEMO-00161,Delhi,Rohini,Mid-Range,Apartment,1160,2,3,8,2022,Furnished,1,1,0,0,0,2,129.32,Synthetic demo record
+DEMO-00162,Delhi,Dwarka Sector 10,Premium,Apartment,1050,2,3,24,2023,Unfurnished,0,0,0,0,0,0,135.48,Synthetic demo record
+DEMO-00163,Delhi,Vasant Kunj,Premium,Independent House,1450,3,3,9,2021,Unfurnished,1,0,1,0,0,2,189.68,Synthetic demo record
+DEMO-00164,Delhi,Rohini,Mid-Range,Independent House,770,1,2,4,2019,Furnished,1,0,0,1,0,2,79.5,Synthetic demo record
+DEMO-00165,Delhi,Mayur Vihar,Mid-Range,Apartment,630,1,2,22,2019,Unfurnished,1,1,1,1,0,4,44.58,Synthetic demo record
+DEMO-00166,Delhi,Rohini,Mid-Range,Apartment,310,1,1,13,2022,Semi-Furnished,1,1,1,1,0,4,32.91,Synthetic demo record
+DEMO-00167,Delhi,Narela,Affordable,Apartment,1390,3,3,25,2022,Unfurnished,1,1,0,0,0,2,80.56,Synthetic demo record
+DEMO-00168,Delhi,Janakpuri,Mid-Range,Apartment,1440,3,3,18,2022,Unfurnished,1,1,0,1,1,4,154.2,Synthetic demo record
+DEMO-00169,Delhi,Burari,Affordable,Apartment,900,1,1,16,2019,Unfurnished,1,1,1,0,0,3,54.49,Synthetic demo record
+DEMO-00170,Delhi,Rohini,Mid-Range,Apartment,750,1,2,20,2025,Unfurnished,1,1,1,1,0,4,75.72,Synthetic demo record
+DEMO-00171,Delhi,Greater Kailash,Premium,Apartment,1160,2,2,12,2022,Semi-Furnished,1,1,0,1,0,3,188.95,Synthetic demo record
+DEMO-00172,Delhi,Dwarka Sector 10,Premium,Apartment,710,2,1,8,2022,Furnished,0,0,0,0,0,0,104.0,Synthetic demo record
+DEMO-00173,Delhi,Narela,Affordable,Apartment,1690,3,3,14,2026,Unfurnished,1,1,1,0,1,4,165.21,Synthetic demo record
+DEMO-00174,Delhi,Narela,Affordable,Apartment,1140,1,1,25,2019,Unfurnished,0,1,0,0,1,2,59.83,Synthetic demo record
+DEMO-00175,Delhi,Rohini,Mid-Range,Apartment,430,1,1,8,2022,Unfurnished,1,1,1,0,0,3,40.18,Synthetic demo record
+DEMO-00176,Delhi,Mayur Vihar,Mid-Range,Villa,1030,2,1,5,2020,Semi-Furnished,1,0,0,1,0,2,125.21,Synthetic demo record
+DEMO-00177,Delhi,Burari,Affordable,Villa,980,2,1,21,2021,Semi-Furnished,1,0,1,0,0,2,73.83,Synthetic demo record
+DEMO-00178,Delhi,Mayur Vihar,Mid-Range,Apartment,1740,4,4,17,2019,Unfurnished,0,1,1,0,1,3,123.12,Synthetic demo record
+DEMO-00179,Delhi,Greater Kailash,Premium,Villa,960,2,2,20,2023,Furnished,0,0,0,0,0,0,155.79,Synthetic demo record
+DEMO-00180,Delhi,Uttam Nagar,Affordable,Apartment,470,1,2,21,2025,Unfurnished,1,1,1,0,0,3,28.38,Synthetic demo record
+DEMO-00181,Delhi,Vasant Kunj,Premium,Apartment,450,1,1,17,2021,Furnished,1,1,1,1,0,4,72.23,Synthetic demo record
+DEMO-00182,Delhi,Burari,Affordable,Builder Floor,1400,3,3,3,2021,Unfurnished,1,1,1,1,0,4,108.51,Synthetic demo record
+DEMO-00183,Delhi,Uttam Nagar,Affordable,Apartment,300,1,2,0,2018,Semi-Furnished,0,1,1,0,1,3,20.98,Synthetic demo record
+DEMO-00184,Delhi,Rohini,Mid-Range,Villa,1030,2,3,19,2021,Semi-Furnished,1,0,0,0,1,2,132.0,Synthetic demo record
+DEMO-00185,Delhi,Dwarka Sector 10,Premium,Villa,1360,3,4,11,2026,Semi-Furnished,1,0,0,0,0,1,347.7,Synthetic demo record
+DEMO-00186,Delhi,Greater Kailash,Premium,Apartment,1450,3,3,21,2018,Semi-Furnished,1,1,0,0,0,2,175.52,Synthetic demo record
+DEMO-00187,Delhi,Mayur Vihar,Mid-Range,Apartment,680,1,1,17,2022,Unfurnished,1,0,1,0,0,2,63.03,Synthetic demo record
+DEMO-00188,Delhi,Burari,Affordable,Builder Floor,1000,2,1,11,2022,Furnished,1,1,0,1,0,3,89.78,Synthetic demo record
+DEMO-00189,Delhi,Vasant Kunj,Premium,Apartment,1970,4,5,13,2025,Unfurnished,1,1,0,0,0,2,319.16,Synthetic demo record
+DEMO-00190,Delhi,Rohini,Mid-Range,Apartment,1430,3,4,22,2025,Unfurnished,1,1,1,1,0,4,142.73,Synthetic demo record
+DEMO-00191,Delhi,Uttam Nagar,Affordable,Apartment,780,1,1,13,2025,Semi-Furnished,1,0,0,1,0,2,70.23,Synthetic demo record
+DEMO-00192,Delhi,Uttam Nagar,Affordable,Builder Floor,720,1,1,9,2018,Semi-Furnished,0,0,0,0,0,0,39.14,Synthetic demo record
+DEMO-00193,Delhi,Mayur Vihar,Mid-Range,Villa,1640,3,4,1,2022,Unfurnished,1,0,0,1,0,2,213.04,Synthetic demo record
+DEMO-00194,Delhi,Dwarka Sector 10,Premium,Independent House,1320,3,2,4,2026,Furnished,1,0,0,0,1,2,291.55,Synthetic demo record
+DEMO-00195,Delhi,Mayur Vihar,Mid-Range,Apartment,1120,3,2,4,2026,Semi-Furnished,1,0,1,1,1,4,151.35,Synthetic demo record
+DEMO-00196,Delhi,Uttam Nagar,Affordable,Apartment,850,1,1,12,2023,Furnished,0,1,0,0,0,1,52.91,Synthetic demo record
+DEMO-00197,Delhi,Uttam Nagar,Affordable,Apartment,920,1,1,19,2025,Semi-Furnished,1,1,0,1,0,3,65.5,Synthetic demo record
+DEMO-00198,Delhi,Burari,Affordable,Apartment,330,1,1,21,2022,Semi-Furnished,0,0,0,0,1,1,24.77,Synthetic demo record
+DEMO-00199,Delhi,Dwarka Sector 10,Premium,Independent House,1500,3,2,13,2020,Semi-Furnished,1,0,0,1,0,2,163.15,Synthetic demo record
+DEMO-00200,Delhi,Janakpuri,Mid-Range,Villa,670,1,2,10,2022,Furnished,1,0,1,0,0,2,91.41,Synthetic demo record
+DEMO-00201,Delhi,Janakpuri,Mid-Range,Apartment,980,1,1,21,2025,Unfurnished,0,0,1,0,0,1,106.4,Synthetic demo record
+DEMO-00202,Delhi,Mayur Vihar,Mid-Range,Apartment,1000,2,2,16,2024,Furnished,1,1,1,1,1,5,106.23,Synthetic demo record
+DEMO-00203,Delhi,Mayur Vihar,Mid-Range,Apartment,1830,4,3,23,2020,Semi-Furnished,1,1,0,1,0,3,134.2,Synthetic demo record
+DEMO-00204,Delhi,Uttam Nagar,Affordable,Builder Floor,530,1,1,4,2023,Semi-Furnished,1,1,1,0,1,4,46.17,Synthetic demo record
+DEMO-00205,Delhi,Burari,Affordable,Independent House,960,2,1,17,2018,Furnished,1,0,1,0,0,2,64.17,Synthetic demo record
+DEMO-00206,Delhi,Mayur Vihar,Mid-Range,Apartment,450,1,1,11,2018,Semi-Furnished,1,1,0,1,0,3,41.64,Synthetic demo record
+DEMO-00207,Delhi,Dwarka Sector 10,Premium,Apartment,310,1,1,3,2021,Semi-Furnished,1,1,0,1,1,4,45.02,Synthetic demo record
+DEMO-00208,Delhi,Mayur Vihar,Mid-Range,Apartment,740,2,3,5,2018,Semi-Furnished,1,1,0,1,0,3,72.75,Synthetic demo record
+DEMO-00209,Delhi,Greater Kailash,Premium,Apartment,1210,2,2,16,2020,Furnished,0,1,0,0,0,1,155.05,Synthetic demo record
+DEMO-00210,Delhi,Dwarka Sector 10,Premium,Apartment,1090,2,1,3,2026,Unfurnished,1,0,1,0,0,2,221.78,Synthetic demo record
+DEMO-00211,Delhi,Narela,Affordable,Builder Floor,550,1,1,4,2025,Semi-Furnished,1,0,1,1,1,4,44.92,Synthetic demo record
+DEMO-00212,Delhi,Dwarka Sector 10,Premium,Apartment,950,1,1,21,2024,Unfurnished,1,0,1,0,1,3,150.49,Synthetic demo record
+DEMO-00213,Delhi,Vasant Kunj,Premium,Apartment,660,1,1,17,2023,Unfurnished,1,1,0,0,1,3,90.31,Synthetic demo record
+DEMO-00214,Delhi,Uttam Nagar,Affordable,Apartment,940,2,2,12,2021,Semi-Furnished,1,0,1,1,0,3,54.91,Synthetic demo record
+DEMO-00215,Delhi,Janakpuri,Mid-Range,Apartment,2130,3,4,18,2019,Furnished,1,0,0,0,0,1,191.44,Synthetic demo record
+DEMO-00216,Delhi,Mayur Vihar,Mid-Range,Apartment,1720,3,3,14,2021,Semi-Furnished,0,0,0,1,0,1,149.06,Synthetic demo record
+DEMO-00217,Delhi,Narela,Affordable,Villa,760,1,1,17,2026,Unfurnished,0,0,0,0,1,1,71.55,Synthetic demo record
+DEMO-00218,Delhi,Narela,Affordable,Builder Floor,340,1,1,5,2026,Furnished,1,1,1,1,1,5,35.04,Synthetic demo record
+DEMO-00219,Delhi,Vasant Kunj,Premium,Apartment,890,2,3,17,2023,Furnished,0,1,1,0,0,2,127.96,Synthetic demo record
+DEMO-00220,Delhi,Rohini,Mid-Range,Villa,1790,4,4,12,2023,Semi-Furnished,1,0,0,1,1,3,209.68,Synthetic demo record
+DEMO-00221,Delhi,Janakpuri,Mid-Range,Independent House,1100,2,2,10,2026,Semi-Furnished,1,0,1,0,1,3,138.91,Synthetic demo record
+DEMO-00222,Delhi,Burari,Affordable,Apartment,300,1,1,7,2023,Semi-Furnished,1,1,0,0,1,3,25.59,Synthetic demo record
+DEMO-00223,Delhi,Rohini,Mid-Range,Apartment,400,1,1,9,2020,Semi-Furnished,0,1,0,0,0,1,33.48,Synthetic demo record
+DEMO-00224,Delhi,Narela,Affordable,Builder Floor,1000,2,1,13,2022,Semi-Furnished,1,0,1,1,0,3,73.21,Synthetic demo record
+DEMO-00225,Delhi,Mayur Vihar,Mid-Range,Apartment,1520,3,3,13,2025,Semi-Furnished,0,1,0,0,0,1,184.01,Synthetic demo record
+DEMO-00226,Delhi,Burari,Affordable,Apartment,1890,4,3,12,2022,Unfurnished,0,1,0,1,0,2,131.93,Synthetic demo record
+DEMO-00227,Delhi,Uttam Nagar,Affordable,Independent House,1430,2,2,9,2023,Semi-Furnished,1,0,1,0,0,2,110.21,Synthetic demo record
+DEMO-00228,Delhi,Rohini,Mid-Range,Apartment,780,2,3,2,2020,Unfurnished,0,1,1,0,0,2,64.3,Synthetic demo record
+DEMO-00229,Delhi,Rohini,Mid-Range,Apartment,1230,2,2,23,2020,Semi-Furnished,1,1,1,0,0,3,102.31,Synthetic demo record
+DEMO-00230,Delhi,Janakpuri,Mid-Range,Apartment,1520,3,2,3,2024,Furnished,1,1,0,0,0,2,173.48,Synthetic demo record
+DEMO-00231,Delhi,Burari,Affordable,Builder Floor,1620,3,2,10,2022,Furnished,1,1,0,1,0,3,145.78,Synthetic demo record
+DEMO-00232,Delhi,Vasant Kunj,Premium,Villa,1160,2,1,20,2023,Unfurnished,1,0,1,0,1,3,191.1,Synthetic demo record
+DEMO-00233,Delhi,Janakpuri,Mid-Range,Independent House,1300,3,2,22,2020,Unfurnished,0,0,1,0,0,1,101.23,Synthetic demo record
+DEMO-00234,Delhi,Dwarka Sector 10,Premium,Apartment,490,1,1,13,2021,Semi-Furnished,0,1,0,1,0,2,75.73,Synthetic demo record
+DEMO-00235,Delhi,Dwarka Sector 10,Premium,Independent House,480,1,1,10,2023,Unfurnished,1,0,0,1,0,2,73.94,Synthetic demo record
+DEMO-00236,Delhi,Vasant Kunj,Premium,Apartment,950,1,1,19,2021,Semi-Furnished,1,1,0,0,0,2,134.44,Synthetic demo record
+DEMO-00237,Delhi,Vasant Kunj,Premium,Apartment,780,2,1,1,2019,Unfurnished,1,0,1,1,0,3,113.18,Synthetic demo record
+DEMO-00238,Delhi,Mayur Vihar,Mid-Range,Apartment,1140,2,2,19,2021,Unfurnished,0,1,1,0,0,2,98.07,Synthetic demo record
+DEMO-00239,Delhi,Burari,Affordable,Apartment,960,2,3,18,2020,Semi-Furnished,1,1,0,0,0,2,57.15,Synthetic demo record
+DEMO-00240,Delhi,Janakpuri,Mid-Range,Independent House,1490,3,3,11,2022,Semi-Furnished,1,0,1,1,0,3,147.69,Synthetic demo record
+DEMO-00241,Delhi,Janakpuri,Mid-Range,Apartment,300,1,1,3,2025,Unfurnished,1,1,1,0,0,3,36.63,Synthetic demo record
+DEMO-00242,Delhi,Narela,Affordable,Apartment,830,1,2,6,2025,Furnished,1,0,0,0,0,1,64.48,Synthetic demo record
+DEMO-00243,Delhi,Burari,Affordable,Apartment,1300,3,2,8,2018,Semi-Furnished,1,0,1,1,0,3,83.93,Synthetic demo record
+DEMO-00244,Delhi,Vasant Kunj,Premium,Apartment,1280,3,4,14,2019,Unfurnished,0,1,0,0,0,1,138.28,Synthetic demo record
+DEMO-00245,Delhi,Burari,Affordable,Apartment,1030,1,2,19,2019,Unfurnished,0,1,1,1,1,4,64.65,Synthetic demo record
+DEMO-00246,Delhi,Burari,Affordable,Apartment,1450,3,3,2,2023,Semi-Furnished,1,1,0,0,0,2,101.42,Synthetic demo record
+DEMO-00247,Delhi,Greater Kailash,Premium,Apartment,1380,3,4,13,2019,Furnished,1,1,1,0,0,3,185.08,Synthetic demo record
+DEMO-00248,Delhi,Narela,Affordable,Villa,1710,3,3,17,2025,Semi-Furnished,0,0,1,1,0,2,160.98,Synthetic demo record
+DEMO-00249,Delhi,Rohini,Mid-Range,Apartment,910,2,2,7,2025,Semi-Furnished,1,1,1,1,0,4,125.02,Synthetic demo record
+DEMO-00250,Delhi,Dwarka Sector 10,Premium,Apartment,1600,3,3,22,2023,Unfurnished,0,0,1,1,0,2,214.9,Synthetic demo record
+DEMO-00251,Delhi,Rohini,Mid-Range,Apartment,1220,2,1,14,2019,Unfurnished,1,0,0,0,1,2,119.34,Synthetic demo record
+DEMO-00252,Delhi,Narela,Affordable,Independent House,840,2,1,23,2026,Unfurnished,1,0,1,0,0,2,78.67,Synthetic demo record
+DEMO-00253,Delhi,Janakpuri,Mid-Range,Apartment,300,1,1,5,2024,Unfurnished,1,1,0,1,1,4,33.39,Synthetic demo record
+DEMO-00254,Delhi,Rohini,Mid-Range,Apartment,770,2,3,22,2021,Furnished,1,1,1,0,0,3,66.89,Synthetic demo record
+DEMO-00255,Delhi,Janakpuri,Mid-Range,Apartment,970,2,2,24,2018,Semi-Furnished,1,0,1,1,0,3,68.56,Synthetic demo record
+DEMO-00256,Delhi,Janakpuri,Mid-Range,Apartment,1420,3,4,11,2021,Semi-Furnished,1,1,0,1,1,4,116.06,Synthetic demo record
+DEMO-00257,Delhi,Janakpuri,Mid-Range,Builder Floor,1210,3,3,12,2024,Unfurnished,1,1,1,0,0,3,131.25,Synthetic demo record
+DEMO-00258,Delhi,Rohini,Mid-Range,Apartment,970,2,2,21,2020,Semi-Furnished,1,1,0,0,0,2,84.82,Synthetic demo record
+DEMO-00259,Delhi,Rohini,Mid-Range,Villa,680,1,2,4,2019,Semi-Furnished,1,0,1,0,0,2,58.56,Synthetic demo record
+DEMO-00260,Delhi,Janakpuri,Mid-Range,Apartment,1420,2,2,0,2019,Unfurnished,0,1,1,1,0,3,107.81,Synthetic demo record
+DEMO-00261,Delhi,Vasant Kunj,Premium,Apartment,830,2,3,7,2026,Unfurnished,1,1,1,1,0,4,142.79,Synthetic demo record
+DEMO-00262,Delhi,Mayur Vihar,Mid-Range,Apartment,1600,3,3,5,2020,Unfurnished,1,1,1,1,0,4,148.49,Synthetic demo record
+DEMO-00263,Delhi,Narela,Affordable,Apartment,880,1,2,17,2021,Semi-Furnished,1,0,0,1,1,3,52.0,Synthetic demo record
+DEMO-00264,Delhi,Narela,Affordable,Apartment,1080,2,1,2,2018,Unfurnished,1,1,1,0,0,3,68.33,Synthetic demo record
+DEMO-00265,Delhi,Narela,Affordable,Independent House,1080,2,2,15,2023,Unfurnished,1,0,1,0,0,2,80.08,Synthetic demo record
+DEMO-00266,Delhi,Rohini,Mid-Range,Apartment,300,1,1,19,2020,Semi-Furnished,0,1,1,1,0,3,29.41,Synthetic demo record
+DEMO-00267,Delhi,Dwarka Sector 10,Premium,Apartment,990,2,3,13,2020,Unfurnished,1,0,1,1,1,4,130.66,Synthetic demo record
+DEMO-00268,Delhi,Rohini,Mid-Range,Independent House,820,3,3,4,2022,Unfurnished,0,0,0,1,1,2,85.9,Synthetic demo record
+DEMO-00269,Delhi,Burari,Affordable,Apartment,580,1,1,8,2018,Unfurnished,1,1,1,0,0,3,35.82,Synthetic demo record
+DEMO-00270,Delhi,Vasant Kunj,Premium,Apartment,1020,3,2,10,2018,Semi-Furnished,1,1,0,0,0,2,128.0,Synthetic demo record
+DEMO-00271,Delhi,Mayur Vihar,Mid-Range,Villa,1510,2,2,11,2022,Semi-Furnished,0,0,1,0,0,1,184.59,Synthetic demo record
+DEMO-00272,Delhi,Greater Kailash,Premium,Builder Floor,1190,3,2,25,2021,Semi-Furnished,1,1,1,0,0,3,148.37,Synthetic demo record
+DEMO-00273,Delhi,Rohini,Mid-Range,Apartment,1360,3,4,10,2018,Unfurnished,1,0,1,0,0,2,106.17,Synthetic demo record
+DEMO-00274,Delhi,Janakpuri,Mid-Range,Independent House,1360,3,2,21,2025,Unfurnished,1,0,0,1,0,2,137.63,Synthetic demo record
+DEMO-00275,Delhi,Uttam Nagar,Affordable,Apartment,1540,3,3,0,2022,Semi-Furnished,1,1,0,0,0,2,134.14,Synthetic demo record
+DEMO-00276,Delhi,Vasant Kunj,Premium,Independent House,1150,2,2,25,2022,Semi-Furnished,1,0,0,1,1,3,158.96,Synthetic demo record
+DEMO-00277,Delhi,Mayur Vihar,Mid-Range,Villa,510,2,2,15,2021,Unfurnished,1,0,1,1,0,3,52.65,Synthetic demo record
+DEMO-00278,Delhi,Dwarka Sector 10,Premium,Apartment,1280,3,4,13,2019,Unfurnished,0,1,0,1,1,3,174.41,Synthetic demo record
+DEMO-00279,Delhi,Vasant Kunj,Premium,Apartment,720,2,2,9,2023,Furnished,1,1,0,1,0,3,114.24,Synthetic demo record
+DEMO-00280,Delhi,Narela,Affordable,Apartment,1080,2,3,3,2022,Semi-Furnished,1,1,1,0,0,3,89.63,Synthetic demo record
+DEMO-00281,Bengaluru,Yelahanka,Mid-Range,Independent House,1550,2,2,22,2023,Semi-Furnished,1,0,0,0,0,1,147.91,Synthetic demo record
+DEMO-00282,Bengaluru,Kengeri,Affordable,Apartment,370,1,1,1,2018,Unfurnished,0,1,0,0,0,1,21.28,Synthetic demo record
+DEMO-00283,Bengaluru,Yelahanka,Mid-Range,Independent House,660,2,2,9,2026,Furnished,0,0,0,1,0,1,89.44,Synthetic demo record
+DEMO-00284,Bengaluru,Hebbal,Mid-Range,Apartment,350,1,1,18,2019,Unfurnished,0,0,0,1,0,1,26.93,Synthetic demo record
+DEMO-00285,Bengaluru,Hebbal,Mid-Range,Apartment,450,1,1,20,2023,Semi-Furnished,1,0,0,0,1,2,50.54,Synthetic demo record
+DEMO-00286,Bengaluru,Kengeri,Affordable,Apartment,1010,3,3,3,2019,Furnished,1,1,1,1,0,4,77.08,Synthetic demo record
+DEMO-00287,Bengaluru,Koramangala,Premium,Independent House,1600,3,3,20,2022,Semi-Furnished,0,0,0,0,0,0,212.81,Synthetic demo record
+DEMO-00288,Bengaluru,Hoskote,Affordable,Apartment,1230,2,3,24,2020,Semi-Furnished,1,1,1,1,1,5,80.85,Synthetic demo record
+DEMO-00289,Bengaluru,Hoskote,Affordable,Villa,1590,4,4,5,2024,Furnished,1,0,0,0,0,1,156.9,Synthetic demo record
+DEMO-00290,Bengaluru,Kengeri,Affordable,Independent House,1190,2,1,17,2020,Unfurnished,1,0,1,0,0,2,81.88,Synthetic demo record
+DEMO-00291,Bengaluru,Kengeri,Affordable,Apartment,600,1,1,1,2022,Furnished,1,1,1,1,0,4,48.71,Synthetic demo record
+DEMO-00292,Bengaluru,Electronic City,Mid-Range,Villa,1150,2,2,21,2021,Semi-Furnished,1,0,1,0,0,2,134.71,Synthetic demo record
+DEMO-00293,Bengaluru,Electronic City,Mid-Range,Apartment,610,1,1,2,2021,Unfurnished,1,1,1,1,1,5,45.64,Synthetic demo record
+DEMO-00294,Bengaluru,Electronic City,Mid-Range,Builder Floor,1180,2,2,11,2022,Unfurnished,1,1,0,1,0,3,134.94,Synthetic demo record
+DEMO-00295,Bengaluru,Hebbal,Mid-Range,Apartment,1270,2,2,9,2023,Semi-Furnished,1,1,0,1,0,3,148.31,Synthetic demo record
+DEMO-00296,Bengaluru,Bommasandra,Affordable,Apartment,1140,2,3,18,2023,Furnished,1,1,0,1,1,4,72.44,Synthetic demo record
+DEMO-00297,Bengaluru,Koramangala,Premium,Independent House,780,2,3,18,2022,Furnished,1,0,1,0,0,2,128.97,Synthetic demo record
+DEMO-00298,Bengaluru,Yelahanka,Mid-Range,Villa,870,2,1,15,2020,Unfurnished,1,0,1,1,0,3,98.26,Synthetic demo record
+DEMO-00299,Bengaluru,Hebbal,Mid-Range,Apartment,960,2,2,24,2021,Semi-Furnished,1,1,0,0,0,2,80.46,Synthetic demo record
+DEMO-00300,Bengaluru,Hebbal,Mid-Range,Apartment,920,2,2,0,2018,Semi-Furnished,0,1,1,0,1,3,80.78,Synthetic demo record
+DEMO-00301,Bengaluru,Bommasandra,Affordable,Apartment,1000,2,2,2,2018,Semi-Furnished,1,1,1,0,0,3,66.37,Synthetic demo record
+DEMO-00302,Bengaluru,Hoskote,Affordable,Apartment,1320,2,2,25,2018,Furnished,0,1,0,0,0,1,68.24,Synthetic demo record
+DEMO-00303,Bengaluru,Hoskote,Affordable,Independent House,500,2,1,14,2019,Semi-Furnished,0,0,1,0,0,1,33.49,Synthetic demo record
+DEMO-00304,Bengaluru,Hebbal,Mid-Range,Apartment,1030,3,2,23,2025,Unfurnished,0,1,1,1,1,4,121.1,Synthetic demo record
+DEMO-00305,Bengaluru,Bommasandra,Affordable,Builder Floor,840,1,1,5,2025,Unfurnished,1,1,0,1,0,3,80.78,Synthetic demo record
+DEMO-00306,Bengaluru,Electronic City,Mid-Range,Apartment,1040,1,1,10,2020,Semi-Furnished,0,1,1,1,0,3,115.22,Synthetic demo record
+DEMO-00307,Bengaluru,Yelahanka,Mid-Range,Apartment,300,1,1,21,2018,Furnished,1,1,0,1,0,3,22.61,Synthetic demo record
+DEMO-00308,Bengaluru,Yelahanka,Mid-Range,Independent House,1830,3,3,17,2020,Unfurnished,1,0,1,1,0,3,165.45,Synthetic demo record
+DEMO-00309,Bengaluru,Kengeri,Affordable,Apartment,300,1,1,25,2022,Semi-Furnished,1,1,0,0,1,3,21.45,Synthetic demo record
+DEMO-00310,Bengaluru,Hebbal,Mid-Range,Apartment,1490,3,3,15,2019,Unfurnished,0,1,1,1,0,3,108.47,Synthetic demo record
+DEMO-00311,Bengaluru,Yelahanka,Mid-Range,Villa,740,1,1,7,2019,Semi-Furnished,1,0,0,0,0,1,79.57,Synthetic demo record
+DEMO-00312,Bengaluru,Kengeri,Affordable,Apartment,1740,3,2,15,2019,Unfurnished,1,1,0,1,0,3,99.94,Synthetic demo record
+DEMO-00313,Bengaluru,Hebbal,Mid-Range,Apartment,1700,4,3,9,2024,Unfurnished,1,1,1,1,0,4,192.86,Synthetic demo record
+DEMO-00314,Bengaluru,Koramangala,Premium,Apartment,1360,3,4,19,2023,Semi-Furnished,1,1,0,1,0,3,205.72,Synthetic demo record
+DEMO-00315,Bengaluru,Kengeri,Affordable,Independent House,1070,2,2,12,2023,Semi-Furnished,1,0,0,0,0,1,72.38,Synthetic demo record
+DEMO-00316,Bengaluru,Electronic City,Mid-Range,Builder Floor,1140,3,4,19,2025,Semi-Furnished,1,1,0,0,0,2,112.54,Synthetic demo record
+DEMO-00317,Bengaluru,Hebbal,Mid-Range,Apartment,1480,3,2,0,2025,Furnished,1,1,1,0,0,3,205.95,Synthetic demo record
+DEMO-00318,Bengaluru,Koramangala,Premium,Apartment,1880,4,5,9,2024,Unfurnished,1,1,1,1,1,5,348.79,Synthetic demo record
+DEMO-00319,Bengaluru,Kengeri,Affordable,Apartment,430,1,1,0,2022,Furnished,1,1,1,0,0,3,30.57,Synthetic demo record
+DEMO-00320,Bengaluru,Electronic City,Mid-Range,Apartment,1160,3,2,15,2023,Semi-Furnished,0,0,1,0,1,2,123.11,Synthetic demo record
+DEMO-00321,Bengaluru,Electronic City,Mid-Range,Apartment,1540,2,2,12,2025,Semi-Furnished,1,1,0,1,0,3,170.25,Synthetic demo record
+DEMO-00322,Bengaluru,Koramangala,Premium,Apartment,1350,2,3,23,2020,Semi-Furnished,1,1,1,1,0,4,203.77,Synthetic demo record
+DEMO-00323,Bengaluru,Yelahanka,Mid-Range,Apartment,560,1,1,4,2024,Unfurnished,0,0,0,0,0,0,68.39,Synthetic demo record
+DEMO-00324,Bengaluru,Yelahanka,Mid-Range,Independent House,1260,3,4,2,2023,Semi-Furnished,1,0,1,1,0,3,156.08,Synthetic demo record
+DEMO-00325,Bengaluru,Hoskote,Affordable,Apartment,890,2,2,19,2019,Furnished,0,1,1,1,0,3,51.68,Synthetic demo record
+DEMO-00326,Bengaluru,Indiranagar,Premium,Independent House,1520,3,2,13,2023,Furnished,0,0,0,1,0,1,287.75,Synthetic demo record
+DEMO-00327,Bengaluru,Indiranagar,Premium,Apartment,810,2,3,23,2019,Furnished,0,1,1,1,0,3,101.53,Synthetic demo record
+DEMO-00328,Bengaluru,Bommasandra,Affordable,Independent House,940,3,2,5,2026,Unfurnished,1,0,1,0,0,2,95.0,Synthetic demo record
+DEMO-00329,Bengaluru,Hoskote,Affordable,Apartment,670,1,2,15,2022,Semi-Furnished,1,1,1,1,1,5,49.8,Synthetic demo record
+DEMO-00330,Bengaluru,Kengeri,Affordable,Apartment,520,1,1,2,2023,Semi-Furnished,1,1,0,1,0,3,38.18,Synthetic demo record
+DEMO-00331,Bengaluru,Electronic City,Mid-Range,Apartment,920,2,3,4,2019,Semi-Furnished,1,1,0,1,1,4,79.16,Synthetic demo record
+DEMO-00332,Bengaluru,Koramangala,Premium,Apartment,830,1,1,18,2019,Unfurnished,1,1,1,1,0,4,108.53,Synthetic demo record
+DEMO-00333,Bengaluru,Yelahanka,Mid-Range,Villa,440,1,1,18,2022,Semi-Furnished,0,0,1,1,1,3,45.15,Synthetic demo record
+DEMO-00334,Bengaluru,Electronic City,Mid-Range,Independent House,900,2,3,25,2019,Furnished,1,0,1,0,0,2,84.26,Synthetic demo record
+DEMO-00335,Bengaluru,Kengeri,Affordable,Apartment,1310,3,3,9,2018,Semi-Furnished,1,0,0,1,0,2,77.87,Synthetic demo record
+DEMO-00336,Bengaluru,Bommasandra,Affordable,Apartment,1140,2,3,5,2018,Semi-Furnished,1,1,0,1,1,4,68.94,Synthetic demo record
+DEMO-00337,Bengaluru,Kengeri,Affordable,Apartment,940,2,2,0,2020,Unfurnished,1,1,1,0,0,3,63.58,Synthetic demo record
+DEMO-00338,Bengaluru,Whitefield,Premium,Apartment,440,1,1,4,2021,Unfurnished,0,1,1,1,1,4,61.42,Synthetic demo record
+DEMO-00339,Bengaluru,Hebbal,Mid-Range,Apartment,900,1,2,15,2021,Semi-Furnished,0,1,1,0,0,2,74.55,Synthetic demo record
+DEMO-00340,Bengaluru,Hebbal,Mid-Range,Independent House,1180,2,2,17,2020,Semi-Furnished,0,0,1,0,0,1,109.15,Synthetic demo record
+DEMO-00341,Bengaluru,Yelahanka,Mid-Range,Independent House,840,1,1,7,2025,Semi-Furnished,1,0,0,0,0,1,120.21,Synthetic demo record
+DEMO-00342,Bengaluru,Koramangala,Premium,Villa,990,2,2,17,2018,Semi-Furnished,1,0,1,0,0,2,131.45,Synthetic demo record
+DEMO-00343,Bengaluru,Yelahanka,Mid-Range,Apartment,1250,2,2,16,2024,Semi-Furnished,1,1,0,0,0,2,138.13,Synthetic demo record
+DEMO-00344,Bengaluru,Electronic City,Mid-Range,Builder Floor,1130,2,3,10,2024,Semi-Furnished,1,1,0,1,0,3,152.82,Synthetic demo record
+DEMO-00345,Bengaluru,Hebbal,Mid-Range,Independent House,970,3,3,0,2019,Semi-Furnished,1,0,1,1,0,3,102.78,Synthetic demo record
+DEMO-00346,Bengaluru,Electronic City,Mid-Range,Apartment,1320,2,2,4,2023,Unfurnished,1,0,0,1,0,2,151.98,Synthetic demo record
+DEMO-00347,Bengaluru,Whitefield,Premium,Independent House,300,1,1,12,2023,Semi-Furnished,1,0,0,0,1,2,49.41,Synthetic demo record
+DEMO-00348,Bengaluru,Hebbal,Mid-Range,Apartment,1200,2,3,25,2023,Semi-Furnished,1,0,1,1,0,3,96.24,Synthetic demo record
+DEMO-00349,Bengaluru,Hebbal,Mid-Range,Apartment,690,2,2,25,2020,Semi-Furnished,1,1,1,0,1,4,44.62,Synthetic demo record
+DEMO-00350,Bengaluru,Yelahanka,Mid-Range,Apartment,720,1,1,25,2026,Semi-Furnished,1,1,1,0,0,3,77.74,Synthetic demo record
+DEMO-00351,Bengaluru,Koramangala,Premium,Independent House,1170,2,1,14,2025,Unfurnished,1,0,1,1,0,3,157.38,Synthetic demo record
+DEMO-00352,Bengaluru,Yelahanka,Mid-Range,Apartment,1230,2,3,17,2022,Unfurnished,0,0,1,1,0,2,134.65,Synthetic demo record
+DEMO-00353,Bengaluru,Electronic City,Mid-Range,Apartment,990,2,1,17,2023,Unfurnished,1,1,1,0,1,4,93.52,Synthetic demo record
+DEMO-00354,Bengaluru,Hoskote,Affordable,Apartment,880,2,2,3,2023,Unfurnished,0,1,1,0,0,2,72.45,Synthetic demo record
+DEMO-00355,Bengaluru,Bommasandra,Affordable,Apartment,1140,1,1,7,2023,Unfurnished,1,1,1,1,1,5,106.02,Synthetic demo record
+DEMO-00356,Bengaluru,Hebbal,Mid-Range,Builder Floor,920,2,2,8,2021,Semi-Furnished,1,1,0,0,0,2,78.89,Synthetic demo record
+DEMO-00357,Bengaluru,Hebbal,Mid-Range,Independent House,1490,2,3,1,2021,Unfurnished,0,0,0,0,0,0,166.84,Synthetic demo record
+DEMO-00358,Bengaluru,Indiranagar,Premium,Apartment,480,1,1,5,2020,Unfurnished,1,1,0,1,0,3,70.49,Synthetic demo record
+DEMO-00359,Bengaluru,Hebbal,Mid-Range,Apartment,900,2,2,18,2022,Semi-Furnished,1,1,1,1,0,4,84.81,Synthetic demo record
+DEMO-00360,Bengaluru,Yelahanka,Mid-Range,Independent House,1040,2,2,1,2021,Unfurnished,1,0,1,0,0,2,115.08,Synthetic demo record
+DEMO-00361,Bengaluru,Kengeri,Affordable,Builder Floor,1310,2,3,22,2025,Furnished,1,0,1,0,0,2,107.51,Synthetic demo record
+DEMO-00362,Bengaluru,Hebbal,Mid-Range,Apartment,1460,3,3,17,2018,Semi-Furnished,1,0,1,0,0,2,125.4,Synthetic demo record
+DEMO-00363,Bengaluru,Bommasandra,Affordable,Apartment,1300,3,3,6,2022,Unfurnished,0,1,1,0,0,2,100.81,Synthetic demo record
+DEMO-00364,Bengaluru,Hebbal,Mid-Range,Apartment,720,2,3,24,2023,Semi-Furnished,1,1,1,0,0,3,63.97,Synthetic demo record
+DEMO-00365,Bengaluru,Bommasandra,Affordable,Apartment,980,2,2,7,2021,Semi-Furnished,0,1,1,0,0,2,69.74,Synthetic demo record
+DEMO-00366,Bengaluru,Koramangala,Premium,Apartment,820,1,1,14,2022,Furnished,0,1,1,0,0,2,133.1,Synthetic demo record
+DEMO-00367,Bengaluru,Koramangala,Premium,Independent House,300,1,1,15,2022,Semi-Furnished,1,0,1,0,0,2,42.19,Synthetic demo record
+DEMO-00368,Bengaluru,Whitefield,Premium,Apartment,970,2,2,4,2020,Unfurnished,0,0,0,0,0,0,129.97,Synthetic demo record
+DEMO-00369,Bengaluru,Yelahanka,Mid-Range,Independent House,760,1,1,4,2021,Unfurnished,1,0,1,1,1,4,79.12,Synthetic demo record
+DEMO-00370,Bengaluru,Whitefield,Premium,Apartment,1190,2,1,6,2024,Unfurnished,1,1,1,1,1,5,243.56,Synthetic demo record
+DEMO-00371,Bengaluru,Yelahanka,Mid-Range,Apartment,1520,4,4,10,2025,Semi-Furnished,1,1,1,0,0,3,184.32,Synthetic demo record
+DEMO-00372,Bengaluru,Bommasandra,Affordable,Villa,1200,2,1,5,2026,Unfurnished,0,0,0,0,1,1,151.76,Synthetic demo record
+DEMO-00373,Bengaluru,Whitefield,Premium,Apartment,640,1,1,7,2024,Unfurnished,1,1,0,1,1,4,116.04,Synthetic demo record
+DEMO-00374,Bengaluru,Bommasandra,Affordable,Independent House,1020,3,3,2,2022,Furnished,1,0,1,0,0,2,78.89,Synthetic demo record
+DEMO-00375,Bengaluru,Electronic City,Mid-Range,Apartment,880,1,2,24,2024,Unfurnished,1,1,0,0,1,3,72.42,Synthetic demo record
+DEMO-00376,Bengaluru,Kengeri,Affordable,Builder Floor,450,1,2,19,2025,Furnished,1,0,0,0,1,2,40.38,Synthetic demo record
+DEMO-00377,Bengaluru,Whitefield,Premium,Apartment,750,1,1,20,2021,Unfurnished,1,1,0,1,1,4,95.38,Synthetic demo record
+DEMO-00378,Bengaluru,Koramangala,Premium,Independent House,770,2,3,23,2020,Unfurnished,1,0,0,1,0,2,97.22,Synthetic demo record
+DEMO-00379,Bengaluru,Kengeri,Affordable,Villa,970,1,1,25,2018,Semi-Furnished,1,0,1,1,1,4,53.21,Synthetic demo record
+DEMO-00380,Bengaluru,Yelahanka,Mid-Range,Independent House,1400,3,2,8,2018,Furnished,1,0,1,0,0,2,147.36,Synthetic demo record
+DEMO-00381,Bengaluru,Whitefield,Premium,Apartment,1590,3,2,17,2020,Semi-Furnished,1,0,1,0,0,2,182.38,Synthetic demo record
+DEMO-00382,Bengaluru,Bommasandra,Affordable,Apartment,690,1,1,6,2021,Semi-Furnished,1,1,1,1,0,4,49.54,Synthetic demo record
+DEMO-00383,Bengaluru,Yelahanka,Mid-Range,Apartment,830,2,1,4,2025,Semi-Furnished,1,1,1,0,1,4,105.71,Synthetic demo record
+DEMO-00384,Bengaluru,Yelahanka,Mid-Range,Independent House,1320,2,2,23,2021,Unfurnished,0,0,1,1,0,2,119.41,Synthetic demo record
+DEMO-00385,Bengaluru,Kengeri,Affordable,Independent House,1180,2,2,2,2023,Unfurnished,1,0,1,1,0,3,109.37,Synthetic demo record
+DEMO-00386,Bengaluru,Kengeri,Affordable,Villa,850,1,1,5,2024,Unfurnished,1,0,1,1,0,3,96.94,Synthetic demo record
+DEMO-00387,Bengaluru,Electronic City,Mid-Range,Apartment,550,2,1,6,2023,Unfurnished,0,0,1,1,0,2,51.46,Synthetic demo record
+DEMO-00388,Bengaluru,Bommasandra,Affordable,Independent House,1410,3,3,25,2025,Unfurnished,1,0,0,0,1,2,115.53,Synthetic demo record
+DEMO-00389,Bengaluru,Kengeri,Affordable,Apartment,960,1,2,11,2020,Furnished,1,1,0,0,1,3,68.46,Synthetic demo record
+DEMO-00390,Bengaluru,Yelahanka,Mid-Range,Apartment,1110,1,1,0,2019,Unfurnished,1,0,1,0,1,3,93.33,Synthetic demo record
+DEMO-00391,Bengaluru,Kengeri,Affordable,Apartment,950,2,3,18,2025,Semi-Furnished,0,0,1,0,1,2,83.56,Synthetic demo record
+DEMO-00392,Bengaluru,Hoskote,Affordable,Apartment,370,1,1,9,2021,Semi-Furnished,1,0,0,1,1,3,23.38,Synthetic demo record
+DEMO-00393,Bengaluru,Electronic City,Mid-Range,Apartment,1720,4,4,25,2018,Furnished,0,1,0,1,0,2,140.97,Synthetic demo record
+DEMO-00394,Bengaluru,Koramangala,Premium,Apartment,1830,3,3,13,2022,Furnished,1,1,1,0,0,3,327.24,Synthetic demo record
+DEMO-00395,Bengaluru,Electronic City,Mid-Range,Apartment,1010,2,2,13,2026,Semi-Furnished,1,1,1,0,0,3,103.73,Synthetic demo record
+DEMO-00396,Bengaluru,Yelahanka,Mid-Range,Apartment,850,2,2,11,2025,Unfurnished,1,1,1,0,0,3,80.6,Synthetic demo record
+DEMO-00397,Bengaluru,Electronic City,Mid-Range,Villa,300,1,2,1,2019,Semi-Furnished,0,0,0,1,0,1,33.33,Synthetic demo record
+DEMO-00398,Bengaluru,Yelahanka,Mid-Range,Apartment,790,2,2,16,2018,Semi-Furnished,1,1,0,1,1,4,61.15,Synthetic demo record
+DEMO-00399,Bengaluru,Hoskote,Affordable,Apartment,1530,2,2,20,2026,Semi-Furnished,1,1,0,0,0,2,122.23,Synthetic demo record
+DEMO-00400,Bengaluru,Indiranagar,Premium,Independent House,1380,3,4,1,2018,Semi-Furnished,1,0,0,1,0,2,183.71,Synthetic demo record
+DEMO-00401,Bengaluru,Koramangala,Premium,Builder Floor,800,1,1,19,2023,Semi-Furnished,1,1,0,0,0,2,130.38,Synthetic demo record
+DEMO-00402,Bengaluru,Hebbal,Mid-Range,Apartment,440,1,2,19,2018,Semi-Furnished,1,1,1,1,0,4,32.34,Synthetic demo record
+DEMO-00403,Bengaluru,Hebbal,Mid-Range,Independent House,1410,2,1,3,2018,Unfurnished,0,0,1,1,1,3,138.39,Synthetic demo record
+DEMO-00404,Bengaluru,Indiranagar,Premium,Apartment,600,1,1,9,2021,Semi-Furnished,1,1,1,1,0,4,92.15,Synthetic demo record
+DEMO-00405,Bengaluru,Hoskote,Affordable,Apartment,990,2,2,23,2020,Semi-Furnished,0,0,1,0,0,1,59.07,Synthetic demo record
+DEMO-00406,Bengaluru,Electronic City,Mid-Range,Independent House,950,2,1,1,2019,Furnished,1,0,1,0,0,2,94.23,Synthetic demo record
+DEMO-00407,Bengaluru,Yelahanka,Mid-Range,Villa,300,1,1,19,2020,Semi-Furnished,1,0,0,0,0,1,30.08,Synthetic demo record
+DEMO-00408,Bengaluru,Hebbal,Mid-Range,Apartment,1160,3,2,10,2020,Semi-Furnished,1,0,1,1,0,3,110.51,Synthetic demo record
+DEMO-00409,Bengaluru,Hoskote,Affordable,Independent House,1020,2,2,22,2022,Semi-Furnished,1,0,1,1,0,3,67.78,Synthetic demo record
+DEMO-00410,Bengaluru,Hebbal,Mid-Range,Apartment,920,2,2,9,2022,Unfurnished,1,0,1,0,0,2,89.0,Synthetic demo record
+DEMO-00411,Bengaluru,Kengeri,Affordable,Apartment,850,2,3,17,2018,Unfurnished,1,1,1,0,0,3,40.0,Synthetic demo record
+DEMO-00412,Bengaluru,Hebbal,Mid-Range,Apartment,880,2,1,6,2026,Semi-Furnished,1,1,1,0,0,3,106.61,Synthetic demo record
+DEMO-00413,Bengaluru,Electronic City,Mid-Range,Apartment,720,1,1,5,2024,Furnished,1,1,0,0,0,2,95.7,Synthetic demo record
+DEMO-00414,Bengaluru,Electronic City,Mid-Range,Apartment,830,1,2,12,2018,Unfurnished,1,0,0,0,0,1,64.79,Synthetic demo record
+DEMO-00415,Bengaluru,Koramangala,Premium,Apartment,890,2,2,6,2019,Unfurnished,1,1,1,0,0,3,113.38,Synthetic demo record
+DEMO-00416,Bengaluru,Hebbal,Mid-Range,Apartment,300,1,2,9,2018,Furnished,0,1,0,0,1,2,21.49,Synthetic demo record
+DEMO-00417,Bengaluru,Whitefield,Premium,Villa,930,2,3,18,2024,Furnished,0,0,1,0,0,1,179.83,Synthetic demo record
+DEMO-00418,Bengaluru,Yelahanka,Mid-Range,Independent House,1490,3,4,18,2023,Unfurnished,1,0,0,0,0,1,142.04,Synthetic demo record
+DEMO-00419,Bengaluru,Yelahanka,Mid-Range,Apartment,600,1,1,24,2020,Semi-Furnished,0,1,1,1,0,3,50.97,Synthetic demo record
+DEMO-00420,Bengaluru,Electronic City,Mid-Range,Apartment,1260,2,3,8,2022,Semi-Furnished,1,1,0,0,0,2,134.21,Synthetic demo record
+DEMO-00421,Hyderabad,Miyapur,Mid-Range,Apartment,310,1,1,3,2024,Furnished,1,1,0,1,0,3,28.59,Synthetic demo record
+DEMO-00422,Hyderabad,Kompally,Affordable,Independent House,660,1,1,14,2022,Semi-Furnished,1,0,0,1,0,2,41.54,Synthetic demo record
+DEMO-00423,Hyderabad,Gachibowli,Premium,Apartment,1230,2,2,5,2022,Unfurnished,1,1,1,0,0,3,150.22,Synthetic demo record
+DEMO-00424,Hyderabad,Gachibowli,Premium,Apartment,1020,2,3,20,2026,Semi-Furnished,0,1,1,0,0,2,133.07,Synthetic demo record
+DEMO-00425,Hyderabad,Kompally,Affordable,Villa,1900,3,3,19,2023,Semi-Furnished,0,0,0,0,0,0,129.87,Synthetic demo record
+DEMO-00426,Hyderabad,Kompally,Affordable,Apartment,720,1,2,23,2020,Unfurnished,1,1,1,0,0,3,28.69,Synthetic demo record
+DEMO-00427,Hyderabad,Manikonda,Mid-Range,Villa,300,1,1,18,2020,Unfurnished,1,0,1,0,1,3,24.62,Synthetic demo record
+DEMO-00428,Hyderabad,Kondapur,Mid-Range,Apartment,1680,3,3,25,2024,Semi-Furnished,0,1,1,0,0,2,144.14,Synthetic demo record
+DEMO-00429,Hyderabad,Miyapur,Mid-Range,Apartment,1610,3,3,18,2020,Unfurnished,1,0,1,1,0,3,124.48,Synthetic demo record
+DEMO-00430,Hyderabad,Gachibowli,Premium,Apartment,700,2,1,3,2020,Semi-Furnished,1,1,0,0,0,2,87.83,Synthetic demo record
+DEMO-00431,Hyderabad,Kompally,Affordable,Apartment,1470,2,1,22,2019,Semi-Furnished,1,1,1,0,0,3,65.8,Synthetic demo record
+DEMO-00432,Hyderabad,Jubilee Hills,Premium,Apartment,680,1,1,12,2019,Semi-Furnished,1,1,0,1,0,3,67.77,Synthetic demo record
+DEMO-00433,Hyderabad,Jubilee Hills,Premium,Builder Floor,1060,2,2,15,2022,Furnished,0,1,1,0,0,2,138.89,Synthetic demo record
+DEMO-00434,Hyderabad,Gachibowli,Premium,Independent House,850,1,1,13,2026,Unfurnished,1,0,0,1,0,2,122.97,Synthetic demo record
+DEMO-00435,Hyderabad,Kondapur,Mid-Range,Builder Floor,890,2,2,3,2024,Unfurnished,1,1,1,1,1,5,90.34,Synthetic demo record
+DEMO-00436,Hyderabad,Manikonda,Mid-Range,Apartment,1600,3,4,17,2018,Furnished,1,1,0,1,1,4,113.91,Synthetic demo record
+DEMO-00437,Hyderabad,LB Nagar,Affordable,Apartment,1940,3,3,12,2021,Unfurnished,1,1,1,0,0,3,108.05,Synthetic demo record
+DEMO-00438,Hyderabad,Kondapur,Mid-Range,Apartment,1370,3,4,3,2026,Unfurnished,1,0,0,1,0,2,120.62,Synthetic demo record
+DEMO-00439,Hyderabad,Kompally,Affordable,Apartment,300,1,1,20,2019,Semi-Furnished,0,0,1,1,0,2,14.5,Synthetic demo record
+DEMO-00440,Hyderabad,Kondapur,Mid-Range,Apartment,940,1,2,13,2024,Unfurnished,1,1,1,0,0,3,83.77,Synthetic demo record
+DEMO-00441,Hyderabad,Banjara Hills,Premium,Independent House,840,1,1,18,2023,Unfurnished,0,0,0,0,0,0,115.13,Synthetic demo record
+DEMO-00442,Hyderabad,Uppal,Affordable,Villa,670,2,1,0,2019,Semi-Furnished,0,0,1,0,0,1,50.35,Synthetic demo record
+DEMO-00443,Hyderabad,Kompally,Affordable,Apartment,630,1,2,4,2019,Semi-Furnished,0,1,0,0,0,1,32.61,Synthetic demo record
+DEMO-00444,Hyderabad,Kompally,Affordable,Apartment,720,1,1,8,2025,Furnished,1,1,0,1,0,3,52.36,Synthetic demo record
+DEMO-00445,Hyderabad,Miyapur,Mid-Range,Apartment,1110,2,1,2,2024,Unfurnished,1,1,1,0,0,3,129.93,Synthetic demo record
+DEMO-00446,Hyderabad,Kondapur,Mid-Range,Builder Floor,1340,3,4,25,2018,Semi-Furnished,0,1,0,0,0,1,94.56,Synthetic demo record
+DEMO-00447,Hyderabad,Kondapur,Mid-Range,Independent House,1220,3,3,11,2020,Unfurnished,1,0,1,1,1,4,100.28,Synthetic demo record
+DEMO-00448,Hyderabad,Kompally,Affordable,Apartment,810,1,2,12,2026,Unfurnished,0,0,1,1,0,2,64.1,Synthetic demo record
+DEMO-00449,Hyderabad,Kondapur,Mid-Range,Apartment,1270,2,2,9,2019,Semi-Furnished,1,1,1,0,1,4,102.82,Synthetic demo record
+DEMO-00450,Hyderabad,Gachibowli,Premium,Apartment,520,1,2,12,2018,Unfurnished,1,1,1,1,0,4,50.49,Synthetic demo record
+DEMO-00451,Hyderabad,Jubilee Hills,Premium,Villa,1030,1,1,0,2024,Semi-Furnished,0,0,1,0,0,1,178.27,Synthetic demo record
+DEMO-00452,Hyderabad,Manikonda,Mid-Range,Villa,300,1,1,1,2022,Semi-Furnished,0,0,0,0,0,0,26.94,Synthetic demo record
+DEMO-00453,Hyderabad,Uppal,Affordable,Apartment,570,1,2,15,2026,Furnished,1,1,1,1,0,4,38.9,Synthetic demo record
+DEMO-00454,Hyderabad,LB Nagar,Affordable,Apartment,870,2,1,2,2018,Unfurnished,0,1,1,1,0,3,53.75,Synthetic demo record
+DEMO-00455,Hyderabad,Gachibowli,Premium,Independent House,1240,2,2,24,2020,Unfurnished,1,0,1,0,0,2,133.67,Synthetic demo record
+DEMO-00456,Hyderabad,Manikonda,Mid-Range,Apartment,1120,2,3,10,2021,Semi-Furnished,1,1,1,0,0,3,75.28,Synthetic demo record
+DEMO-00457,Hyderabad,Kondapur,Mid-Range,Apartment,980,2,2,15,2020,Unfurnished,1,1,1,1,1,5,73.96,Synthetic demo record
+DEMO-00458,Hyderabad,Uppal,Affordable,Apartment,420,1,1,12,2019,Furnished,1,0,1,1,0,3,22.04,Synthetic demo record
+DEMO-00459,Hyderabad,Kompally,Affordable,Independent House,1330,2,2,21,2026,Semi-Furnished,1,0,0,0,0,1,83.43,Synthetic demo record
+DEMO-00460,Hyderabad,Banjara Hills,Premium,Apartment,1110,2,1,22,2021,Semi-Furnished,0,1,0,1,0,2,125.66,Synthetic demo record
+DEMO-00461,Hyderabad,Manikonda,Mid-Range,Apartment,2170,4,3,10,2022,Furnished,1,0,0,0,0,1,210.58,Synthetic demo record
+DEMO-00462,Hyderabad,LB Nagar,Affordable,Apartment,430,1,1,21,2020,Semi-Furnished,1,1,1,0,0,3,21.69,Synthetic demo record
+DEMO-00463,Hyderabad,LB Nagar,Affordable,Builder Floor,1280,2,2,10,2018,Furnished,1,1,1,0,0,3,64.41,Synthetic demo record
+DEMO-00464,Hyderabad,Jubilee Hills,Premium,Apartment,1630,2,3,0,2024,Semi-Furnished,1,1,1,0,0,3,261.19,Synthetic demo record
+DEMO-00465,Hyderabad,LB Nagar,Affordable,Apartment,700,1,1,23,2019,Unfurnished,1,0,1,0,1,3,33.25,Synthetic demo record
+DEMO-00466,Hyderabad,Miyapur,Mid-Range,Apartment,1180,3,3,10,2026,Furnished,1,1,1,0,0,3,132.13,Synthetic demo record
+DEMO-00467,Hyderabad,LB Nagar,Affordable,Independent House,1250,3,4,13,2019,Unfurnished,0,0,1,0,0,1,57.99,Synthetic demo record
+DEMO-00468,Hyderabad,Manikonda,Mid-Range,Apartment,1190,2,3,4,2021,Semi-Furnished,0,1,0,1,0,2,97.37,Synthetic demo record
+DEMO-00469,Hyderabad,Miyapur,Mid-Range,Apartment,870,2,1,16,2022,Furnished,0,1,0,1,0,2,88.17,Synthetic demo record
+DEMO-00470,Hyderabad,Jubilee Hills,Premium,Apartment,1530,3,2,17,2023,Furnished,1,1,1,0,0,3,191.02,Synthetic demo record
+DEMO-00471,Hyderabad,LB Nagar,Affordable,Apartment,420,1,1,18,2023,Unfurnished,0,0,1,0,1,2,24.4,Synthetic demo record
+DEMO-00472,Hyderabad,LB Nagar,Affordable,Independent House,1200,3,2,13,2024,Semi-Furnished,1,0,0,0,0,1,87.23,Synthetic demo record
+DEMO-00473,Hyderabad,Gachibowli,Premium,Apartment,870,2,1,4,2020,Unfurnished,1,1,1,1,1,5,99.52,Synthetic demo record
+DEMO-00474,Hyderabad,Kondapur,Mid-Range,Apartment,1090,2,3,17,2020,Unfurnished,1,0,0,0,0,1,71.99,Synthetic demo record
+DEMO-00475,Hyderabad,Gachibowli,Premium,Villa,1280,2,3,25,2026,Unfurnished,0,0,0,0,1,1,212.34,Synthetic demo record
+DEMO-00476,Hyderabad,Kompally,Affordable,Apartment,1000,2,1,13,2025,Unfurnished,1,1,0,1,0,3,68.86,Synthetic demo record
+DEMO-00477,Hyderabad,LB Nagar,Affordable,Apartment,780,2,2,25,2019,Semi-Furnished,0,1,1,0,1,3,35.87,Synthetic demo record
+DEMO-00478,Hyderabad,Jubilee Hills,Premium,Apartment,960,2,1,18,2018,Unfurnished,0,1,1,1,1,4,96.94,Synthetic demo record
+DEMO-00479,Hyderabad,Kondapur,Mid-Range,Independent House,850,1,1,18,2023,Unfurnished,1,0,1,1,1,4,83.18,Synthetic demo record
+DEMO-00480,Hyderabad,Manikonda,Mid-Range,Villa,1060,2,1,5,2021,Unfurnished,1,0,1,1,0,3,101.74,Synthetic demo record
+DEMO-00481,Hyderabad,Gachibowli,Premium,Apartment,1240,2,2,18,2021,Unfurnished,1,0,0,0,0,1,112.72,Synthetic demo record
+DEMO-00482,Hyderabad,Miyapur,Mid-Range,Apartment,940,2,1,20,2018,Unfurnished,1,0,0,1,0,2,61.09,Synthetic demo record
+DEMO-00483,Hyderabad,Kompally,Affordable,Independent House,1280,2,3,2,2021,Unfurnished,1,0,0,1,0,2,70.94,Synthetic demo record
+DEMO-00484,Hyderabad,Manikonda,Mid-Range,Villa,1330,2,1,14,2018,Furnished,1,0,1,1,0,3,119.74,Synthetic demo record
+DEMO-00485,Hyderabad,Jubilee Hills,Premium,Independent House,300,1,1,12,2022,Furnished,1,0,1,0,0,2,41.13,Synthetic demo record
+DEMO-00486,Hyderabad,Uppal,Affordable,Apartment,940,2,1,17,2025,Semi-Furnished,1,1,1,0,0,3,63.35,Synthetic demo record
+DEMO-00487,Hyderabad,Kondapur,Mid-Range,Apartment,1460,3,4,17,2023,Semi-Furnished,1,1,0,0,0,2,123.81,Synthetic demo record
+DEMO-00488,Hyderabad,Miyapur,Mid-Range,Apartment,1130,2,2,20,2019,Semi-Furnished,1,1,1,1,0,4,77.15,Synthetic demo record
+DEMO-00489,Hyderabad,Uppal,Affordable,Apartment,1070,2,2,13,2024,Furnished,1,1,0,0,0,2,72.65,Synthetic demo record
+DEMO-00490,Hyderabad,Miyapur,Mid-Range,Apartment,1650,2,2,22,2020,Semi-Furnished,1,0,0,0,0,1,92.8,Synthetic demo record
+DEMO-00491,Hyderabad,Kondapur,Mid-Range,Apartment,1190,3,3,23,2019,Furnished,0,1,1,0,0,2,74.1,Synthetic demo record
+DEMO-00492,Hyderabad,Gachibowli,Premium,Apartment,1370,2,3,10,2022,Unfurnished,1,1,1,1,0,4,193.54,Synthetic demo record
+DEMO-00493,Hyderabad,Kondapur,Mid-Range,Independent House,1290,2,2,15,2024,Unfurnished,1,0,1,0,0,2,115.04,Synthetic demo record
+DEMO-00494,Hyderabad,Miyapur,Mid-Range,Apartment,560,2,2,18,2026,Unfurnished,0,0,0,0,0,0,47.36,Synthetic demo record
+DEMO-00495,Hyderabad,Jubilee Hills,Premium,Independent House,1270,3,4,5,2020,Semi-Furnished,1,0,0,0,0,1,131.21,Synthetic demo record
+DEMO-00496,Hyderabad,Miyapur,Mid-Range,Independent House,300,1,1,6,2023,Semi-Furnished,1,0,1,1,1,4,27.81,Synthetic demo record
+DEMO-00497,Hyderabad,Uppal,Affordable,Apartment,1430,3,3,7,2022,Furnished,1,1,0,1,0,3,93.78,Synthetic demo record
+DEMO-00498,Hyderabad,Manikonda,Mid-Range,Apartment,940,2,3,2,2026,Unfurnished,1,1,1,0,0,3,107.19,Synthetic demo record
+DEMO-00499,Hyderabad,Banjara Hills,Premium,Independent House,540,1,1,5,2024,Semi-Furnished,1,0,1,1,0,3,91.89,Synthetic demo record
+DEMO-00500,Hyderabad,Jubilee Hills,Premium,Apartment,750,1,1,25,2025,Unfurnished,0,0,1,1,0,2,101.43,Synthetic demo record
+DEMO-00501,Hyderabad,Jubilee Hills,Premium,Apartment,1280,3,3,2,2020,Furnished,1,1,0,0,0,2,182.25,Synthetic demo record
+DEMO-00502,Hyderabad,Jubilee Hills,Premium,Independent House,1330,2,2,21,2021,Unfurnished,0,0,1,1,0,2,143.5,Synthetic demo record
+DEMO-00503,Hyderabad,Kondapur,Mid-Range,Apartment,980,2,3,15,2021,Semi-Furnished,1,1,1,1,0,4,90.34,Synthetic demo record
+DEMO-00504,Hyderabad,Miyapur,Mid-Range,Apartment,1170,3,3,0,2023,Unfurnished,1,1,1,0,1,4,104.21,Synthetic demo record
+DEMO-00505,Hyderabad,Kompally,Affordable,Apartment,740,1,2,21,2021,Semi-Furnished,1,1,1,1,0,4,32.92,Synthetic demo record
+DEMO-00506,Hyderabad,Manikonda,Mid-Range,Apartment,1500,3,3,12,2025,Semi-Furnished,1,1,0,0,0,2,149.3,Synthetic demo record
+DEMO-00507,Hyderabad,Jubilee Hills,Premium,Apartment,1020,2,2,11,2022,Semi-Furnished,1,1,1,0,1,4,131.27,Synthetic demo record
+DEMO-00508,Hyderabad,Banjara Hills,Premium,Apartment,650,2,2,14,2021,Unfurnished,1,1,1,0,1,4,67.09,Synthetic demo record
+DEMO-00509,Hyderabad,Kondapur,Mid-Range,Apartment,1220,2,1,4,2022,Unfurnished,1,1,0,0,0,2,100.57,Synthetic demo record
+DEMO-00510,Hyderabad,Miyapur,Mid-Range,Independent House,1380,3,3,11,2023,Unfurnished,1,0,1,0,1,3,139.72,Synthetic demo record
+DEMO-00511,Hyderabad,Gachibowli,Premium,Independent House,1390,4,4,1,2018,Furnished,0,0,1,0,1,2,177.85,Synthetic demo record
+DEMO-00512,Hyderabad,Miyapur,Mid-Range,Apartment,1330,2,2,23,2021,Semi-Furnished,1,1,1,1,1,5,113.71,Synthetic demo record
+DEMO-00513,Hyderabad,LB Nagar,Affordable,Independent House,850,2,1,24,2020,Unfurnished,1,0,1,0,0,2,45.37,Synthetic demo record
+DEMO-00514,Hyderabad,Kondapur,Mid-Range,Apartment,1530,3,3,24,2018,Semi-Furnished,0,1,0,1,1,3,108.63,Synthetic demo record
+DEMO-00515,Hyderabad,Kompally,Affordable,Villa,860,2,3,25,2022,Semi-Furnished,0,0,1,1,0,2,53.59,Synthetic demo record
+DEMO-00516,Hyderabad,Kondapur,Mid-Range,Villa,460,1,2,25,2020,Semi-Furnished,0,0,1,1,0,2,37.49,Synthetic demo record
+DEMO-00517,Hyderabad,Kondapur,Mid-Range,Independent House,840,1,1,16,2019,Semi-Furnished,1,0,0,0,0,1,54.57,Synthetic demo record
+DEMO-00518,Hyderabad,Kondapur,Mid-Range,Apartment,1020,2,3,24,2024,Semi-Furnished,1,1,1,1,0,4,93.14,Synthetic demo record
+DEMO-00519,Hyderabad,Kompally,Affordable,Apartment,880,1,1,11,2025,Unfurnished,0,0,0,1,1,2,61.35,Synthetic demo record
+DEMO-00520,Hyderabad,Manikonda,Mid-Range,Villa,1150,2,2,6,2023,Unfurnished,1,0,0,0,1,2,138.16,Synthetic demo record
+DEMO-00521,Hyderabad,Miyapur,Mid-Range,Builder Floor,610,2,3,2,2020,Semi-Furnished,1,1,1,1,0,4,62.91,Synthetic demo record
+DEMO-00522,Hyderabad,Kondapur,Mid-Range,Apartment,1340,3,3,4,2024,Furnished,1,1,0,1,1,4,119.71,Synthetic demo record
+DEMO-00523,Hyderabad,Kompally,Affordable,Builder Floor,1020,2,3,14,2025,Unfurnished,1,1,1,0,0,3,77.44,Synthetic demo record
+DEMO-00524,Hyderabad,Banjara Hills,Premium,Villa,1680,3,3,24,2019,Unfurnished,1,0,1,0,0,2,160.95,Synthetic demo record
+DEMO-00525,Hyderabad,Miyapur,Mid-Range,Independent House,350,1,1,6,2018,Semi-Furnished,1,0,0,1,0,2,20.19,Synthetic demo record
+DEMO-00526,Hyderabad,LB Nagar,Affordable,Apartment,1650,3,3,12,2024,Semi-Furnished,0,0,0,1,0,1,123.6,Synthetic demo record
+DEMO-00527,Hyderabad,Miyapur,Mid-Range,Apartment,1750,3,2,0,2022,Semi-Furnished,1,1,1,0,0,3,158.91,Synthetic demo record
+DEMO-00528,Hyderabad,LB Nagar,Affordable,Apartment,1280,2,3,22,2024,Semi-Furnished,0,0,0,1,0,1,77.61,Synthetic demo record
+DEMO-00529,Hyderabad,Kondapur,Mid-Range,Apartment,1790,3,3,23,2019,Furnished,1,1,1,0,0,3,129.03,Synthetic demo record
+DEMO-00530,Hyderabad,Banjara Hills,Premium,Apartment,1380,2,1,3,2026,Unfurnished,1,1,0,0,1,3,228.82,Synthetic demo record
+DEMO-00531,Hyderabad,Manikonda,Mid-Range,Apartment,650,2,2,7,2025,Semi-Furnished,1,1,0,0,0,2,51.66,Synthetic demo record
+DEMO-00532,Hyderabad,Manikonda,Mid-Range,Villa,1190,2,1,12,2019,Semi-Furnished,1,0,1,1,0,3,118.47,Synthetic demo record
+DEMO-00533,Hyderabad,Kompally,Affordable,Apartment,1380,3,3,1,2023,Semi-Furnished,0,1,0,0,0,1,98.0,Synthetic demo record
+DEMO-00534,Hyderabad,Miyapur,Mid-Range,Independent House,1410,2,3,7,2018,Semi-Furnished,1,0,0,1,0,2,100.79,Synthetic demo record
+DEMO-00535,Hyderabad,LB Nagar,Affordable,Apartment,1580,3,2,14,2024,Unfurnished,1,1,0,1,0,3,115.19,Synthetic demo record
+DEMO-00536,Hyderabad,Miyapur,Mid-Range,Apartment,960,2,2,21,2018,Semi-Furnished,1,1,0,0,0,2,55.45,Synthetic demo record
+DEMO-00537,Hyderabad,LB Nagar,Affordable,Apartment,1310,2,2,9,2022,Furnished,1,1,0,1,1,4,80.6,Synthetic demo record
+DEMO-00538,Hyderabad,Jubilee Hills,Premium,Apartment,770,1,1,25,2022,Unfurnished,1,0,1,0,0,2,96.63,Synthetic demo record
+DEMO-00539,Hyderabad,Kompally,Affordable,Apartment,1270,2,2,21,2018,Unfurnished,0,1,1,0,0,2,53.25,Synthetic demo record
+DEMO-00540,Hyderabad,Manikonda,Mid-Range,Apartment,1270,3,3,2,2021,Unfurnished,1,0,1,0,0,2,114.04,Synthetic demo record
+DEMO-00541,Hyderabad,Manikonda,Mid-Range,Apartment,1710,3,3,24,2023,Semi-Furnished,0,1,0,0,0,1,116.86,Synthetic demo record
+DEMO-00542,Hyderabad,Kondapur,Mid-Range,Apartment,1070,2,1,10,2024,Furnished,1,1,0,0,1,3,107.27,Synthetic demo record
+DEMO-00543,Hyderabad,Jubilee Hills,Premium,Independent House,1160,3,3,4,2024,Unfurnished,1,0,1,0,1,3,220.6,Synthetic demo record
+DEMO-00544,Hyderabad,Manikonda,Mid-Range,Apartment,1020,2,2,3,2021,Furnished,1,0,0,1,0,2,74.0,Synthetic demo record
+DEMO-00545,Hyderabad,Gachibowli,Premium,Independent House,970,2,2,3,2022,Semi-Furnished,1,0,0,1,0,2,150.64,Synthetic demo record
+DEMO-00546,Hyderabad,Banjara Hills,Premium,Apartment,1570,3,3,20,2022,Unfurnished,1,1,0,1,1,4,186.73,Synthetic demo record
+DEMO-00547,Hyderabad,Miyapur,Mid-Range,Apartment,590,2,3,8,2023,Furnished,1,1,0,0,0,2,52.44,Synthetic demo record
+DEMO-00548,Hyderabad,Kompally,Affordable,Apartment,300,1,2,14,2021,Semi-Furnished,1,1,0,0,0,2,19.0,Synthetic demo record
+DEMO-00549,Hyderabad,Kompally,Affordable,Apartment,1120,2,1,5,2018,Unfurnished,1,1,1,0,1,4,52.9,Synthetic demo record
+DEMO-00550,Hyderabad,LB Nagar,Affordable,Apartment,1190,2,3,10,2019,Unfurnished,0,1,0,0,0,1,56.12,Synthetic demo record
+DEMO-00551,Hyderabad,Miyapur,Mid-Range,Apartment,1400,3,4,16,2025,Furnished,1,1,1,0,0,3,155.03,Synthetic demo record
+DEMO-00552,Hyderabad,Jubilee Hills,Premium,Independent House,2070,3,4,1,2018,Unfurnished,0,0,0,0,0,0,196.24,Synthetic demo record
+DEMO-00553,Hyderabad,Miyapur,Mid-Range,Apartment,1120,3,3,13,2018,Furnished,1,1,1,0,0,3,76.47,Synthetic demo record
+DEMO-00554,Hyderabad,Kondapur,Mid-Range,Apartment,1260,2,1,5,2025,Unfurnished,0,0,1,0,0,1,133.91,Synthetic demo record
+DEMO-00555,Hyderabad,Jubilee Hills,Premium,Apartment,930,1,1,23,2023,Semi-Furnished,0,1,0,0,0,1,102.1,Synthetic demo record
+DEMO-00556,Hyderabad,Miyapur,Mid-Range,Villa,1020,1,2,2,2018,Semi-Furnished,1,0,1,1,1,4,105.59,Synthetic demo record
+DEMO-00557,Hyderabad,Uppal,Affordable,Apartment,1270,2,1,12,2026,Unfurnished,0,1,0,1,0,2,76.25,Synthetic demo record
+DEMO-00558,Hyderabad,Kondapur,Mid-Range,Apartment,1440,4,3,25,2023,Unfurnished,0,1,1,1,0,3,88.2,Synthetic demo record
+DEMO-00559,Hyderabad,Kondapur,Mid-Range,Apartment,1990,4,5,18,2020,Unfurnished,1,1,1,0,0,3,138.44,Synthetic demo record
+DEMO-00560,Hyderabad,Jubilee Hills,Premium,Apartment,760,2,2,3,2026,Unfurnished,1,1,1,0,0,3,125.51,Synthetic demo record
+DEMO-00561,Chennai,Porur,Mid-Range,Villa,770,1,2,8,2024,Unfurnished,0,0,0,1,0,1,69.1,Synthetic demo record
+DEMO-00562,Chennai,Sholinganallur,Mid-Range,Villa,1060,1,1,18,2025,Semi-Furnished,1,0,1,0,0,2,120.03,Synthetic demo record
+DEMO-00563,Chennai,Poonamallee,Affordable,Apartment,560,2,2,0,2023,Semi-Furnished,1,1,0,0,1,3,34.38,Synthetic demo record
+DEMO-00564,Chennai,Porur,Mid-Range,Independent House,640,2,2,6,2020,Unfurnished,1,0,0,0,0,1,51.01,Synthetic demo record
+DEMO-00565,Chennai,Poonamallee,Affordable,Independent House,800,3,3,21,2019,Semi-Furnished,0,0,0,0,0,0,31.49,Synthetic demo record
+DEMO-00566,Chennai,Avadi,Affordable,Independent House,1120,2,1,22,2022,Furnished,1,0,0,1,1,3,70.25,Synthetic demo record
+DEMO-00567,Chennai,Velachery,Mid-Range,Apartment,700,1,2,18,2022,Unfurnished,1,1,0,0,0,2,50.09,Synthetic demo record
+DEMO-00568,Chennai,Poonamallee,Affordable,Builder Floor,1670,3,2,12,2019,Semi-Furnished,1,0,1,1,1,4,80.23,Synthetic demo record
+DEMO-00569,Chennai,Sholinganallur,Mid-Range,Independent House,1170,2,2,2,2026,Unfurnished,0,0,1,1,0,2,105.23,Synthetic demo record
+DEMO-00570,Chennai,Sholinganallur,Mid-Range,Apartment,1240,1,2,3,2019,Semi-Furnished,1,1,0,1,1,4,101.45,Synthetic demo record
+DEMO-00571,Chennai,Porur,Mid-Range,Apartment,1340,2,3,16,2025,Unfurnished,1,1,0,0,0,2,126.94,Synthetic demo record
+DEMO-00572,Chennai,Avadi,Affordable,Apartment,300,1,2,4,2026,Furnished,1,1,1,0,0,3,20.69,Synthetic demo record
+DEMO-00573,Chennai,Porur,Mid-Range,Apartment,1410,4,3,22,2023,Unfurnished,1,1,0,0,0,2,99.15,Synthetic demo record
+DEMO-00574,Chennai,Porur,Mid-Range,Apartment,1510,3,2,16,2019,Unfurnished,0,1,1,0,0,2,91.15,Synthetic demo record
+DEMO-00575,Chennai,Porur,Mid-Range,Apartment,300,1,2,1,2020,Unfurnished,1,1,1,0,0,3,20.72,Synthetic demo record
+DEMO-00576,Chennai,Porur,Mid-Range,Apartment,950,2,3,9,2023,Unfurnished,1,1,1,0,0,3,87.43,Synthetic demo record
+DEMO-00577,Chennai,Velachery,Mid-Range,Apartment,460,1,1,18,2022,Unfurnished,1,1,0,0,0,2,28.32,Synthetic demo record
+DEMO-00578,Chennai,Poonamallee,Affordable,Builder Floor,860,2,3,6,2022,Furnished,0,1,1,0,0,2,63.71,Synthetic demo record
+DEMO-00579,Chennai,Poonamallee,Affordable,Apartment,1100,3,3,5,2026,Semi-Furnished,1,1,1,1,0,4,74.32,Synthetic demo record
+DEMO-00580,Chennai,Poonamallee,Affordable,Apartment,760,1,1,9,2025,Semi-Furnished,0,1,1,1,0,3,53.29,Synthetic demo record
+DEMO-00581,Chennai,Avadi,Affordable,Apartment,460,1,1,14,2019,Unfurnished,1,1,1,1,0,4,24.26,Synthetic demo record
+DEMO-00582,Chennai,Sholinganallur,Mid-Range,Apartment,780,1,2,20,2024,Unfurnished,1,1,1,0,0,3,70.95,Synthetic demo record
+DEMO-00583,Chennai,OMR,Premium,Builder Floor,1330,3,3,16,2023,Unfurnished,1,1,0,0,0,2,192.09,Synthetic demo record
+DEMO-00584,Chennai,Velachery,Mid-Range,Builder Floor,900,1,1,3,2019,Unfurnished,1,0,1,0,0,2,63.62,Synthetic demo record
+DEMO-00585,Chennai,Tambaram,Affordable,Apartment,1050,3,3,25,2022,Semi-Furnished,1,0,1,0,0,2,52.72,Synthetic demo record
+DEMO-00586,Chennai,Porur,Mid-Range,Apartment,740,2,2,1,2021,Unfurnished,1,1,1,0,0,3,49.18,Synthetic demo record
+DEMO-00587,Chennai,Adyar,Premium,Independent House,1300,2,1,19,2024,Semi-Furnished,1,0,1,1,0,3,150.22,Synthetic demo record
+DEMO-00588,Chennai,Porur,Mid-Range,Villa,300,1,2,2,2025,Unfurnished,0,0,1,1,0,2,41.7,Synthetic demo record
+DEMO-00589,Chennai,Velachery,Mid-Range,Apartment,490,1,2,6,2024,Semi-Furnished,1,1,1,0,0,3,51.5,Synthetic demo record
+DEMO-00590,Chennai,Sholinganallur,Mid-Range,Apartment,1230,2,1,11,2025,Semi-Furnished,1,1,1,1,0,4,103.34,Synthetic demo record
+DEMO-00591,Chennai,Anna Nagar,Premium,Independent House,1620,3,3,20,2021,Unfurnished,1,0,1,1,0,3,143.04,Synthetic demo record
+DEMO-00592,Chennai,Porur,Mid-Range,Independent House,1580,4,3,7,2020,Unfurnished,0,0,0,0,0,0,131.4,Synthetic demo record
+DEMO-00593,Chennai,Velachery,Mid-Range,Apartment,1150,2,1,3,2019,Unfurnished,0,1,0,0,1,2,72.86,Synthetic demo record
+DEMO-00594,Chennai,Avadi,Affordable,Apartment,800,1,1,18,2026,Unfurnished,1,0,0,1,0,2,44.93,Synthetic demo record
+DEMO-00595,Chennai,Porur,Mid-Range,Apartment,690,1,2,14,2022,Unfurnished,1,1,0,0,0,2,46.38,Synthetic demo record
+DEMO-00596,Chennai,Poonamallee,Affordable,Apartment,1060,2,3,6,2019,Furnished,1,1,0,1,0,3,52.0,Synthetic demo record
+DEMO-00597,Chennai,Velachery,Mid-Range,Apartment,1070,2,1,5,2019,Semi-Furnished,1,1,0,0,0,2,72.87,Synthetic demo record
+DEMO-00598,Chennai,Anna Nagar,Premium,Apartment,1330,3,4,0,2023,Unfurnished,0,1,0,1,0,2,177.38,Synthetic demo record
+DEMO-00599,Chennai,Velachery,Mid-Range,Apartment,1050,2,2,22,2024,Semi-Furnished,1,1,1,0,0,3,79.53,Synthetic demo record
+DEMO-00600,Chennai,Sholinganallur,Mid-Range,Builder Floor,970,2,2,0,2024,Unfurnished,1,0,1,1,0,3,89.82,Synthetic demo record
+DEMO-00601,Chennai,Poonamallee,Affordable,Apartment,1310,2,2,3,2020,Unfurnished,0,0,1,0,0,1,65.81,Synthetic demo record
+DEMO-00602,Chennai,Anna Nagar,Premium,Apartment,830,2,1,4,2023,Semi-Furnished,1,1,0,0,1,3,121.57,Synthetic demo record
+DEMO-00603,Chennai,Poonamallee,Affordable,Villa,1280,2,3,0,2023,Semi-Furnished,1,0,1,1,0,3,108.13,Synthetic demo record
+DEMO-00604,Chennai,Porur,Mid-Range,Independent House,1380,2,3,12,2025,Furnished,1,0,1,0,0,2,139.38,Synthetic demo record
+DEMO-00605,Chennai,Anna Nagar,Premium,Independent House,1510,3,3,21,2023,Semi-Furnished,0,0,1,0,1,2,169.06,Synthetic demo record
+DEMO-00606,Chennai,Tambaram,Affordable,Villa,980,2,2,23,2026,Furnished,1,0,1,0,0,2,73.0,Synthetic demo record
+DEMO-00607,Chennai,Sholinganallur,Mid-Range,Independent House,1910,3,2,6,2024,Semi-Furnished,1,0,1,0,1,3,188.88,Synthetic demo record
+DEMO-00608,Chennai,Porur,Mid-Range,Apartment,610,2,2,8,2018,Furnished,1,1,1,0,1,4,34.26,Synthetic demo record
+DEMO-00609,Chennai,Porur,Mid-Range,Apartment,700,1,1,4,2019,Furnished,1,1,0,1,0,3,50.9,Synthetic demo record
+DEMO-00610,Chennai,Tambaram,Affordable,Independent House,1360,2,2,19,2023,Semi-Furnished,1,0,1,1,0,3,61.25,Synthetic demo record
+DEMO-00611,Chennai,Sholinganallur,Mid-Range,Apartment,1540,4,3,7,2024,Semi-Furnished,1,1,1,1,1,5,134.56,Synthetic demo record
+DEMO-00612,Chennai,Porur,Mid-Range,Apartment,1580,4,5,21,2024,Unfurnished,1,1,1,1,0,4,114.16,Synthetic demo record
+DEMO-00613,Chennai,Avadi,Affordable,Villa,790,1,2,11,2023,Semi-Furnished,1,0,1,1,1,4,60.96,Synthetic demo record
+DEMO-00614,Chennai,Anna Nagar,Premium,Apartment,1420,3,2,0,2019,Semi-Furnished,1,1,1,0,0,3,148.77,Synthetic demo record
+DEMO-00615,Chennai,Velachery,Mid-Range,Apartment,1210,2,3,13,2021,Unfurnished,1,0,1,1,0,3,75.33,Synthetic demo record
+DEMO-00616,Chennai,Porur,Mid-Range,Apartment,840,2,2,22,2018,Unfurnished,1,1,0,1,0,3,49.49,Synthetic demo record
+DEMO-00617,Chennai,OMR,Premium,Builder Floor,740,2,3,8,2026,Semi-Furnished,1,1,0,0,0,2,108.62,Synthetic demo record
+DEMO-00618,Chennai,Porur,Mid-Range,Apartment,1280,2,1,19,2023,Unfurnished,1,1,0,1,0,3,89.11,Synthetic demo record
+DEMO-00619,Chennai,Anna Nagar,Premium,Apartment,1040,2,2,10,2021,Semi-Furnished,1,1,1,0,0,3,124.59,Synthetic demo record
+DEMO-00620,Chennai,OMR,Premium,Apartment,730,3,3,25,2026,Semi-Furnished,1,1,1,1,1,5,88.3,Synthetic demo record
+DEMO-00621,Chennai,Avadi,Affordable,Builder Floor,910,2,2,3,2023,Semi-Furnished,1,1,0,0,0,2,64.5,Synthetic demo record
+DEMO-00622,Chennai,OMR,Premium,Apartment,760,1,1,19,2022,Unfurnished,0,0,1,0,0,1,60.72,Synthetic demo record
+DEMO-00623,Chennai,Poonamallee,Affordable,Apartment,840,2,1,23,2026,Semi-Furnished,1,1,0,1,1,4,47.22,Synthetic demo record
+DEMO-00624,Chennai,Porur,Mid-Range,Apartment,1550,3,2,15,2020,Unfurnished,1,1,0,0,0,2,115.72,Synthetic demo record
+DEMO-00625,Chennai,Adyar,Premium,Apartment,1320,2,1,1,2018,Furnished,1,1,0,0,0,2,151.53,Synthetic demo record
+DEMO-00626,Chennai,Poonamallee,Affordable,Apartment,730,1,1,12,2019,Furnished,1,1,1,1,0,4,37.55,Synthetic demo record
+DEMO-00627,Chennai,Velachery,Mid-Range,Apartment,610,2,2,24,2023,Semi-Furnished,1,1,1,1,0,4,46.13,Synthetic demo record
+DEMO-00628,Chennai,OMR,Premium,Villa,1160,3,2,8,2021,Semi-Furnished,0,0,1,0,0,1,160.22,Synthetic demo record
+DEMO-00629,Chennai,Velachery,Mid-Range,Villa,1200,2,2,5,2025,Unfurnished,1,0,1,0,0,2,128.84,Synthetic demo record
+DEMO-00630,Chennai,Tambaram,Affordable,Independent House,900,1,1,2,2024,Semi-Furnished,1,0,1,1,0,3,56.51,Synthetic demo record
+DEMO-00631,Chennai,Porur,Mid-Range,Apartment,1400,3,2,19,2019,Unfurnished,1,1,1,0,0,3,71.77,Synthetic demo record
+DEMO-00632,Chennai,Tambaram,Affordable,Builder Floor,1070,2,2,21,2018,Furnished,1,1,1,0,0,3,44.53,Synthetic demo record
+DEMO-00633,Chennai,Porur,Mid-Range,Apartment,1450,3,3,12,2025,Unfurnished,1,0,0,0,1,2,129.31,Synthetic demo record
+DEMO-00634,Chennai,Tambaram,Affordable,Apartment,840,1,2,24,2019,Semi-Furnished,1,1,0,0,0,2,32.48,Synthetic demo record
+DEMO-00635,Chennai,Anna Nagar,Premium,Villa,1010,2,2,1,2023,Semi-Furnished,1,0,0,0,0,1,136.5,Synthetic demo record
+DEMO-00636,Chennai,Velachery,Mid-Range,Villa,1480,2,2,23,2018,Semi-Furnished,0,0,0,0,0,0,105.09,Synthetic demo record
+DEMO-00637,Chennai,Sholinganallur,Mid-Range,Apartment,1040,2,2,1,2018,Semi-Furnished,0,1,0,1,0,2,64.69,Synthetic demo record
+DEMO-00638,Chennai,Velachery,Mid-Range,Apartment,1820,3,3,12,2018,Semi-Furnished,1,1,0,0,0,2,110.13,Synthetic demo record
+DEMO-00639,Chennai,Porur,Mid-Range,Apartment,690,2,2,25,2024,Furnished,0,1,1,0,0,2,50.55,Synthetic demo record
+DEMO-00640,Chennai,Sholinganallur,Mid-Range,Apartment,460,1,1,15,2023,Unfurnished,1,1,0,0,0,2,30.07,Synthetic demo record
+DEMO-00641,Chennai,Tambaram,Affordable,Apartment,1230,3,3,1,2026,Semi-Furnished,0,1,0,1,1,3,75.64,Synthetic demo record
+DEMO-00642,Chennai,Porur,Mid-Range,Apartment,510,2,2,15,2026,Semi-Furnished,1,1,1,1,0,4,44.35,Synthetic demo record
+DEMO-00643,Chennai,Poonamallee,Affordable,Apartment,920,2,1,0,2022,Furnished,1,1,1,1,0,4,55.41,Synthetic demo record
+DEMO-00644,Chennai,Poonamallee,Affordable,Villa,920,1,2,11,2018,Unfurnished,1,0,1,0,0,2,48.87,Synthetic demo record
+DEMO-00645,Chennai,Tambaram,Affordable,Builder Floor,860,1,1,22,2020,Unfurnished,1,1,0,1,0,3,41.63,Synthetic demo record
+DEMO-00646,Chennai,Porur,Mid-Range,Independent House,610,1,1,8,2025,Furnished,1,0,1,0,0,2,66.03,Synthetic demo record
+DEMO-00647,Chennai,OMR,Premium,Independent House,1650,4,3,6,2026,Semi-Furnished,1,0,0,0,1,2,264.99,Synthetic demo record
+DEMO-00648,Chennai,Porur,Mid-Range,Apartment,1230,3,4,21,2019,Furnished,1,1,0,1,1,4,74.51,Synthetic demo record
+DEMO-00649,Chennai,OMR,Premium,Apartment,1440,2,2,11,2018,Semi-Furnished,1,0,0,1,1,3,150.61,Synthetic demo record
+DEMO-00650,Chennai,Velachery,Mid-Range,Villa,1200,2,2,8,2018,Semi-Furnished,1,0,1,0,0,2,90.61,Synthetic demo record
+DEMO-00651,Chennai,Porur,Mid-Range,Independent House,980,2,1,2,2018,Furnished,1,0,1,0,0,2,70.06,Synthetic demo record
+DEMO-00652,Chennai,Anna Nagar,Premium,Apartment,1100,2,1,23,2026,Unfurnished,0,1,1,0,0,2,121.19,Synthetic demo record
+DEMO-00653,Chennai,Anna Nagar,Premium,Independent House,950,3,4,13,2025,Unfurnished,0,0,1,0,0,1,126.65,Synthetic demo record
+DEMO-00654,Chennai,Sholinganallur,Mid-Range,Independent House,1530,3,3,15,2026,Unfurnished,1,0,0,1,0,2,131.39,Synthetic demo record
+DEMO-00655,Chennai,Tambaram,Affordable,Apartment,1330,2,1,12,2023,Unfurnished,0,1,1,1,0,3,81.8,Synthetic demo record
+DEMO-00656,Chennai,Adyar,Premium,Apartment,380,1,2,13,2025,Unfurnished,1,0,0,1,0,2,43.94,Synthetic demo record
+DEMO-00657,Chennai,Avadi,Affordable,Villa,1440,2,1,14,2019,Semi-Furnished,1,0,1,0,0,2,73.28,Synthetic demo record
+DEMO-00658,Chennai,Porur,Mid-Range,Villa,1360,3,2,2,2026,Unfurnished,1,0,0,1,1,3,141.73,Synthetic demo record
+DEMO-00659,Chennai,OMR,Premium,Villa,940,2,3,1,2020,Unfurnished,1,0,1,1,1,4,142.81,Synthetic demo record
+DEMO-00660,Chennai,Sholinganallur,Mid-Range,Apartment,950,2,1,8,2020,Unfurnished,1,0,1,0,1,3,61.57,Synthetic demo record
+DEMO-00661,Chennai,Adyar,Premium,Apartment,1600,3,2,13,2021,Unfurnished,1,1,1,1,0,4,161.87,Synthetic demo record
+DEMO-00662,Chennai,Sholinganallur,Mid-Range,Apartment,570,1,1,2,2018,Semi-Furnished,0,1,1,1,0,3,37.98,Synthetic demo record
+DEMO-00663,Chennai,Sholinganallur,Mid-Range,Independent House,510,1,1,25,2020,Semi-Furnished,1,0,0,0,1,2,33.52,Synthetic demo record
+DEMO-00664,Chennai,OMR,Premium,Apartment,900,2,2,23,2021,Semi-Furnished,1,1,0,0,0,2,81.76,Synthetic demo record
+DEMO-00665,Chennai,Sholinganallur,Mid-Range,Apartment,1340,2,1,17,2024,Furnished,1,0,0,0,0,1,93.98,Synthetic demo record
+DEMO-00666,Chennai,OMR,Premium,Builder Floor,770,1,1,3,2020,Semi-Furnished,0,1,1,1,0,3,74.73,Synthetic demo record
+DEMO-00667,Chennai,Porur,Mid-Range,Apartment,320,1,1,18,2026,Semi-Furnished,1,0,0,1,0,2,29.88,Synthetic demo record
+DEMO-00668,Chennai,Porur,Mid-Range,Apartment,910,2,1,5,2018,Furnished,0,1,0,0,1,2,61.67,Synthetic demo record
+DEMO-00669,Chennai,Sholinganallur,Mid-Range,Builder Floor,670,1,1,21,2024,Furnished,0,1,0,1,0,2,50.56,Synthetic demo record
+DEMO-00670,Chennai,Velachery,Mid-Range,Independent House,1240,3,4,8,2021,Semi-Furnished,1,0,1,0,0,2,95.54,Synthetic demo record
+DEMO-00671,Chennai,Poonamallee,Affordable,Independent House,520,1,1,22,2025,Unfurnished,1,0,0,0,0,1,31.21,Synthetic demo record
+DEMO-00672,Chennai,Sholinganallur,Mid-Range,Apartment,1260,2,2,24,2018,Unfurnished,1,0,1,0,1,3,64.28,Synthetic demo record
+DEMO-00673,Chennai,Porur,Mid-Range,Apartment,460,1,1,0,2018,Semi-Furnished,1,1,1,1,1,5,32.59,Synthetic demo record
+DEMO-00674,Chennai,Avadi,Affordable,Apartment,1210,2,2,21,2021,Semi-Furnished,1,1,1,0,0,3,61.31,Synthetic demo record
+DEMO-00675,Chennai,Anna Nagar,Premium,Apartment,1220,2,2,24,2019,Furnished,1,1,0,1,0,3,94.81,Synthetic demo record
+DEMO-00676,Chennai,Porur,Mid-Range,Independent House,1620,4,3,5,2026,Unfurnished,1,0,1,0,0,2,182.19,Synthetic demo record
+DEMO-00677,Chennai,Avadi,Affordable,Apartment,300,1,2,24,2021,Semi-Furnished,1,1,0,0,0,2,14.27,Synthetic demo record
+DEMO-00678,Chennai,Porur,Mid-Range,Apartment,890,1,1,1,2020,Unfurnished,0,1,0,1,1,3,70.22,Synthetic demo record
+DEMO-00679,Chennai,Sholinganallur,Mid-Range,Apartment,1500,2,2,0,2022,Semi-Furnished,1,0,1,1,0,3,125.99,Synthetic demo record
+DEMO-00680,Chennai,Sholinganallur,Mid-Range,Apartment,690,1,2,19,2019,Unfurnished,1,0,0,0,0,1,34.18,Synthetic demo record
+DEMO-00681,Chennai,Velachery,Mid-Range,Apartment,860,2,2,3,2022,Furnished,1,1,1,1,0,4,77.64,Synthetic demo record
+DEMO-00682,Chennai,OMR,Premium,Apartment,870,2,2,25,2020,Unfurnished,0,1,0,0,0,1,72.92,Synthetic demo record
+DEMO-00683,Chennai,Anna Nagar,Premium,Villa,740,1,1,21,2025,Unfurnished,0,0,1,0,1,2,117.19,Synthetic demo record
+DEMO-00684,Chennai,OMR,Premium,Villa,860,2,3,19,2019,Unfurnished,1,0,0,0,0,1,80.6,Synthetic demo record
+DEMO-00685,Chennai,Sholinganallur,Mid-Range,Independent House,300,1,1,0,2025,Unfurnished,1,0,1,0,0,2,24.49,Synthetic demo record
+DEMO-00686,Chennai,Porur,Mid-Range,Apartment,650,1,1,20,2026,Unfurnished,0,1,0,1,0,2,42.89,Synthetic demo record
+DEMO-00687,Chennai,Poonamallee,Affordable,Apartment,1180,3,3,7,2022,Unfurnished,1,1,0,1,0,3,60.41,Synthetic demo record
+DEMO-00688,Chennai,Porur,Mid-Range,Apartment,950,1,1,24,2024,Unfurnished,1,1,1,0,0,3,64.53,Synthetic demo record
+DEMO-00689,Chennai,Sholinganallur,Mid-Range,Apartment,980,1,1,14,2025,Unfurnished,1,1,1,0,0,3,92.41,Synthetic demo record
+DEMO-00690,Chennai,Porur,Mid-Range,Apartment,300,1,1,18,2019,Semi-Furnished,0,1,1,1,0,3,17.05,Synthetic demo record
+DEMO-00691,Chennai,OMR,Premium,Independent House,1220,2,3,23,2026,Semi-Furnished,1,0,1,1,0,3,144.84,Synthetic demo record
+DEMO-00692,Chennai,OMR,Premium,Builder Floor,970,2,1,12,2019,Unfurnished,1,1,1,1,0,4,92.8,Synthetic demo record
+DEMO-00693,Chennai,Velachery,Mid-Range,Independent House,600,1,1,21,2019,Unfurnished,0,0,0,0,1,1,33.35,Synthetic demo record
+DEMO-00694,Chennai,Anna Nagar,Premium,Independent House,1700,4,5,10,2025,Semi-Furnished,1,0,1,1,0,3,242.18,Synthetic demo record
+DEMO-00695,Chennai,Sholinganallur,Mid-Range,Apartment,910,2,2,10,2025,Semi-Furnished,0,1,0,0,0,1,83.62,Synthetic demo record
+DEMO-00696,Chennai,Tambaram,Affordable,Villa,1180,2,1,20,2024,Semi-Furnished,1,0,0,1,0,2,80.62,Synthetic demo record
+DEMO-00697,Chennai,Anna Nagar,Premium,Independent House,810,2,2,19,2019,Unfurnished,1,0,1,0,0,2,83.83,Synthetic demo record
+DEMO-00698,Chennai,Velachery,Mid-Range,Apartment,870,2,2,9,2018,Unfurnished,1,1,1,1,0,4,61.31,Synthetic demo record
+DEMO-00699,Chennai,Porur,Mid-Range,Apartment,690,1,1,24,2019,Semi-Furnished,1,1,1,0,0,3,35.07,Synthetic demo record
+DEMO-00700,Chennai,Adyar,Premium,Builder Floor,900,1,1,8,2023,Furnished,0,1,0,1,0,2,123.92,Synthetic demo record
+DEMO-00701,Pune,Undri,Affordable,Villa,340,1,1,17,2018,Unfurnished,1,0,0,1,1,3,17.55,Synthetic demo record
+DEMO-00702,Pune,Kharadi,Mid-Range,Builder Floor,980,2,2,1,2025,Semi-Furnished,1,1,1,0,0,3,111.81,Synthetic demo record
+DEMO-00703,Pune,Hinjawadi,Mid-Range,Apartment,1130,2,2,5,2024,Semi-Furnished,0,1,0,0,0,1,100.35,Synthetic demo record
+DEMO-00704,Pune,Chakan,Affordable,Independent House,930,2,1,16,2018,Semi-Furnished,1,0,0,0,0,1,41.54,Synthetic demo record
+DEMO-00705,Pune,Koregaon Park,Premium,Apartment,1520,3,3,22,2026,Furnished,0,0,0,0,0,0,179.65,Synthetic demo record
+DEMO-00706,Pune,Undri,Affordable,Apartment,490,1,1,6,2022,Unfurnished,1,1,0,0,0,2,28.96,Synthetic demo record
+DEMO-00707,Pune,Moshi,Affordable,Apartment,1530,3,4,8,2022,Semi-Furnished,1,0,0,0,0,1,80.76,Synthetic demo record
+DEMO-00708,Pune,Kharadi,Mid-Range,Villa,1260,1,2,16,2026,Unfurnished,0,0,1,0,0,1,142.28,Synthetic demo record
+DEMO-00709,Pune,Hinjawadi,Mid-Range,Apartment,940,2,3,2,2022,Semi-Furnished,0,1,1,1,1,4,77.28,Synthetic demo record
+DEMO-00710,Pune,Wakad,Mid-Range,Builder Floor,840,2,1,17,2023,Semi-Furnished,1,1,1,0,0,3,70.46,Synthetic demo record
+DEMO-00711,Pune,Koregaon Park,Premium,Independent House,1500,2,3,17,2022,Semi-Furnished,0,0,0,0,1,1,172.9,Synthetic demo record
+DEMO-00712,Pune,Viman Nagar,Premium,Independent House,1280,3,2,19,2022,Unfurnished,0,0,0,1,0,1,151.4,Synthetic demo record
+DEMO-00713,Pune,Baner,Premium,Apartment,410,1,1,17,2019,Semi-Furnished,1,1,0,1,0,3,38.26,Synthetic demo record
+DEMO-00714,Pune,Kharadi,Mid-Range,Apartment,560,1,1,3,2022,Semi-Furnished,1,0,0,0,0,1,47.4,Synthetic demo record
+DEMO-00715,Pune,Hinjawadi,Mid-Range,Apartment,300,1,1,2,2020,Semi-Furnished,1,1,1,1,0,4,24.52,Synthetic demo record
+DEMO-00716,Pune,Kharadi,Mid-Range,Apartment,380,1,2,7,2020,Semi-Furnished,1,0,1,0,0,2,29.38,Synthetic demo record
+DEMO-00717,Pune,Kharadi,Mid-Range,Apartment,560,1,2,10,2026,Semi-Furnished,1,1,0,0,1,3,50.02,Synthetic demo record
+DEMO-00718,Pune,Chakan,Affordable,Independent House,510,1,2,21,2022,Furnished,1,0,0,0,0,1,26.75,Synthetic demo record
+DEMO-00719,Pune,Kharadi,Mid-Range,Apartment,1170,2,3,9,2024,Unfurnished,0,1,0,0,0,1,94.9,Synthetic demo record
+DEMO-00720,Pune,Hinjawadi,Mid-Range,Apartment,960,2,1,20,2025,Semi-Furnished,0,1,0,1,0,2,80.38,Synthetic demo record
+DEMO-00721,Pune,Koregaon Park,Premium,Apartment,1270,2,2,9,2020,Semi-Furnished,1,0,1,1,0,3,125.13,Synthetic demo record
+DEMO-00722,Pune,Kharadi,Mid-Range,Independent House,800,1,1,13,2021,Unfurnished,0,0,0,1,0,1,57.06,Synthetic demo record
+DEMO-00723,Pune,Undri,Affordable,Apartment,680,2,2,8,2021,Semi-Furnished,0,0,1,1,1,3,39.69,Synthetic demo record
+DEMO-00724,Pune,Viman Nagar,Premium,Apartment,1490,3,4,18,2023,Semi-Furnished,1,1,0,0,0,2,237.11,Synthetic demo record
+DEMO-00725,Pune,Wakad,Mid-Range,Villa,2120,4,4,2,2021,Unfurnished,1,0,1,0,0,2,179.51,Synthetic demo record
+DEMO-00726,Pune,Kharadi,Mid-Range,Apartment,740,1,1,2,2019,Semi-Furnished,1,1,1,0,0,3,52.86,Synthetic demo record
+DEMO-00727,Pune,Undri,Affordable,Apartment,1090,2,1,12,2024,Unfurnished,1,1,1,0,0,3,77.16,Synthetic demo record
+DEMO-00728,Pune,Wakad,Mid-Range,Apartment,1540,3,4,17,2021,Unfurnished,0,1,1,1,1,4,118.6,Synthetic demo record
+DEMO-00729,Pune,Wakad,Mid-Range,Independent House,300,1,2,17,2020,Unfurnished,1,0,0,1,1,3,22.34,Synthetic demo record
+DEMO-00730,Pune,Viman Nagar,Premium,Apartment,1230,2,3,25,2024,Unfurnished,1,1,0,0,0,2,144.55,Synthetic demo record
+DEMO-00731,Pune,Hinjawadi,Mid-Range,Villa,750,1,1,15,2023,Semi-Furnished,1,0,1,0,1,3,61.37,Synthetic demo record
+DEMO-00732,Pune,Kharadi,Mid-Range,Apartment,850,1,1,25,2025,Semi-Furnished,1,1,1,0,0,3,63.73,Synthetic demo record
+DEMO-00733,Pune,Chakan,Affordable,Apartment,1820,3,2,16,2024,Furnished,1,1,0,0,0,2,105.13,Synthetic demo record
+DEMO-00734,Pune,Moshi,Affordable,Apartment,300,1,1,13,2020,Semi-Furnished,1,1,1,0,0,3,17.32,Synthetic demo record
+DEMO-00735,Pune,Wakad,Mid-Range,Villa,870,1,1,10,2019,Semi-Furnished,1,0,1,1,0,3,71.96,Synthetic demo record
+DEMO-00736,Pune,Baner,Premium,Apartment,1230,2,2,3,2024,Unfurnished,1,1,1,1,1,5,199.74,Synthetic demo record
+DEMO-00737,Pune,Koregaon Park,Premium,Apartment,1460,2,2,12,2021,Furnished,0,1,1,1,0,3,149.94,Synthetic demo record
+DEMO-00738,Pune,Baner,Premium,Apartment,1240,2,2,17,2021,Unfurnished,1,1,1,1,1,5,142.88,Synthetic demo record
+DEMO-00739,Pune,Hinjawadi,Mid-Range,Apartment,1390,3,2,15,2022,Unfurnished,1,1,1,0,0,3,124.55,Synthetic demo record
+DEMO-00740,Pune,Kharadi,Mid-Range,Apartment,1330,3,3,24,2018,Semi-Furnished,1,1,1,1,0,4,92.95,Synthetic demo record
+DEMO-00741,Pune,Kharadi,Mid-Range,Independent House,1560,3,2,11,2019,Unfurnished,1,0,1,1,0,3,109.72,Synthetic demo record
+DEMO-00742,Pune,Kharadi,Mid-Range,Builder Floor,690,1,2,1,2022,Unfurnished,1,1,0,1,0,3,53.23,Synthetic demo record
+DEMO-00743,Pune,Chakan,Affordable,Apartment,1240,2,1,8,2018,Semi-Furnished,1,1,0,0,0,2,60.18,Synthetic demo record
+DEMO-00744,Pune,Wakad,Mid-Range,Apartment,1210,2,2,1,2024,Semi-Furnished,0,0,1,0,0,1,104.06,Synthetic demo record
+DEMO-00745,Pune,Wakad,Mid-Range,Independent House,1370,2,1,19,2026,Semi-Furnished,1,0,0,0,0,1,136.17,Synthetic demo record
+DEMO-00746,Pune,Wakad,Mid-Range,Villa,1560,2,2,14,2018,Unfurnished,0,0,0,0,0,0,114.34,Synthetic demo record
+DEMO-00747,Pune,Viman Nagar,Premium,Independent House,390,1,2,17,2024,Semi-Furnished,1,0,1,1,0,3,53.38,Synthetic demo record
+DEMO-00748,Pune,Wakad,Mid-Range,Builder Floor,1260,3,3,13,2022,Furnished,0,1,0,0,0,1,107.23,Synthetic demo record
+DEMO-00749,Pune,Kharadi,Mid-Range,Apartment,1070,3,3,20,2019,Unfurnished,0,1,0,0,0,1,62.16,Synthetic demo record
+DEMO-00750,Pune,Moshi,Affordable,Independent House,620,1,1,25,2023,Semi-Furnished,0,0,0,1,0,1,33.82,Synthetic demo record
+DEMO-00751,Pune,Undri,Affordable,Independent House,1290,2,2,14,2019,Semi-Furnished,0,0,0,0,0,0,70.13,Synthetic demo record
+DEMO-00752,Pune,Kharadi,Mid-Range,Apartment,680,1,1,17,2023,Furnished,1,1,1,0,0,3,61.57,Synthetic demo record
+DEMO-00753,Pune,Moshi,Affordable,Villa,1140,2,2,21,2026,Semi-Furnished,1,0,0,1,0,2,95.26,Synthetic demo record
+DEMO-00754,Pune,Kharadi,Mid-Range,Builder Floor,1240,2,2,6,2021,Semi-Furnished,1,1,1,0,1,4,92.43,Synthetic demo record
+DEMO-00755,Pune,Moshi,Affordable,Villa,1300,3,4,24,2019,Unfurnished,1,0,0,1,0,2,70.0,Synthetic demo record
+DEMO-00756,Pune,Hinjawadi,Mid-Range,Apartment,1170,2,2,6,2018,Furnished,1,1,1,0,1,4,90.67,Synthetic demo record
+DEMO-00757,Pune,Kharadi,Mid-Range,Apartment,1180,3,3,6,2020,Furnished,1,1,1,1,0,4,98.85,Synthetic demo record
+DEMO-00758,Pune,Kharadi,Mid-Range,Builder Floor,1570,3,4,24,2018,Furnished,1,0,1,1,0,3,112.24,Synthetic demo record
+DEMO-00759,Pune,Kharadi,Mid-Range,Apartment,1160,2,2,9,2024,Semi-Furnished,0,0,1,0,0,1,99.62,Synthetic demo record
+DEMO-00760,Pune,Moshi,Affordable,Apartment,1220,3,2,1,2018,Semi-Furnished,1,1,1,0,0,3,63.17,Synthetic demo record
+DEMO-00761,Pune,Kharadi,Mid-Range,Independent House,1200,2,3,13,2025,Semi-Furnished,1,0,0,0,0,1,80.52,Synthetic demo record
+DEMO-00762,Pune,Koregaon Park,Premium,Apartment,970,2,2,18,2023,Unfurnished,0,1,1,0,1,3,117.02,Synthetic demo record
+DEMO-00763,Pune,Hinjawadi,Mid-Range,Builder Floor,770,1,1,11,2020,Unfurnished,1,1,1,0,0,3,50.36,Synthetic demo record
+DEMO-00764,Pune,Hinjawadi,Mid-Range,Apartment,1310,3,3,0,2021,Semi-Furnished,1,1,1,0,0,3,99.77,Synthetic demo record
+DEMO-00765,Pune,Moshi,Affordable,Villa,1050,1,2,22,2026,Semi-Furnished,1,0,0,1,0,2,76.32,Synthetic demo record
+DEMO-00766,Pune,Moshi,Affordable,Villa,960,2,2,20,2020,Furnished,1,0,1,0,0,2,51.63,Synthetic demo record
+DEMO-00767,Pune,Hinjawadi,Mid-Range,Villa,640,2,2,22,2023,Unfurnished,1,0,0,1,0,2,51.89,Synthetic demo record
+DEMO-00768,Pune,Hinjawadi,Mid-Range,Independent House,1040,2,1,8,2026,Unfurnished,0,0,0,0,1,1,95.61,Synthetic demo record
+DEMO-00769,Pune,Kharadi,Mid-Range,Apartment,610,2,3,23,2021,Unfurnished,1,1,0,1,1,4,44.36,Synthetic demo record
+DEMO-00770,Pune,Undri,Affordable,Independent House,800,2,2,3,2025,Unfurnished,0,0,0,1,0,1,60.72,Synthetic demo record
+DEMO-00771,Pune,Viman Nagar,Premium,Independent House,580,1,1,11,2024,Semi-Furnished,1,0,0,1,0,2,89.18,Synthetic demo record
+DEMO-00772,Pune,Hinjawadi,Mid-Range,Independent House,550,1,1,7,2026,Unfurnished,0,0,1,1,0,2,60.08,Synthetic demo record
+DEMO-00773,Pune,Kharadi,Mid-Range,Apartment,630,1,2,15,2021,Furnished,1,1,1,1,0,4,49.67,Synthetic demo record
+DEMO-00774,Pune,Moshi,Affordable,Apartment,940,2,2,3,2020,Semi-Furnished,1,1,0,0,0,2,54.48,Synthetic demo record
+DEMO-00775,Pune,Wakad,Mid-Range,Builder Floor,720,1,1,22,2023,Semi-Furnished,1,1,0,1,0,3,50.83,Synthetic demo record
+DEMO-00776,Pune,Hinjawadi,Mid-Range,Independent House,1100,2,2,3,2024,Furnished,1,0,0,1,0,2,125.78,Synthetic demo record
+DEMO-00777,Pune,Wakad,Mid-Range,Apartment,940,2,2,11,2018,Semi-Furnished,1,0,1,1,0,3,58.22,Synthetic demo record
+DEMO-00778,Pune,Koregaon Park,Premium,Apartment,1670,3,3,20,2019,Unfurnished,1,1,0,0,0,2,144.69,Synthetic demo record
+DEMO-00779,Pune,Wakad,Mid-Range,Independent House,920,2,1,1,2023,Unfurnished,0,0,1,0,0,1,94.46,Synthetic demo record
+DEMO-00780,Pune,Wakad,Mid-Range,Apartment,1100,2,1,13,2020,Furnished,1,1,1,1,0,4,67.53,Synthetic demo record
+DEMO-00781,Pune,Moshi,Affordable,Apartment,710,1,1,14,2020,Unfurnished,1,1,0,0,0,2,33.03,Synthetic demo record
+DEMO-00782,Pune,Koregaon Park,Premium,Apartment,1270,2,2,17,2018,Semi-Furnished,0,1,1,1,0,3,120.19,Synthetic demo record
+DEMO-00783,Pune,Chakan,Affordable,Independent House,1270,2,2,18,2023,Unfurnished,1,0,1,1,0,3,73.72,Synthetic demo record
+DEMO-00784,Pune,Baner,Premium,Apartment,1140,2,1,12,2024,Unfurnished,0,0,1,0,0,1,155.57,Synthetic demo record
+DEMO-00785,Pune,Hinjawadi,Mid-Range,Independent House,450,1,2,9,2024,Furnished,1,0,0,0,0,1,36.32,Synthetic demo record
+DEMO-00786,Pune,Wakad,Mid-Range,Apartment,1170,2,2,23,2025,Semi-Furnished,1,1,0,0,0,2,93.32,Synthetic demo record
+DEMO-00787,Pune,Moshi,Affordable,Apartment,950,3,3,0,2022,Unfurnished,0,1,1,1,0,3,63.92,Synthetic demo record
+DEMO-00788,Pune,Kharadi,Mid-Range,Villa,1110,2,2,3,2018,Semi-Furnished,1,0,1,1,0,3,71.62,Synthetic demo record
+DEMO-00789,Pune,Wakad,Mid-Range,Independent House,1320,2,2,2,2019,Semi-Furnished,1,0,0,0,0,1,103.71,Synthetic demo record
+DEMO-00790,Pune,Wakad,Mid-Range,Independent House,870,1,1,23,2021,Semi-Furnished,1,0,1,0,0,2,60.01,Synthetic demo record
+DEMO-00791,Pune,Moshi,Affordable,Villa,940,2,2,11,2026,Furnished,1,0,1,0,0,2,77.03,Synthetic demo record
+DEMO-00792,Pune,Undri,Affordable,Apartment,1470,3,3,20,2022,Semi-Furnished,0,1,0,0,0,1,57.79,Synthetic demo record
+DEMO-00793,Pune,Chakan,Affordable,Apartment,810,2,2,23,2021,Unfurnished,1,1,0,0,0,2,41.27,Synthetic demo record
+DEMO-00794,Pune,Undri,Affordable,Apartment,940,2,1,21,2022,Semi-Furnished,0,1,0,0,0,1,51.44,Synthetic demo record
+DEMO-00795,Pune,Hinjawadi,Mid-Range,Apartment,430,1,1,0,2018,Semi-Furnished,0,1,0,0,0,1,26.91,Synthetic demo record
+DEMO-00796,Pune,Wakad,Mid-Range,Apartment,1050,2,1,13,2026,Semi-Furnished,0,1,1,0,1,3,98.04,Synthetic demo record
+DEMO-00797,Pune,Kharadi,Mid-Range,Villa,1480,2,2,22,2021,Semi-Furnished,0,0,1,0,0,1,131.52,Synthetic demo record
+DEMO-00798,Pune,Wakad,Mid-Range,Apartment,930,3,4,15,2025,Semi-Furnished,1,1,1,1,1,5,84.94,Synthetic demo record
+DEMO-00799,Pune,Kharadi,Mid-Range,Apartment,1330,3,3,9,2026,Unfurnished,1,1,0,0,0,2,104.9,Synthetic demo record
+DEMO-00800,Pune,Hinjawadi,Mid-Range,Independent House,650,1,1,0,2023,Unfurnished,1,0,1,1,0,3,64.95,Synthetic demo record
+DEMO-00801,Pune,Wakad,Mid-Range,Apartment,410,1,1,12,2026,Unfurnished,0,1,0,1,0,2,34.02,Synthetic demo record
+DEMO-00802,Pune,Moshi,Affordable,Apartment,870,2,2,22,2021,Unfurnished,1,1,1,1,0,4,49.44,Synthetic demo record
+DEMO-00803,Pune,Kharadi,Mid-Range,Apartment,1330,4,3,19,2025,Furnished,1,1,0,0,0,2,101.26,Synthetic demo record
+DEMO-00804,Pune,Wakad,Mid-Range,Builder Floor,1180,2,2,9,2025,Unfurnished,1,1,0,0,0,2,92.58,Synthetic demo record
+DEMO-00805,Pune,Hinjawadi,Mid-Range,Independent House,1660,3,3,13,2021,Unfurnished,1,0,1,0,1,3,125.31,Synthetic demo record
+DEMO-00806,Pune,Baner,Premium,Villa,1390,3,3,13,2024,Semi-Furnished,1,0,0,0,0,1,213.11,Synthetic demo record
+DEMO-00807,Pune,Undri,Affordable,Independent House,1100,2,3,1,2025,Semi-Furnished,1,0,1,0,0,2,85.2,Synthetic demo record
+DEMO-00808,Pune,Undri,Affordable,Apartment,1300,2,2,8,2018,Semi-Furnished,0,1,1,1,0,3,64.48,Synthetic demo record
+DEMO-00809,Pune,Wakad,Mid-Range,Villa,300,1,1,7,2024,Unfurnished,1,0,0,1,0,2,31.93,Synthetic demo record
+DEMO-00810,Pune,Kharadi,Mid-Range,Builder Floor,1070,2,2,11,2026,Unfurnished,1,1,0,1,1,4,96.27,Synthetic demo record
+DEMO-00811,Pune,Undri,Affordable,Apartment,880,1,1,22,2024,Unfurnished,1,0,0,0,0,1,46.52,Synthetic demo record
+DEMO-00812,Pune,Wakad,Mid-Range,Apartment,1290,2,2,18,2019,Furnished,0,1,0,0,0,1,85.24,Synthetic demo record
+DEMO-00813,Pune,Kharadi,Mid-Range,Apartment,1630,3,2,1,2020,Unfurnished,1,1,0,0,1,3,110.62,Synthetic demo record
+DEMO-00814,Pune,Hinjawadi,Mid-Range,Apartment,830,2,3,19,2018,Unfurnished,1,1,1,0,1,4,50.23,Synthetic demo record
+DEMO-00815,Pune,Undri,Affordable,Villa,890,2,2,0,2024,Semi-Furnished,1,0,1,0,0,2,75.76,Synthetic demo record
+DEMO-00816,Pune,Kharadi,Mid-Range,Villa,1210,2,2,2,2022,Unfurnished,1,0,0,0,0,1,115.94,Synthetic demo record
+DEMO-00817,Pune,Wakad,Mid-Range,Apartment,770,1,1,6,2025,Unfurnished,1,1,1,0,0,3,66.76,Synthetic demo record
+DEMO-00818,Pune,Kharadi,Mid-Range,Independent House,630,1,2,13,2019,Unfurnished,1,0,0,0,1,2,43.46,Synthetic demo record
+DEMO-00819,Pune,Hinjawadi,Mid-Range,Independent House,850,1,1,25,2018,Furnished,1,0,0,0,0,1,52.08,Synthetic demo record
+DEMO-00820,Pune,Undri,Affordable,Villa,1450,3,3,23,2023,Unfurnished,1,0,1,0,0,2,100.45,Synthetic demo record
+DEMO-00821,Pune,Chakan,Affordable,Villa,350,1,1,0,2020,Semi-Furnished,1,0,1,1,0,3,22.61,Synthetic demo record
+DEMO-00822,Pune,Wakad,Mid-Range,Apartment,1280,2,1,1,2023,Unfurnished,0,0,0,0,0,0,103.79,Synthetic demo record
+DEMO-00823,Pune,Wakad,Mid-Range,Independent House,1250,2,2,15,2025,Furnished,0,0,1,0,0,1,110.62,Synthetic demo record
+DEMO-00824,Pune,Hinjawadi,Mid-Range,Apartment,520,1,1,4,2018,Semi-Furnished,1,1,0,0,0,2,35.68,Synthetic demo record
+DEMO-00825,Pune,Undri,Affordable,Apartment,1370,2,3,13,2018,Furnished,1,1,1,0,0,3,80.4,Synthetic demo record
+DEMO-00826,Pune,Koregaon Park,Premium,Apartment,1740,4,4,4,2020,Furnished,1,1,0,0,0,2,205.59,Synthetic demo record
+DEMO-00827,Pune,Chakan,Affordable,Apartment,540,1,2,23,2023,Semi-Furnished,1,0,1,0,1,3,26.06,Synthetic demo record
+DEMO-00828,Pune,Hinjawadi,Mid-Range,Apartment,570,1,1,13,2021,Furnished,0,0,0,0,0,0,42.67,Synthetic demo record
+DEMO-00829,Pune,Undri,Affordable,Apartment,1650,4,5,3,2020,Furnished,0,0,1,0,0,1,86.1,Synthetic demo record
+DEMO-00830,Pune,Undri,Affordable,Apartment,700,2,2,22,2018,Unfurnished,1,1,1,1,0,4,32.3,Synthetic demo record
+DEMO-00831,Pune,Wakad,Mid-Range,Apartment,990,3,3,13,2021,Semi-Furnished,0,1,1,1,0,3,65.6,Synthetic demo record
+DEMO-00832,Pune,Kharadi,Mid-Range,Apartment,1170,3,3,12,2023,Unfurnished,1,1,1,1,0,4,105.44,Synthetic demo record
+DEMO-00833,Pune,Kharadi,Mid-Range,Villa,1280,2,1,0,2022,Unfurnished,1,0,1,0,0,2,160.22,Synthetic demo record
+DEMO-00834,Pune,Wakad,Mid-Range,Apartment,1000,1,1,20,2022,Semi-Furnished,1,1,1,1,0,4,65.25,Synthetic demo record
+DEMO-00835,Pune,Wakad,Mid-Range,Apartment,1520,3,2,24,2026,Unfurnished,1,1,1,1,0,4,143.04,Synthetic demo record
+DEMO-00836,Pune,Kharadi,Mid-Range,Apartment,890,1,1,13,2019,Unfurnished,1,1,0,0,1,3,69.56,Synthetic demo record
+DEMO-00837,Pune,Kharadi,Mid-Range,Independent House,720,1,1,7,2025,Unfurnished,1,0,1,1,0,3,69.69,Synthetic demo record
+DEMO-00838,Pune,Kharadi,Mid-Range,Apartment,760,1,1,8,2025,Unfurnished,1,1,1,1,1,5,79.7,Synthetic demo record
+DEMO-00839,Pune,Viman Nagar,Premium,Apartment,1300,2,2,10,2026,Unfurnished,1,1,0,0,0,2,180.3,Synthetic demo record
+DEMO-00840,Pune,Wakad,Mid-Range,Villa,1180,2,2,11,2019,Unfurnished,0,0,1,0,0,1,62.5,Synthetic demo record
+DEMO-00841,Ahmedabad,Chandkheda,Mid-Range,Independent House,1260,2,3,7,2021,Furnished,1,0,1,1,0,3,69.32,Synthetic demo record
+DEMO-00842,Ahmedabad,Naroda,Affordable,Apartment,1280,2,3,13,2025,Unfurnished,1,1,1,1,1,5,50.73,Synthetic demo record
+DEMO-00843,Ahmedabad,Satellite,Premium,Apartment,1180,2,1,22,2022,Unfurnished,1,1,1,0,0,3,72.16,Synthetic demo record
+DEMO-00844,Ahmedabad,Chandkheda,Mid-Range,Builder Floor,480,1,1,4,2024,Unfurnished,1,1,1,0,0,3,28.87,Synthetic demo record
+DEMO-00845,Ahmedabad,Prahlad Nagar,Premium,Apartment,1180,3,3,22,2025,Semi-Furnished,1,0,0,1,1,3,86.87,Synthetic demo record
+DEMO-00846,Ahmedabad,Satellite,Premium,Apartment,880,2,2,16,2022,Semi-Furnished,0,1,1,1,1,4,63.32,Synthetic demo record
+DEMO-00847,Ahmedabad,Vastrapur,Mid-Range,Apartment,510,1,2,22,2026,Unfurnished,1,1,1,1,1,5,26.82,Synthetic demo record
+DEMO-00848,Ahmedabad,Vastrapur,Mid-Range,Apartment,860,2,3,8,2018,Semi-Furnished,1,1,1,1,1,5,36.36,Synthetic demo record
+DEMO-00849,Ahmedabad,Bopal,Mid-Range,Apartment,740,2,2,11,2022,Furnished,1,1,1,1,0,4,41.82,Synthetic demo record
+DEMO-00850,Ahmedabad,Naroda,Affordable,Apartment,940,2,2,8,2024,Semi-Furnished,1,1,1,0,0,3,35.28,Synthetic demo record
+DEMO-00851,Ahmedabad,Satellite,Premium,Apartment,950,1,1,23,2020,Unfurnished,1,1,1,1,0,4,62.56,Synthetic demo record
+DEMO-00852,Ahmedabad,Bodakdev,Premium,Apartment,740,1,1,10,2022,Semi-Furnished,1,1,0,0,0,2,54.63,Synthetic demo record
+DEMO-00853,Ahmedabad,Bodakdev,Premium,Apartment,620,1,2,19,2022,Unfurnished,1,1,1,1,0,4,44.68,Synthetic demo record
+DEMO-00854,Ahmedabad,Nikol,Affordable,Villa,590,1,1,14,2018,Unfurnished,0,0,1,0,1,2,18.9,Synthetic demo record
+DEMO-00855,Ahmedabad,Naroda,Affordable,Apartment,1710,2,3,17,2025,Unfurnished,0,1,1,0,1,3,67.74,Synthetic demo record
+DEMO-00856,Ahmedabad,Naroda,Affordable,Villa,1570,4,4,12,2020,Unfurnished,1,0,1,1,1,4,64.69,Synthetic demo record
+DEMO-00857,Ahmedabad,Satellite,Premium,Apartment,970,2,2,19,2018,Semi-Furnished,1,1,1,0,0,3,65.43,Synthetic demo record
+DEMO-00858,Ahmedabad,Bodakdev,Premium,Apartment,1380,3,2,23,2025,Semi-Furnished,1,1,1,0,1,4,112.85,Synthetic demo record
+DEMO-00859,Ahmedabad,Bodakdev,Premium,Apartment,1540,3,3,0,2021,Furnished,1,1,1,0,0,3,103.37,Synthetic demo record
+DEMO-00860,Ahmedabad,Naroda,Affordable,Apartment,1160,3,2,8,2019,Unfurnished,1,1,0,0,0,2,33.28,Synthetic demo record
+DEMO-00861,Ahmedabad,Bodakdev,Premium,Apartment,550,1,1,11,2020,Semi-Furnished,1,1,0,0,0,2,31.83,Synthetic demo record
+DEMO-00862,Ahmedabad,Chandkheda,Mid-Range,Apartment,1040,3,3,17,2022,Unfurnished,0,1,0,0,0,1,44.46,Synthetic demo record
+DEMO-00863,Ahmedabad,Chandkheda,Mid-Range,Independent House,1500,3,3,21,2026,Semi-Furnished,1,0,1,1,1,4,95.31,Synthetic demo record
+DEMO-00864,Ahmedabad,Prahlad Nagar,Premium,Independent House,490,1,2,25,2021,Semi-Furnished,1,0,1,0,1,3,35.48,Synthetic demo record
+DEMO-00865,Ahmedabad,Nikol,Affordable,Apartment,1100,2,1,7,2026,Unfurnished,1,0,0,1,0,2,53.43,Synthetic demo record
+DEMO-00866,Ahmedabad,Vastrapur,Mid-Range,Apartment,370,1,1,18,2022,Unfurnished,1,1,1,0,0,3,16.11,Synthetic demo record
+DEMO-00867,Ahmedabad,Prahlad Nagar,Premium,Apartment,300,1,1,20,2020,Semi-Furnished,1,1,1,1,0,4,22.01,Synthetic demo record
+DEMO-00868,Ahmedabad,Vastrapur,Mid-Range,Independent House,730,2,2,12,2018,Unfurnished,1,0,1,1,0,3,26.97,Synthetic demo record
+DEMO-00869,Ahmedabad,Bopal,Mid-Range,Apartment,1210,2,2,12,2026,Unfurnished,1,0,1,0,0,2,54.19,Synthetic demo record
+DEMO-00870,Ahmedabad,Chandkheda,Mid-Range,Apartment,1050,2,2,0,2018,Semi-Furnished,1,1,0,0,0,2,44.33,Synthetic demo record
+DEMO-00871,Ahmedabad,Bopal,Mid-Range,Apartment,300,1,1,3,2020,Unfurnished,1,0,0,0,0,1,13.32,Synthetic demo record
+DEMO-00872,Ahmedabad,Prahlad Nagar,Premium,Independent House,690,1,2,10,2019,Unfurnished,1,0,1,0,1,3,49.99,Synthetic demo record
+DEMO-00873,Ahmedabad,Naroda,Affordable,Independent House,1500,3,3,22,2025,Semi-Furnished,1,0,0,1,1,3,68.08,Synthetic demo record
+DEMO-00874,Ahmedabad,Satellite,Premium,Apartment,930,2,1,6,2021,Furnished,1,1,0,1,1,4,73.17,Synthetic demo record
+DEMO-00875,Ahmedabad,Bodakdev,Premium,Apartment,680,1,1,17,2025,Furnished,0,0,1,1,1,3,56.35,Synthetic demo record
+DEMO-00876,Ahmedabad,Satellite,Premium,Apartment,1350,2,2,14,2023,Unfurnished,1,1,0,0,0,2,109.35,Synthetic demo record
+DEMO-00877,Ahmedabad,Bopal,Mid-Range,Apartment,940,2,2,25,2018,Semi-Furnished,1,1,0,0,1,3,30.11,Synthetic demo record
+DEMO-00878,Ahmedabad,Naroda,Affordable,Independent House,720,2,2,22,2025,Furnished,1,0,1,0,0,2,28.29,Synthetic demo record
+DEMO-00879,Ahmedabad,Chandkheda,Mid-Range,Apartment,1150,2,2,18,2021,Semi-Furnished,1,0,1,0,0,2,48.38,Synthetic demo record
+DEMO-00880,Ahmedabad,Vatva,Affordable,Builder Floor,1060,2,2,19,2022,Furnished,1,1,1,1,0,4,36.86,Synthetic demo record
+DEMO-00881,Ahmedabad,Bopal,Mid-Range,Villa,630,2,1,0,2025,Unfurnished,1,0,0,0,1,2,44.94,Synthetic demo record
+DEMO-00882,Ahmedabad,Chandkheda,Mid-Range,Villa,970,2,1,15,2019,Furnished,0,0,0,1,1,2,48.67,Synthetic demo record
+DEMO-00883,Ahmedabad,Prahlad Nagar,Premium,Apartment,360,1,2,23,2023,Furnished,1,1,0,0,0,2,25.73,Synthetic demo record
+DEMO-00884,Ahmedabad,Bopal,Mid-Range,Independent House,1020,2,1,22,2026,Semi-Furnished,1,0,1,1,0,3,55.06,Synthetic demo record
+DEMO-00885,Ahmedabad,Bopal,Mid-Range,Apartment,1010,2,1,25,2021,Furnished,1,1,1,0,0,3,46.72,Synthetic demo record
+DEMO-00886,Ahmedabad,Bopal,Mid-Range,Villa,1140,2,1,22,2021,Semi-Furnished,0,0,0,0,0,0,62.65,Synthetic demo record
+DEMO-00887,Ahmedabad,Naroda,Affordable,Apartment,740,2,1,25,2020,Semi-Furnished,1,1,0,1,1,4,24.89,Synthetic demo record
+DEMO-00888,Ahmedabad,Vastrapur,Mid-Range,Apartment,1120,2,2,8,2022,Unfurnished,1,1,1,0,0,3,56.07,Synthetic demo record
+DEMO-00889,Ahmedabad,Vastrapur,Mid-Range,Apartment,1060,2,3,0,2026,Semi-Furnished,0,1,1,0,0,2,80.35,Synthetic demo record
+DEMO-00890,Ahmedabad,Vastrapur,Mid-Range,Apartment,1510,3,4,14,2021,Furnished,1,1,0,1,0,3,82.02,Synthetic demo record
+DEMO-00891,Ahmedabad,Prahlad Nagar,Premium,Apartment,710,2,2,20,2025,Furnished,1,1,0,0,0,2,60.4,Synthetic demo record
+DEMO-00892,Ahmedabad,Naroda,Affordable,Apartment,1080,3,3,2,2021,Semi-Furnished,0,1,0,0,1,2,36.94,Synthetic demo record
+DEMO-00893,Ahmedabad,Chandkheda,Mid-Range,Apartment,1300,3,3,18,2021,Unfurnished,1,0,1,1,0,3,57.78,Synthetic demo record
+DEMO-00894,Ahmedabad,Vastrapur,Mid-Range,Apartment,1110,2,3,3,2026,Unfurnished,1,1,1,0,0,3,65.63,Synthetic demo record
+DEMO-00895,Ahmedabad,Bopal,Mid-Range,Apartment,970,2,1,12,2025,Unfurnished,1,1,0,0,0,2,43.16,Synthetic demo record
+DEMO-00896,Ahmedabad,Naroda,Affordable,Apartment,1610,2,2,23,2020,Unfurnished,1,1,0,1,1,4,45.3,Synthetic demo record
+DEMO-00897,Ahmedabad,Bodakdev,Premium,Apartment,1780,3,3,17,2026,Unfurnished,1,1,0,0,0,2,155.09,Synthetic demo record
+DEMO-00898,Ahmedabad,Naroda,Affordable,Apartment,1230,2,2,12,2019,Semi-Furnished,0,1,1,0,0,2,35.91,Synthetic demo record
+DEMO-00899,Ahmedabad,Bopal,Mid-Range,Villa,1290,2,2,25,2022,Unfurnished,1,0,0,0,1,2,75.01,Synthetic demo record
+DEMO-00900,Ahmedabad,Chandkheda,Mid-Range,Apartment,1300,2,2,23,2020,Unfurnished,0,1,1,1,0,3,50.45,Synthetic demo record
+DEMO-00901,Ahmedabad,Chandkheda,Mid-Range,Apartment,1000,1,1,22,2019,Semi-Furnished,1,1,0,1,0,3,37.52,Synthetic demo record
+DEMO-00902,Ahmedabad,Satellite,Premium,Apartment,1490,4,5,21,2024,Semi-Furnished,0,0,0,1,0,1,105.0,Synthetic demo record
+DEMO-00903,Ahmedabad,Vastrapur,Mid-Range,Apartment,1280,2,2,9,2019,Unfurnished,1,1,1,0,1,4,47.97,Synthetic demo record
+DEMO-00904,Ahmedabad,Satellite,Premium,Villa,1440,3,2,0,2021,Semi-Furnished,1,0,1,1,1,4,140.07,Synthetic demo record
+DEMO-00905,Ahmedabad,Naroda,Affordable,Apartment,1490,2,1,8,2022,Unfurnished,0,1,0,0,0,1,54.19,Synthetic demo record
+DEMO-00906,Ahmedabad,Vastrapur,Mid-Range,Villa,1500,2,2,14,2023,Furnished,0,0,1,1,0,2,114.83,Synthetic demo record
+DEMO-00907,Ahmedabad,Bopal,Mid-Range,Apartment,650,1,1,5,2023,Unfurnished,0,0,0,1,0,1,28.86,Synthetic demo record
+DEMO-00908,Ahmedabad,Vastrapur,Mid-Range,Apartment,1060,2,3,20,2019,Furnished,1,1,1,0,0,3,46.36,Synthetic demo record
+DEMO-00909,Ahmedabad,Bodakdev,Premium,Apartment,1230,3,3,18,2022,Unfurnished,1,0,0,0,0,1,85.37,Synthetic demo record
+DEMO-00910,Ahmedabad,Vastrapur,Mid-Range,Apartment,1280,2,2,22,2023,Semi-Furnished,1,1,1,0,1,4,68.86,Synthetic demo record
+DEMO-00911,Ahmedabad,Vatva,Affordable,Apartment,2040,4,4,0,2020,Semi-Furnished,0,0,0,0,1,1,78.9,Synthetic demo record
+DEMO-00912,Ahmedabad,Bopal,Mid-Range,Apartment,1190,3,3,11,2018,Unfurnished,1,1,0,0,0,2,39.92,Synthetic demo record
+DEMO-00913,Ahmedabad,Bopal,Mid-Range,Builder Floor,860,2,1,18,2024,Semi-Furnished,1,0,1,0,0,2,52.24,Synthetic demo record
+DEMO-00914,Ahmedabad,Bodakdev,Premium,Apartment,1120,2,1,7,2024,Semi-Furnished,1,0,1,1,1,4,112.53,Synthetic demo record
+DEMO-00915,Ahmedabad,Vastrapur,Mid-Range,Independent House,960,2,1,20,2018,Unfurnished,1,0,0,0,0,1,24.9,Synthetic demo record
+DEMO-00916,Ahmedabad,Prahlad Nagar,Premium,Apartment,890,1,2,5,2021,Furnished,1,1,0,0,0,2,67.18,Synthetic demo record
+DEMO-00917,Ahmedabad,Chandkheda,Mid-Range,Apartment,370,1,1,22,2018,Unfurnished,0,1,1,1,0,3,12.0,Synthetic demo record
+DEMO-00918,Ahmedabad,Vatva,Affordable,Apartment,300,1,1,12,2024,Unfurnished,1,1,1,1,0,4,12.0,Synthetic demo record
+DEMO-00919,Ahmedabad,Nikol,Affordable,Apartment,790,2,1,21,2021,Unfurnished,1,1,0,1,0,3,21.69,Synthetic demo record
+DEMO-00920,Ahmedabad,Satellite,Premium,Builder Floor,1080,2,3,11,2021,Unfurnished,1,1,1,0,0,3,77.89,Synthetic demo record
+DEMO-00921,Ahmedabad,Vatva,Affordable,Apartment,790,2,2,10,2021,Semi-Furnished,1,1,1,0,1,4,29.63,Synthetic demo record
+DEMO-00922,Ahmedabad,Bopal,Mid-Range,Apartment,950,2,2,10,2020,Unfurnished,0,1,0,0,0,1,44.94,Synthetic demo record
+DEMO-00923,Ahmedabad,Vatva,Affordable,Independent House,1100,2,2,10,2026,Unfurnished,1,0,1,0,0,2,53.08,Synthetic demo record
+DEMO-00924,Ahmedabad,Chandkheda,Mid-Range,Apartment,700,1,1,25,2025,Semi-Furnished,1,0,0,0,0,1,39.07,Synthetic demo record
+DEMO-00925,Ahmedabad,Bopal,Mid-Range,Apartment,620,2,1,2,2020,Semi-Furnished,1,1,1,1,1,5,35.71,Synthetic demo record
+DEMO-00926,Ahmedabad,Bodakdev,Premium,Apartment,1000,2,2,24,2023,Unfurnished,0,0,1,0,1,2,61.89,Synthetic demo record
+DEMO-00927,Ahmedabad,Bopal,Mid-Range,Apartment,850,1,1,12,2019,Unfurnished,1,1,1,0,1,4,38.53,Synthetic demo record
+DEMO-00928,Ahmedabad,Bodakdev,Premium,Apartment,470,1,1,20,2020,Unfurnished,1,1,0,1,0,3,30.81,Synthetic demo record
+DEMO-00929,Ahmedabad,Vastrapur,Mid-Range,Apartment,1030,2,2,23,2025,Semi-Furnished,1,1,0,1,0,3,52.87,Synthetic demo record
+DEMO-00930,Ahmedabad,Bopal,Mid-Range,Apartment,830,2,1,15,2020,Unfurnished,0,1,0,0,0,1,38.5,Synthetic demo record
+DEMO-00931,Ahmedabad,Bopal,Mid-Range,Apartment,920,3,3,5,2025,Furnished,0,1,0,0,0,1,60.68,Synthetic demo record
+DEMO-00932,Ahmedabad,Bodakdev,Premium,Apartment,470,2,2,14,2022,Unfurnished,1,1,1,1,0,4,40.25,Synthetic demo record
+DEMO-00933,Ahmedabad,Vatva,Affordable,Villa,410,1,2,8,2020,Unfurnished,1,0,1,0,1,3,15.35,Synthetic demo record
+DEMO-00934,Ahmedabad,Vastrapur,Mid-Range,Apartment,1400,3,2,24,2025,Semi-Furnished,0,1,0,0,0,1,77.51,Synthetic demo record
+DEMO-00935,Ahmedabad,Bodakdev,Premium,Apartment,380,1,1,12,2019,Semi-Furnished,0,1,1,0,0,2,22.41,Synthetic demo record
+DEMO-00936,Ahmedabad,Vatva,Affordable,Apartment,1030,2,2,24,2019,Furnished,0,1,1,1,0,3,29.12,Synthetic demo record
+DEMO-00937,Ahmedabad,Bodakdev,Premium,Apartment,1550,2,3,15,2019,Semi-Furnished,0,1,0,1,1,3,104.94,Synthetic demo record
+DEMO-00938,Ahmedabad,Nikol,Affordable,Apartment,860,2,2,24,2018,Furnished,1,1,0,0,0,2,20.31,Synthetic demo record
+DEMO-00939,Ahmedabad,Satellite,Premium,Apartment,1590,2,2,15,2025,Unfurnished,1,1,1,1,1,5,137.14,Synthetic demo record
+DEMO-00940,Ahmedabad,Naroda,Affordable,Apartment,1390,2,3,23,2023,Furnished,1,1,0,0,1,3,45.91,Synthetic demo record
+DEMO-00941,Ahmedabad,Nikol,Affordable,Apartment,750,1,2,4,2025,Semi-Furnished,1,1,1,0,0,3,29.5,Synthetic demo record
+DEMO-00942,Ahmedabad,Bopal,Mid-Range,Apartment,1150,2,2,25,2026,Unfurnished,1,0,0,0,0,1,49.42,Synthetic demo record
+DEMO-00943,Ahmedabad,Bodakdev,Premium,Apartment,1450,2,3,24,2018,Semi-Furnished,0,1,1,1,0,3,83.78,Synthetic demo record
+DEMO-00944,Ahmedabad,Bopal,Mid-Range,Apartment,1020,2,3,18,2021,Unfurnished,1,1,0,1,0,3,50.6,Synthetic demo record
+DEMO-00945,Ahmedabad,Satellite,Premium,Apartment,1150,3,4,23,2025,Unfurnished,0,1,0,1,0,2,73.25,Synthetic demo record
+DEMO-00946,Ahmedabad,Chandkheda,Mid-Range,Independent House,990,2,2,14,2024,Semi-Furnished,1,0,1,0,0,2,60.02,Synthetic demo record
+DEMO-00947,Ahmedabad,Chandkheda,Mid-Range,Apartment,1110,2,1,12,2022,Unfurnished,1,1,1,1,0,4,46.74,Synthetic demo record
+DEMO-00948,Ahmedabad,Nikol,Affordable,Apartment,300,1,2,17,2018,Unfurnished,1,0,0,1,1,3,12.0,Synthetic demo record
+DEMO-00949,Ahmedabad,Vatva,Affordable,Villa,1430,2,1,3,2019,Semi-Furnished,0,0,0,1,0,1,54.29,Synthetic demo record
+DEMO-00950,Ahmedabad,Vastrapur,Mid-Range,Independent House,880,2,3,9,2018,Furnished,0,0,0,0,0,0,38.91,Synthetic demo record
+DEMO-00951,Ahmedabad,Naroda,Affordable,Apartment,1240,2,2,15,2018,Furnished,1,1,0,0,0,2,31.31,Synthetic demo record
+DEMO-00952,Ahmedabad,Nikol,Affordable,Apartment,860,2,2,22,2019,Semi-Furnished,0,1,1,1,0,3,24.07,Synthetic demo record
+DEMO-00953,Ahmedabad,Satellite,Premium,Apartment,1070,2,2,2,2019,Semi-Furnished,1,1,0,1,1,4,90.6,Synthetic demo record
+DEMO-00954,Ahmedabad,Bopal,Mid-Range,Apartment,370,1,1,3,2024,Unfurnished,1,1,0,1,0,3,20.1,Synthetic demo record
+DEMO-00955,Ahmedabad,Vastrapur,Mid-Range,Apartment,1850,3,2,19,2023,Furnished,1,1,1,0,1,4,97.61,Synthetic demo record
+DEMO-00956,Ahmedabad,Prahlad Nagar,Premium,Apartment,1350,3,4,1,2025,Furnished,0,1,0,0,1,2,126.1,Synthetic demo record
+DEMO-00957,Ahmedabad,Naroda,Affordable,Apartment,1290,2,2,0,2025,Semi-Furnished,1,1,1,1,0,4,49.43,Synthetic demo record
+DEMO-00958,Ahmedabad,Vastrapur,Mid-Range,Apartment,860,1,1,4,2019,Unfurnished,1,1,1,1,0,4,37.78,Synthetic demo record
+DEMO-00959,Ahmedabad,Bodakdev,Premium,Apartment,630,2,2,21,2024,Unfurnished,1,1,1,0,0,3,43.0,Synthetic demo record
+DEMO-00960,Ahmedabad,Chandkheda,Mid-Range,Apartment,1010,1,1,3,2024,Semi-Furnished,1,1,0,0,0,2,59.54,Synthetic demo record
+DEMO-00961,Ahmedabad,Nikol,Affordable,Apartment,790,1,1,5,2021,Unfurnished,1,0,0,1,1,3,27.65,Synthetic demo record
+DEMO-00962,Ahmedabad,Satellite,Premium,Apartment,1270,2,2,2,2023,Furnished,1,1,1,1,0,4,119.98,Synthetic demo record
+DEMO-00963,Ahmedabad,Naroda,Affordable,Villa,300,1,1,20,2020,Unfurnished,0,0,0,1,0,1,12.0,Synthetic demo record
+DEMO-00964,Ahmedabad,Bodakdev,Premium,Apartment,1040,2,2,13,2021,Unfurnished,0,1,1,0,0,2,79.35,Synthetic demo record
+DEMO-00965,Ahmedabad,Bopal,Mid-Range,Apartment,1530,3,3,6,2024,Unfurnished,0,0,1,1,1,3,77.43,Synthetic demo record
+DEMO-00966,Ahmedabad,Chandkheda,Mid-Range,Independent House,1120,2,1,1,2021,Semi-Furnished,1,0,0,0,0,1,68.56,Synthetic demo record
+DEMO-00967,Ahmedabad,Nikol,Affordable,Independent House,790,2,3,8,2026,Semi-Furnished,1,0,0,0,0,1,40.18,Synthetic demo record
+DEMO-00968,Ahmedabad,Satellite,Premium,Apartment,1020,2,3,11,2019,Furnished,1,1,1,0,0,3,64.57,Synthetic demo record
+DEMO-00969,Ahmedabad,Chandkheda,Mid-Range,Apartment,1110,3,3,1,2025,Semi-Furnished,1,1,1,0,1,4,64.34,Synthetic demo record
+DEMO-00970,Ahmedabad,Bopal,Mid-Range,Apartment,1530,3,3,16,2018,Unfurnished,1,1,0,0,1,3,47.18,Synthetic demo record
+DEMO-00971,Ahmedabad,Vatva,Affordable,Independent House,1490,3,2,25,2019,Semi-Furnished,0,0,1,1,0,2,34.55,Synthetic demo record
+DEMO-00972,Ahmedabad,Naroda,Affordable,Apartment,1010,3,2,5,2023,Unfurnished,1,1,1,1,0,4,40.64,Synthetic demo record
+DEMO-00973,Ahmedabad,Chandkheda,Mid-Range,Apartment,1600,3,2,14,2023,Unfurnished,0,1,1,0,0,2,79.06,Synthetic demo record
+DEMO-00974,Ahmedabad,Nikol,Affordable,Villa,1600,3,3,13,2018,Unfurnished,1,0,0,1,0,2,45.77,Synthetic demo record
+DEMO-00975,Ahmedabad,Satellite,Premium,Builder Floor,950,2,2,9,2022,Semi-Furnished,1,1,1,0,0,3,88.1,Synthetic demo record
+DEMO-00976,Ahmedabad,Prahlad Nagar,Premium,Villa,1730,3,4,15,2018,Unfurnished,0,0,0,1,0,1,141.35,Synthetic demo record
+DEMO-00977,Ahmedabad,Chandkheda,Mid-Range,Independent House,1040,2,1,4,2023,Furnished,1,0,1,1,0,3,55.4,Synthetic demo record
+DEMO-00978,Ahmedabad,Chandkheda,Mid-Range,Apartment,780,1,2,14,2018,Furnished,1,1,1,1,1,5,33.26,Synthetic demo record
+DEMO-00979,Ahmedabad,Bopal,Mid-Range,Independent House,700,2,1,15,2020,Furnished,1,0,1,0,0,2,34.09,Synthetic demo record
+DEMO-00980,Ahmedabad,Prahlad Nagar,Premium,Villa,1030,2,3,17,2018,Unfurnished,1,0,0,0,0,1,67.95,Synthetic demo record
+DEMO-00981,Kolkata,Salt Lake,Premium,Apartment,1180,2,1,11,2026,Unfurnished,1,1,1,1,0,4,98.76,Synthetic demo record
+DEMO-00982,Kolkata,Barasat,Affordable,Independent House,1440,4,5,19,2024,Unfurnished,1,0,0,0,0,1,50.93,Synthetic demo record
+DEMO-00983,Kolkata,Rajarhat,Mid-Range,Apartment,1290,2,1,23,2022,Furnished,1,0,1,0,0,2,58.91,Synthetic demo record
+DEMO-00984,Kolkata,Rajarhat,Mid-Range,Apartment,700,2,3,19,2021,Semi-Furnished,1,1,1,0,0,3,25.61,Synthetic demo record
+DEMO-00985,Kolkata,Rajarhat,Mid-Range,Independent House,300,1,1,13,2020,Unfurnished,1,0,1,0,0,2,14.5,Synthetic demo record
+DEMO-00986,Kolkata,Behala,Mid-Range,Apartment,680,1,2,15,2019,Furnished,1,1,1,0,1,4,27.03,Synthetic demo record
+DEMO-00987,Kolkata,Rajarhat,Mid-Range,Independent House,300,1,2,22,2026,Furnished,0,0,1,1,0,2,13.41,Synthetic demo record
+DEMO-00988,Kolkata,Sonarpur,Affordable,Apartment,1610,3,4,21,2024,Unfurnished,1,1,0,0,0,2,71.32,Synthetic demo record
+DEMO-00989,Kolkata,Barasat,Affordable,Apartment,990,2,2,9,2026,Furnished,1,1,0,1,0,3,49.08,Synthetic demo record
+DEMO-00990,Kolkata,Salt Lake,Premium,Builder Floor,660,1,1,24,2025,Unfurnished,0,0,0,0,0,0,48.84,Synthetic demo record
+DEMO-00991,Kolkata,New Town,Premium,Apartment,1110,3,3,3,2019,Furnished,0,0,0,0,0,0,79.19,Synthetic demo record
+DEMO-00992,Kolkata,Dum Dum,Mid-Range,Apartment,1360,3,3,22,2021,Semi-Furnished,1,1,1,1,0,4,44.09,Synthetic demo record
+DEMO-00993,Kolkata,Ballygunge,Premium,Builder Floor,520,1,2,2,2019,Semi-Furnished,1,1,1,0,0,3,31.9,Synthetic demo record
+DEMO-00994,Kolkata,Sonarpur,Affordable,Villa,360,1,1,24,2022,Semi-Furnished,1,0,0,0,0,1,13.69,Synthetic demo record
+DEMO-00995,Kolkata,Salt Lake,Premium,Apartment,1500,3,3,13,2018,Unfurnished,1,1,0,1,1,4,89.81,Synthetic demo record
+DEMO-00996,Kolkata,Dum Dum,Mid-Range,Apartment,850,1,1,15,2025,Unfurnished,1,0,0,1,0,2,37.19,Synthetic demo record
+DEMO-00997,Kolkata,Behala,Mid-Range,Apartment,1210,3,3,6,2022,Unfurnished,1,0,0,0,0,1,66.81,Synthetic demo record
+DEMO-00998,Kolkata,Rajarhat,Mid-Range,Apartment,1100,2,3,6,2025,Semi-Furnished,1,0,1,1,1,4,82.46,Synthetic demo record
+DEMO-00999,Kolkata,Barasat,Affordable,Apartment,1480,4,4,13,2020,Semi-Furnished,0,1,1,0,0,2,45.59,Synthetic demo record
+DEMO-01000,Kolkata,Behala,Mid-Range,Independent House,1050,2,2,12,2024,Semi-Furnished,1,0,0,0,0,1,50.15,Synthetic demo record
+DEMO-01001,Kolkata,Barasat,Affordable,Apartment,370,1,1,5,2018,Semi-Furnished,1,1,1,0,1,4,12.0,Synthetic demo record
+DEMO-01002,Kolkata,Behala,Mid-Range,Apartment,1290,3,3,1,2022,Unfurnished,1,1,0,0,0,2,61.19,Synthetic demo record
+DEMO-01003,Kolkata,Dum Dum,Mid-Range,Villa,550,1,1,6,2022,Semi-Furnished,0,0,0,1,0,1,33.19,Synthetic demo record
+DEMO-01004,Kolkata,Rajarhat,Mid-Range,Independent House,300,1,1,3,2020,Furnished,0,0,0,1,0,1,13.37,Synthetic demo record
+DEMO-01005,Kolkata,Behala,Mid-Range,Independent House,770,2,2,0,2025,Semi-Furnished,0,0,1,0,1,2,56.93,Synthetic demo record
+DEMO-01006,Kolkata,Sonarpur,Affordable,Independent House,1080,2,2,1,2019,Furnished,0,0,0,0,1,1,45.4,Synthetic demo record
+DEMO-01007,Kolkata,Barasat,Affordable,Apartment,980,2,2,0,2018,Semi-Furnished,0,1,1,0,0,2,31.71,Synthetic demo record
+DEMO-01008,Kolkata,Barasat,Affordable,Apartment,1720,3,4,9,2024,Unfurnished,1,1,1,1,0,4,67.86,Synthetic demo record
+DEMO-01009,Kolkata,Dum Dum,Mid-Range,Apartment,420,1,1,9,2018,Semi-Furnished,1,1,1,0,0,3,17.28,Synthetic demo record
+DEMO-01010,Kolkata,Salt Lake,Premium,Apartment,750,1,1,2,2022,Furnished,1,0,0,1,1,3,58.68,Synthetic demo record
+DEMO-01011,Kolkata,Dum Dum,Mid-Range,Apartment,910,2,2,22,2020,Unfurnished,1,0,0,0,0,1,36.0,Synthetic demo record
+DEMO-01012,Kolkata,Ballygunge,Premium,Apartment,1230,2,3,5,2018,Unfurnished,0,1,0,1,0,2,77.77,Synthetic demo record
+DEMO-01013,Kolkata,Behala,Mid-Range,Apartment,940,1,1,22,2026,Furnished,0,1,1,0,1,3,52.33,Synthetic demo record
+DEMO-01014,Kolkata,Ballygunge,Premium,Villa,950,2,2,9,2023,Semi-Furnished,1,0,1,1,1,4,101.41,Synthetic demo record
+DEMO-01015,Kolkata,Dum Dum,Mid-Range,Independent House,920,2,1,4,2019,Unfurnished,1,0,1,0,0,2,30.76,Synthetic demo record
+DEMO-01016,Kolkata,Behala,Mid-Range,Villa,890,2,2,15,2026,Semi-Furnished,0,0,1,1,0,2,64.41,Synthetic demo record
+DEMO-01017,Kolkata,Dum Dum,Mid-Range,Apartment,730,1,1,19,2023,Unfurnished,0,0,1,1,1,3,34.48,Synthetic demo record
+DEMO-01018,Kolkata,Joka,Affordable,Apartment,1160,2,2,10,2021,Semi-Furnished,0,1,0,0,1,2,42.51,Synthetic demo record
+DEMO-01019,Kolkata,Sonarpur,Affordable,Apartment,1300,2,2,14,2021,Unfurnished,1,1,0,0,0,2,37.43,Synthetic demo record
+DEMO-01020,Kolkata,Sonarpur,Affordable,Apartment,850,1,1,1,2024,Semi-Furnished,1,1,0,1,0,3,31.59,Synthetic demo record
+DEMO-01021,Kolkata,Barasat,Affordable,Villa,1330,3,3,18,2023,Furnished,1,0,0,1,0,2,66.58,Synthetic demo record
+DEMO-01022,Kolkata,Dum Dum,Mid-Range,Apartment,1520,3,3,2,2025,Semi-Furnished,1,1,0,0,1,3,91.63,Synthetic demo record
+DEMO-01023,Kolkata,Barasat,Affordable,Apartment,1530,4,5,11,2026,Semi-Furnished,1,1,0,1,0,3,64.16,Synthetic demo record
+DEMO-01024,Kolkata,Rajarhat,Mid-Range,Apartment,530,1,1,20,2018,Furnished,1,1,0,0,0,2,20.31,Synthetic demo record
+DEMO-01025,Kolkata,Joka,Affordable,Builder Floor,800,2,1,11,2021,Semi-Furnished,0,1,1,0,1,3,23.62,Synthetic demo record
+DEMO-01026,Kolkata,Rajarhat,Mid-Range,Apartment,460,1,1,25,2025,Semi-Furnished,1,1,0,1,0,3,24.93,Synthetic demo record
+DEMO-01027,Kolkata,Joka,Affordable,Independent House,570,1,2,6,2025,Furnished,1,0,0,0,0,1,26.42,Synthetic demo record
+DEMO-01028,Kolkata,Rajarhat,Mid-Range,Apartment,1760,4,3,17,2018,Semi-Furnished,1,1,1,1,0,4,82.45,Synthetic demo record
+DEMO-01029,Kolkata,Sonarpur,Affordable,Apartment,1360,2,3,22,2020,Furnished,0,1,1,0,0,2,34.22,Synthetic demo record
+DEMO-01030,Kolkata,Dum Dum,Mid-Range,Apartment,630,1,1,20,2021,Unfurnished,1,1,1,1,0,4,24.46,Synthetic demo record
+DEMO-01031,Kolkata,Sonarpur,Affordable,Apartment,940,2,2,7,2020,Unfurnished,1,1,1,1,0,4,33.38,Synthetic demo record
+DEMO-01032,Kolkata,Barasat,Affordable,Villa,1040,2,1,9,2026,Semi-Furnished,1,0,0,1,0,2,60.76,Synthetic demo record
+DEMO-01033,Kolkata,Behala,Mid-Range,Apartment,1510,3,3,12,2021,Unfurnished,0,1,1,1,0,3,68.75,Synthetic demo record
+DEMO-01034,Kolkata,Barasat,Affordable,Apartment,1360,3,4,25,2018,Semi-Furnished,0,1,1,0,0,2,35.92,Synthetic demo record
+DEMO-01035,Kolkata,Sonarpur,Affordable,Independent House,1400,3,3,8,2022,Semi-Furnished,1,0,1,0,1,3,57.15,Synthetic demo record
+DEMO-01036,Kolkata,Joka,Affordable,Apartment,1490,3,3,24,2020,Furnished,1,1,0,1,1,4,37.45,Synthetic demo record
+DEMO-01037,Kolkata,Rajarhat,Mid-Range,Independent House,860,2,2,24,2026,Furnished,1,0,1,0,1,3,56.18,Synthetic demo record
+DEMO-01038,Kolkata,Behala,Mid-Range,Apartment,1720,3,3,14,2024,Semi-Furnished,1,1,1,0,0,3,102.79,Synthetic demo record
+DEMO-01039,Kolkata,Behala,Mid-Range,Independent House,1250,3,4,16,2024,Unfurnished,1,0,1,0,0,2,72.99,Synthetic demo record
+DEMO-01040,Kolkata,New Town,Premium,Independent House,1440,3,4,7,2018,Unfurnished,1,0,1,0,1,3,107.43,Synthetic demo record
+DEMO-01041,Kolkata,Dum Dum,Mid-Range,Apartment,510,1,1,3,2023,Semi-Furnished,1,1,0,1,0,3,29.39,Synthetic demo record
+DEMO-01042,Kolkata,Behala,Mid-Range,Apartment,300,1,2,15,2022,Unfurnished,1,1,1,1,0,4,14.5,Synthetic demo record
+DEMO-01043,Kolkata,Rajarhat,Mid-Range,Independent House,720,2,3,15,2024,Semi-Furnished,1,0,1,0,1,3,41.75,Synthetic demo record
+DEMO-01044,Kolkata,Barasat,Affordable,Apartment,1590,4,4,4,2023,Semi-Furnished,1,1,1,0,1,4,64.79,Synthetic demo record
+DEMO-01045,Kolkata,Barasat,Affordable,Apartment,1140,2,2,17,2020,Semi-Furnished,1,1,0,1,0,3,36.57,Synthetic demo record
+DEMO-01046,Kolkata,Sonarpur,Affordable,Builder Floor,1210,3,3,13,2020,Furnished,1,1,1,1,0,4,42.65,Synthetic demo record
+DEMO-01047,Kolkata,Joka,Affordable,Apartment,1320,3,2,21,2026,Unfurnished,1,1,0,0,1,3,65.89,Synthetic demo record
+DEMO-01048,Kolkata,Behala,Mid-Range,Apartment,900,1,1,3,2024,Unfurnished,1,1,0,1,0,3,51.36,Synthetic demo record
+DEMO-01049,Kolkata,New Town,Premium,Independent House,1010,2,2,14,2021,Unfurnished,1,0,0,0,1,2,56.24,Synthetic demo record
+DEMO-01050,Kolkata,Dum Dum,Mid-Range,Apartment,1020,2,2,25,2022,Unfurnished,1,1,1,0,0,3,46.5,Synthetic demo record
+DEMO-01051,Kolkata,Rajarhat,Mid-Range,Independent House,1010,2,2,6,2018,Unfurnished,0,0,0,0,0,0,44.73,Synthetic demo record
+DEMO-01052,Kolkata,Behala,Mid-Range,Villa,1110,2,2,9,2023,Semi-Furnished,1,0,0,1,1,3,75.66,Synthetic demo record
+DEMO-01053,Kolkata,New Town,Premium,Apartment,680,2,1,10,2022,Unfurnished,0,1,1,0,0,2,48.26,Synthetic demo record
+DEMO-01054,Kolkata,New Town,Premium,Apartment,860,1,1,22,2025,Unfurnished,1,1,0,0,0,2,51.76,Synthetic demo record
+DEMO-01055,Kolkata,Barasat,Affordable,Apartment,1350,2,2,15,2021,Semi-Furnished,1,1,0,0,0,2,46.48,Synthetic demo record
+DEMO-01056,Kolkata,New Town,Premium,Apartment,630,2,2,17,2024,Semi-Furnished,1,0,0,1,1,3,46.25,Synthetic demo record
+DEMO-01057,Kolkata,Joka,Affordable,Apartment,1110,2,3,3,2024,Unfurnished,0,1,0,0,0,1,46.02,Synthetic demo record
+DEMO-01058,Kolkata,Barasat,Affordable,Villa,750,1,2,6,2018,Furnished,1,0,1,0,0,2,32.05,Synthetic demo record
+DEMO-01059,Kolkata,Dum Dum,Mid-Range,Apartment,1430,3,3,10,2026,Unfurnished,1,1,1,0,0,3,90.53,Synthetic demo record
+DEMO-01060,Kolkata,New Town,Premium,Apartment,710,1,1,15,2020,Furnished,0,1,0,0,0,1,46.39,Synthetic demo record
+DEMO-01061,Kolkata,Sonarpur,Affordable,Villa,770,1,1,0,2020,Unfurnished,1,0,1,1,1,4,33.23,Synthetic demo record
+DEMO-01062,Kolkata,Dum Dum,Mid-Range,Apartment,770,1,1,18,2025,Unfurnished,1,1,0,0,0,2,36.12,Synthetic demo record
+DEMO-01063,Kolkata,Dum Dum,Mid-Range,Independent House,1170,3,3,3,2020,Semi-Furnished,1,0,1,1,0,3,53.67,Synthetic demo record
+DEMO-01064,Kolkata,Behala,Mid-Range,Builder Floor,300,1,2,11,2024,Furnished,1,1,1,1,1,5,19.23,Synthetic demo record
+DEMO-01065,Kolkata,Rajarhat,Mid-Range,Independent House,1330,3,2,21,2023,Unfurnished,0,0,0,0,1,1,56.86,Synthetic demo record
+DEMO-01066,Kolkata,Dum Dum,Mid-Range,Apartment,780,3,3,13,2018,Unfurnished,0,0,0,1,0,1,26.61,Synthetic demo record
+DEMO-01067,Kolkata,Joka,Affordable,Apartment,800,1,1,17,2019,Unfurnished,1,1,0,1,1,4,21.92,Synthetic demo record
+DEMO-01068,Kolkata,Behala,Mid-Range,Apartment,300,1,1,13,2025,Semi-Furnished,0,1,0,0,1,2,16.46,Synthetic demo record
+DEMO-01069,Kolkata,Rajarhat,Mid-Range,Builder Floor,1610,3,2,23,2021,Unfurnished,0,1,0,0,0,1,73.99,Synthetic demo record
+DEMO-01070,Kolkata,Dum Dum,Mid-Range,Apartment,1110,2,2,21,2024,Semi-Furnished,1,1,0,0,0,2,54.22,Synthetic demo record
+DEMO-01071,Kolkata,Behala,Mid-Range,Apartment,830,2,1,25,2026,Unfurnished,1,1,0,0,0,2,40.25,Synthetic demo record
+DEMO-01072,Kolkata,Ballygunge,Premium,Apartment,510,1,1,25,2023,Unfurnished,1,0,1,0,0,2,31.89,Synthetic demo record
+DEMO-01073,Kolkata,Rajarhat,Mid-Range,Apartment,940,2,1,21,2023,Furnished,1,1,0,1,0,3,54.14,Synthetic demo record
+DEMO-01074,Kolkata,Behala,Mid-Range,Independent House,790,1,1,5,2018,Unfurnished,0,0,1,0,0,1,39.1,Synthetic demo record
+DEMO-01075,Kolkata,Sonarpur,Affordable,Apartment,340,1,1,10,2023,Unfurnished,1,1,1,0,0,3,12.0,Synthetic demo record
+DEMO-01076,Kolkata,Barasat,Affordable,Apartment,1040,2,1,7,2024,Unfurnished,1,1,0,0,0,2,39.2,Synthetic demo record
+DEMO-01077,Kolkata,Rajarhat,Mid-Range,Apartment,750,2,3,5,2022,Semi-Furnished,1,1,0,0,0,2,38.23,Synthetic demo record
+DEMO-01078,Kolkata,Barasat,Affordable,Villa,1080,1,1,23,2019,Unfurnished,0,0,1,1,0,2,32.1,Synthetic demo record
+DEMO-01079,Kolkata,Behala,Mid-Range,Apartment,1710,3,3,3,2021,Semi-Furnished,1,1,0,0,1,3,100.75,Synthetic demo record
+DEMO-01080,Kolkata,Salt Lake,Premium,Villa,1250,3,3,3,2025,Furnished,1,0,0,0,0,1,167.73,Synthetic demo record
+DEMO-01081,Kolkata,Sonarpur,Affordable,Apartment,1390,3,3,18,2026,Semi-Furnished,1,0,1,0,0,2,49.93,Synthetic demo record
+DEMO-01082,Kolkata,Rajarhat,Mid-Range,Apartment,940,1,1,0,2024,Semi-Furnished,1,1,0,0,0,2,61.02,Synthetic demo record
+DEMO-01083,Kolkata,Rajarhat,Mid-Range,Builder Floor,1790,4,4,19,2021,Semi-Furnished,0,1,0,1,0,2,60.78,Synthetic demo record
+DEMO-01084,Kolkata,Sonarpur,Affordable,Apartment,880,2,1,0,2025,Semi-Furnished,0,1,1,0,0,2,44.86,Synthetic demo record
+DEMO-01085,Kolkata,Dum Dum,Mid-Range,Apartment,730,1,1,21,2025,Unfurnished,1,0,0,0,1,2,31.87,Synthetic demo record
+DEMO-01086,Kolkata,Behala,Mid-Range,Apartment,590,1,2,17,2022,Unfurnished,1,1,0,0,1,3,27.46,Synthetic demo record
+DEMO-01087,Kolkata,Behala,Mid-Range,Independent House,830,2,2,11,2020,Semi-Furnished,0,0,0,1,1,2,42.71,Synthetic demo record
+DEMO-01088,Kolkata,Salt Lake,Premium,Apartment,1010,2,1,2,2021,Furnished,0,0,0,1,1,2,74.55,Synthetic demo record
+DEMO-01089,Kolkata,Rajarhat,Mid-Range,Apartment,690,1,2,25,2019,Semi-Furnished,0,1,1,0,0,2,24.97,Synthetic demo record
+DEMO-01090,Kolkata,Rajarhat,Mid-Range,Builder Floor,1170,2,3,12,2023,Furnished,1,1,0,0,0,2,60.57,Synthetic demo record
+DEMO-01091,Kolkata,Rajarhat,Mid-Range,Apartment,1030,2,3,7,2022,Semi-Furnished,1,0,0,0,0,1,48.68,Synthetic demo record
+DEMO-01092,Kolkata,Rajarhat,Mid-Range,Independent House,950,1,1,19,2026,Semi-Furnished,1,0,0,0,1,2,62.07,Synthetic demo record
+DEMO-01093,Kolkata,Sonarpur,Affordable,Apartment,1200,2,1,7,2021,Semi-Furnished,0,1,1,1,0,3,44.64,Synthetic demo record
+DEMO-01094,Kolkata,Rajarhat,Mid-Range,Independent House,1310,2,1,2,2023,Furnished,0,0,1,0,0,1,70.66,Synthetic demo record
+DEMO-01095,Kolkata,Ballygunge,Premium,Builder Floor,1470,4,4,19,2024,Furnished,0,1,1,0,0,2,102.26,Synthetic demo record
+DEMO-01096,Kolkata,Barasat,Affordable,Apartment,620,1,1,1,2023,Unfurnished,1,1,1,0,0,3,27.92,Synthetic demo record
+DEMO-01097,Kolkata,Rajarhat,Mid-Range,Villa,1030,2,3,10,2018,Unfurnished,1,0,1,1,0,3,40.63,Synthetic demo record
+DEMO-01098,Kolkata,Behala,Mid-Range,Apartment,1350,3,2,19,2021,Furnished,1,1,1,1,0,4,62.39,Synthetic demo record
+DEMO-01099,Kolkata,Rajarhat,Mid-Range,Apartment,550,1,2,21,2024,Furnished,1,1,0,1,0,3,27.13,Synthetic demo record
+DEMO-01100,Kolkata,New Town,Premium,Independent House,1650,4,5,11,2021,Semi-Furnished,0,0,0,0,0,0,114.56,Synthetic demo record
+DEMO-01101,Kolkata,Dum Dum,Mid-Range,Independent House,950,2,2,12,2026,Unfurnished,0,0,1,0,0,1,60.72,Synthetic demo record
+DEMO-01102,Kolkata,Dum Dum,Mid-Range,Villa,1590,3,2,17,2024,Furnished,0,0,1,1,0,2,95.32,Synthetic demo record
+DEMO-01103,Kolkata,Salt Lake,Premium,Apartment,2020,4,4,23,2023,Unfurnished,1,0,0,1,0,2,128.43,Synthetic demo record
+DEMO-01104,Kolkata,Ballygunge,Premium,Apartment,1390,2,1,16,2021,Unfurnished,1,1,0,0,0,2,81.43,Synthetic demo record
+DEMO-01105,Kolkata,Joka,Affordable,Independent House,310,1,1,11,2018,Unfurnished,1,0,1,1,0,3,12.0,Synthetic demo record
+DEMO-01106,Kolkata,Rajarhat,Mid-Range,Independent House,1010,2,2,22,2023,Furnished,1,0,1,1,0,3,46.78,Synthetic demo record
+DEMO-01107,Kolkata,Salt Lake,Premium,Independent House,700,1,2,10,2026,Unfurnished,0,0,0,0,0,0,71.28,Synthetic demo record
+DEMO-01108,Kolkata,Rajarhat,Mid-Range,Apartment,770,2,2,13,2022,Unfurnished,1,1,0,0,1,3,34.19,Synthetic demo record
+DEMO-01109,Kolkata,Joka,Affordable,Apartment,700,2,1,12,2026,Unfurnished,0,0,0,0,0,0,29.44,Synthetic demo record
+DEMO-01110,Kolkata,Barasat,Affordable,Apartment,1230,3,3,7,2022,Unfurnished,1,1,0,0,1,3,40.18,Synthetic demo record
+DEMO-01111,Kolkata,Joka,Affordable,Apartment,1140,3,3,14,2026,Unfurnished,1,1,0,0,0,2,44.76,Synthetic demo record
+DEMO-01112,Kolkata,Barasat,Affordable,Apartment,300,1,1,0,2020,Semi-Furnished,1,1,1,0,1,4,12.0,Synthetic demo record
+DEMO-01113,Kolkata,Rajarhat,Mid-Range,Apartment,1240,3,3,16,2025,Unfurnished,1,0,0,1,0,2,70.48,Synthetic demo record
+DEMO-01114,Kolkata,Rajarhat,Mid-Range,Independent House,1430,3,4,15,2019,Semi-Furnished,1,0,1,0,1,3,69.14,Synthetic demo record
+DEMO-01115,Kolkata,Rajarhat,Mid-Range,Apartment,400,1,1,19,2026,Unfurnished,1,1,0,0,0,2,23.99,Synthetic demo record
+DEMO-01116,Kolkata,Joka,Affordable,Apartment,1170,2,3,18,2024,Semi-Furnished,1,1,1,0,0,3,42.21,Synthetic demo record
+DEMO-01117,Kolkata,Dum Dum,Mid-Range,Apartment,450,1,1,12,2024,Unfurnished,1,1,0,0,0,2,22.8,Synthetic demo record
+DEMO-01118,Kolkata,New Town,Premium,Independent House,1310,3,3,3,2021,Furnished,1,0,1,1,1,4,116.86,Synthetic demo record
+DEMO-01119,Kolkata,Joka,Affordable,Apartment,1220,3,3,0,2024,Unfurnished,1,1,0,0,0,2,57.13,Synthetic demo record
+DEMO-01120,Kolkata,Dum Dum,Mid-Range,Independent House,670,2,1,8,2019,Furnished,1,0,1,1,0,3,27.4,Synthetic demo record
+DEMO-01121,Jaipur,Ajmer Road,Mid-Range,Apartment,550,1,1,10,2023,Semi-Furnished,0,0,1,0,0,1,22.57,Synthetic demo record
+DEMO-01122,Jaipur,Vidhyadhar Nagar,Affordable,Independent House,1360,3,3,0,2021,Unfurnished,0,0,0,0,0,0,43.15,Synthetic demo record
+DEMO-01123,Jaipur,Sanganer,Affordable,Independent House,1360,2,2,11,2019,Furnished,0,0,0,0,0,0,36.88,Synthetic demo record
+DEMO-01124,Jaipur,Sirsi Road,Mid-Range,Apartment,1550,3,3,14,2021,Semi-Furnished,1,1,0,0,0,2,70.26,Synthetic demo record
+DEMO-01125,Jaipur,Ajmer Road,Mid-Range,Apartment,570,1,1,13,2024,Semi-Furnished,1,1,1,0,0,3,24.72,Synthetic demo record
+DEMO-01126,Jaipur,Sirsi Road,Mid-Range,Builder Floor,720,1,2,23,2022,Semi-Furnished,1,1,0,1,0,3,26.79,Synthetic demo record
+DEMO-01127,Jaipur,Sirsi Road,Mid-Range,Villa,1770,4,5,8,2026,Unfurnished,1,0,0,1,0,2,111.63,Synthetic demo record
+DEMO-01128,Jaipur,Mansarovar,Mid-Range,Apartment,1300,3,3,10,2019,Semi-Furnished,1,1,1,0,0,3,50.55,Synthetic demo record
+DEMO-01129,Jaipur,Kalwar Road,Affordable,Apartment,1020,2,3,19,2018,Furnished,1,0,1,0,1,3,26.63,Synthetic demo record
+DEMO-01130,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,1260,2,2,21,2024,Unfurnished,0,0,1,1,0,2,38.22,Synthetic demo record
+DEMO-01131,Jaipur,Ajmer Road,Mid-Range,Apartment,1330,3,3,12,2026,Unfurnished,0,1,1,1,1,4,71.45,Synthetic demo record
+DEMO-01132,Jaipur,Mansarovar,Mid-Range,Apartment,1540,2,3,0,2025,Semi-Furnished,1,1,0,1,0,3,93.61,Synthetic demo record
+DEMO-01133,Jaipur,Ajmer Road,Mid-Range,Apartment,1070,2,3,12,2018,Unfurnished,1,1,1,1,0,4,33.78,Synthetic demo record
+DEMO-01134,Jaipur,Mansarovar,Mid-Range,Villa,1100,3,3,23,2023,Unfurnished,1,0,0,0,0,1,50.93,Synthetic demo record
+DEMO-01135,Jaipur,Mansarovar,Mid-Range,Apartment,1200,2,2,16,2022,Unfurnished,1,1,1,1,0,4,51.13,Synthetic demo record
+DEMO-01136,Jaipur,Sirsi Road,Mid-Range,Apartment,620,1,1,2,2026,Furnished,1,1,0,1,0,3,40.0,Synthetic demo record
+DEMO-01137,Jaipur,Sirsi Road,Mid-Range,Apartment,830,1,1,18,2025,Semi-Furnished,0,1,1,0,0,2,30.75,Synthetic demo record
+DEMO-01138,Jaipur,Sanganer,Affordable,Independent House,750,1,1,25,2025,Furnished,0,0,0,1,0,1,22.69,Synthetic demo record
+DEMO-01139,Jaipur,Sanganer,Affordable,Apartment,1240,3,4,21,2023,Unfurnished,1,1,1,0,0,3,30.64,Synthetic demo record
+DEMO-01140,Jaipur,Sanganer,Affordable,Apartment,1410,3,3,6,2026,Unfurnished,1,1,0,0,0,2,54.04,Synthetic demo record
+DEMO-01141,Jaipur,Ajmer Road,Mid-Range,Apartment,520,1,1,22,2020,Semi-Furnished,1,1,1,0,1,4,15.41,Synthetic demo record
+DEMO-01142,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,490,1,1,25,2019,Furnished,1,1,1,1,0,4,14.57,Synthetic demo record
+DEMO-01143,Jaipur,Vidhyadhar Nagar,Affordable,Builder Floor,1060,1,1,11,2024,Semi-Furnished,1,1,0,1,0,3,37.72,Synthetic demo record
+DEMO-01144,Jaipur,Sirsi Road,Mid-Range,Apartment,300,1,1,5,2021,Unfurnished,0,1,0,0,0,1,12.0,Synthetic demo record
+DEMO-01145,Jaipur,Kalwar Road,Affordable,Independent House,1970,4,3,3,2023,Furnished,1,0,0,0,0,1,77.46,Synthetic demo record
+DEMO-01146,Jaipur,Mansarovar,Mid-Range,Villa,940,2,3,20,2018,Unfurnished,1,0,1,1,0,3,33.34,Synthetic demo record
+DEMO-01147,Jaipur,Sanganer,Affordable,Apartment,1310,3,4,6,2023,Unfurnished,0,0,1,0,1,2,40.25,Synthetic demo record
+DEMO-01148,Jaipur,Ajmer Road,Mid-Range,Independent House,970,1,1,9,2022,Semi-Furnished,1,0,1,1,0,3,52.36,Synthetic demo record
+DEMO-01149,Jaipur,Kalwar Road,Affordable,Apartment,640,1,1,5,2025,Semi-Furnished,1,1,1,0,0,3,21.32,Synthetic demo record
+DEMO-01150,Jaipur,Sanganer,Affordable,Apartment,700,1,1,15,2018,Semi-Furnished,0,1,1,0,0,2,19.69,Synthetic demo record
+DEMO-01151,Jaipur,Malviya Nagar,Premium,Apartment,690,2,3,6,2023,Semi-Furnished,1,1,1,1,1,5,48.22,Synthetic demo record
+DEMO-01152,Jaipur,Ajmer Road,Mid-Range,Apartment,570,1,1,19,2020,Semi-Furnished,0,1,1,1,1,4,17.65,Synthetic demo record
+DEMO-01153,Jaipur,Vaishali Nagar,Premium,Apartment,710,1,2,0,2019,Unfurnished,1,1,0,1,1,4,43.61,Synthetic demo record
+DEMO-01154,Jaipur,Ajmer Road,Mid-Range,Apartment,1020,2,2,2,2026,Unfurnished,1,1,1,0,0,3,56.9,Synthetic demo record
+DEMO-01155,Jaipur,Vidhyadhar Nagar,Affordable,Builder Floor,1260,3,3,19,2019,Unfurnished,1,1,1,0,0,3,35.73,Synthetic demo record
+DEMO-01156,Jaipur,Ajmer Road,Mid-Range,Apartment,1140,2,3,4,2026,Semi-Furnished,0,1,1,0,0,2,66.42,Synthetic demo record
+DEMO-01157,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,1750,2,2,13,2025,Unfurnished,1,1,1,0,0,3,62.18,Synthetic demo record
+DEMO-01158,Jaipur,Malviya Nagar,Premium,Apartment,1340,3,2,0,2026,Furnished,0,1,1,0,1,3,109.85,Synthetic demo record
+DEMO-01159,Jaipur,Malviya Nagar,Premium,Apartment,1020,2,1,10,2022,Unfurnished,1,1,0,0,1,3,50.27,Synthetic demo record
+DEMO-01160,Jaipur,Malviya Nagar,Premium,Apartment,1070,3,3,6,2026,Unfurnished,0,1,1,1,0,3,84.15,Synthetic demo record
+DEMO-01161,Jaipur,Kalwar Road,Affordable,Independent House,1180,2,2,6,2018,Furnished,0,0,1,1,0,2,36.59,Synthetic demo record
+DEMO-01162,Jaipur,Ajmer Road,Mid-Range,Independent House,1290,3,2,9,2020,Semi-Furnished,1,0,1,0,0,2,37.11,Synthetic demo record
+DEMO-01163,Jaipur,Jagatpura,Premium,Builder Floor,300,1,1,23,2025,Semi-Furnished,1,1,1,0,1,4,20.62,Synthetic demo record
+DEMO-01164,Jaipur,Ajmer Road,Mid-Range,Villa,900,1,1,2,2019,Unfurnished,1,0,0,1,0,2,39.62,Synthetic demo record
+DEMO-01165,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,520,1,1,8,2023,Unfurnished,1,1,1,0,1,4,17.22,Synthetic demo record
+DEMO-01166,Jaipur,Sirsi Road,Mid-Range,Apartment,1320,3,3,11,2022,Semi-Furnished,1,1,0,1,0,3,57.97,Synthetic demo record
+DEMO-01167,Jaipur,Vaishali Nagar,Premium,Apartment,660,1,1,4,2026,Semi-Furnished,1,1,1,0,0,3,47.39,Synthetic demo record
+DEMO-01168,Jaipur,Mansarovar,Mid-Range,Apartment,920,2,1,19,2021,Semi-Furnished,1,1,0,0,0,2,34.26,Synthetic demo record
+DEMO-01169,Jaipur,Sirsi Road,Mid-Range,Villa,950,1,1,11,2021,Furnished,1,0,1,1,0,3,46.37,Synthetic demo record
+DEMO-01170,Jaipur,Mansarovar,Mid-Range,Apartment,700,1,2,1,2023,Semi-Furnished,1,0,1,1,0,3,34.76,Synthetic demo record
+DEMO-01171,Jaipur,Mansarovar,Mid-Range,Apartment,1010,2,3,24,2024,Unfurnished,0,1,1,0,0,2,38.92,Synthetic demo record
+DEMO-01172,Jaipur,Kalwar Road,Affordable,Apartment,1810,4,5,5,2025,Semi-Furnished,0,1,1,0,0,2,72.33,Synthetic demo record
+DEMO-01173,Jaipur,Ajmer Road,Mid-Range,Independent House,740,2,1,18,2021,Semi-Furnished,1,0,0,0,0,1,31.37,Synthetic demo record
+DEMO-01174,Jaipur,Mansarovar,Mid-Range,Apartment,820,2,2,16,2021,Unfurnished,1,1,0,1,0,3,30.14,Synthetic demo record
+DEMO-01175,Jaipur,Jagatpura,Premium,Apartment,820,1,1,17,2025,Semi-Furnished,1,1,0,0,1,3,54.51,Synthetic demo record
+DEMO-01176,Jaipur,Ajmer Road,Mid-Range,Apartment,1390,2,3,9,2021,Furnished,1,1,1,0,1,4,60.92,Synthetic demo record
+DEMO-01177,Jaipur,Mansarovar,Mid-Range,Independent House,300,1,2,20,2023,Unfurnished,0,0,0,1,0,1,12.0,Synthetic demo record
+DEMO-01178,Jaipur,Sanganer,Affordable,Apartment,1650,2,2,23,2026,Unfurnished,1,1,1,1,1,5,53.46,Synthetic demo record
+DEMO-01179,Jaipur,Kalwar Road,Affordable,Villa,1130,2,2,10,2019,Unfurnished,1,0,1,0,0,2,37.15,Synthetic demo record
+DEMO-01180,Jaipur,Ajmer Road,Mid-Range,Independent House,1510,3,2,12,2026,Semi-Furnished,1,0,1,1,0,3,92.88,Synthetic demo record
+DEMO-01181,Jaipur,Ajmer Road,Mid-Range,Apartment,1120,2,1,2,2019,Semi-Furnished,0,1,1,1,1,4,46.23,Synthetic demo record
+DEMO-01182,Jaipur,Sirsi Road,Mid-Range,Apartment,750,2,1,4,2019,Furnished,1,0,1,1,1,4,32.89,Synthetic demo record
+DEMO-01183,Jaipur,Jagatpura,Premium,Apartment,1700,3,3,25,2021,Semi-Furnished,1,1,1,0,0,3,92.05,Synthetic demo record
+DEMO-01184,Jaipur,Mansarovar,Mid-Range,Apartment,300,1,2,3,2019,Furnished,1,1,1,1,0,4,12.0,Synthetic demo record
+DEMO-01185,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,1420,3,2,2,2021,Semi-Furnished,1,0,1,1,1,4,45.2,Synthetic demo record
+DEMO-01186,Jaipur,Sirsi Road,Mid-Range,Apartment,1230,3,4,15,2025,Furnished,0,1,0,1,1,3,57.55,Synthetic demo record
+DEMO-01187,Jaipur,Sirsi Road,Mid-Range,Apartment,770,2,1,24,2018,Unfurnished,1,1,1,0,0,3,21.92,Synthetic demo record
+DEMO-01188,Jaipur,Ajmer Road,Mid-Range,Apartment,770,1,2,13,2023,Semi-Furnished,1,1,0,0,0,2,34.16,Synthetic demo record
+DEMO-01189,Jaipur,Ajmer Road,Mid-Range,Apartment,890,1,1,16,2022,Semi-Furnished,1,1,1,1,0,4,41.85,Synthetic demo record
+DEMO-01190,Jaipur,Jagatpura,Premium,Apartment,840,2,2,1,2025,Semi-Furnished,1,1,0,0,0,2,55.16,Synthetic demo record
+DEMO-01191,Jaipur,Sirsi Road,Mid-Range,Independent House,1410,3,2,12,2018,Unfurnished,1,0,0,0,0,1,53.29,Synthetic demo record
+DEMO-01192,Jaipur,Malviya Nagar,Premium,Apartment,1340,3,3,21,2018,Furnished,1,1,1,1,0,4,71.66,Synthetic demo record
+DEMO-01193,Jaipur,Malviya Nagar,Premium,Villa,790,2,3,3,2018,Unfurnished,1,0,1,0,0,2,49.61,Synthetic demo record
+DEMO-01194,Jaipur,Mansarovar,Mid-Range,Apartment,840,2,2,0,2019,Unfurnished,1,1,1,1,0,4,29.47,Synthetic demo record
+DEMO-01195,Jaipur,Kalwar Road,Affordable,Villa,1060,2,2,22,2018,Furnished,0,0,0,1,0,1,30.37,Synthetic demo record
+DEMO-01196,Jaipur,Malviya Nagar,Premium,Apartment,1550,3,2,3,2018,Unfurnished,1,1,1,1,0,4,78.92,Synthetic demo record
+DEMO-01197,Jaipur,Sirsi Road,Mid-Range,Builder Floor,690,2,2,11,2024,Unfurnished,0,1,0,1,0,2,26.66,Synthetic demo record
+DEMO-01198,Jaipur,Sirsi Road,Mid-Range,Apartment,310,1,1,5,2019,Unfurnished,0,1,1,0,1,3,12.0,Synthetic demo record
+DEMO-01199,Jaipur,Jagatpura,Premium,Villa,710,1,2,5,2024,Unfurnished,1,0,0,1,0,2,66.07,Synthetic demo record
+DEMO-01200,Jaipur,Mansarovar,Mid-Range,Apartment,1260,2,2,1,2021,Furnished,1,1,1,0,0,3,53.88,Synthetic demo record
+DEMO-01201,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,1510,3,3,23,2019,Unfurnished,1,1,0,0,0,2,35.68,Synthetic demo record
+DEMO-01202,Jaipur,Sanganer,Affordable,Apartment,1170,2,1,3,2020,Unfurnished,0,1,1,1,0,3,34.65,Synthetic demo record
+DEMO-01203,Jaipur,Mansarovar,Mid-Range,Apartment,940,2,1,0,2025,Semi-Furnished,1,0,1,1,0,3,50.42,Synthetic demo record
+DEMO-01204,Jaipur,Mansarovar,Mid-Range,Villa,770,2,1,0,2025,Semi-Furnished,0,0,0,0,0,0,52.66,Synthetic demo record
+DEMO-01205,Jaipur,Ajmer Road,Mid-Range,Apartment,1350,3,2,12,2019,Unfurnished,1,0,1,0,0,2,47.44,Synthetic demo record
+DEMO-01206,Jaipur,Malviya Nagar,Premium,Apartment,1100,2,2,13,2023,Furnished,1,1,0,0,0,2,77.45,Synthetic demo record
+DEMO-01207,Jaipur,Malviya Nagar,Premium,Independent House,810,2,3,21,2019,Unfurnished,1,0,0,0,1,2,35.59,Synthetic demo record
+DEMO-01208,Jaipur,Mansarovar,Mid-Range,Independent House,400,1,1,15,2022,Unfurnished,0,0,1,0,0,1,14.79,Synthetic demo record
+DEMO-01209,Jaipur,Sanganer,Affordable,Apartment,1220,2,1,21,2020,Semi-Furnished,1,0,1,1,0,3,31.06,Synthetic demo record
+DEMO-01210,Jaipur,Ajmer Road,Mid-Range,Apartment,350,1,1,20,2021,Furnished,0,1,1,1,0,3,13.73,Synthetic demo record
+DEMO-01211,Jaipur,Malviya Nagar,Premium,Builder Floor,1200,2,2,1,2026,Unfurnished,1,1,0,1,0,3,94.98,Synthetic demo record
+DEMO-01212,Jaipur,Vaishali Nagar,Premium,Apartment,1450,3,4,16,2022,Unfurnished,1,1,0,1,0,3,86.53,Synthetic demo record
+DEMO-01213,Jaipur,Mansarovar,Mid-Range,Independent House,910,1,2,20,2021,Semi-Furnished,0,0,1,1,0,2,39.16,Synthetic demo record
+DEMO-01214,Jaipur,Ajmer Road,Mid-Range,Apartment,1450,3,3,6,2024,Semi-Furnished,1,1,1,0,0,3,63.12,Synthetic demo record
+DEMO-01215,Jaipur,Sirsi Road,Mid-Range,Apartment,720,1,1,14,2021,Unfurnished,1,1,0,1,0,3,28.45,Synthetic demo record
+DEMO-01216,Jaipur,Kalwar Road,Affordable,Apartment,1270,2,1,20,2024,Unfurnished,1,1,1,1,0,4,33.5,Synthetic demo record
+DEMO-01217,Jaipur,Ajmer Road,Mid-Range,Apartment,2310,4,3,10,2023,Semi-Furnished,1,1,1,0,0,3,95.68,Synthetic demo record
+DEMO-01218,Jaipur,Jagatpura,Premium,Apartment,620,1,2,14,2018,Unfurnished,1,1,0,0,0,2,33.11,Synthetic demo record
+DEMO-01219,Jaipur,Sanganer,Affordable,Apartment,1160,2,3,8,2018,Furnished,1,1,1,1,0,4,32.5,Synthetic demo record
+DEMO-01220,Jaipur,Mansarovar,Mid-Range,Apartment,740,1,1,3,2026,Furnished,1,1,0,1,0,3,38.09,Synthetic demo record
+DEMO-01221,Jaipur,Sirsi Road,Mid-Range,Apartment,690,2,2,23,2023,Unfurnished,0,1,1,0,1,3,27.89,Synthetic demo record
+DEMO-01222,Jaipur,Sirsi Road,Mid-Range,Apartment,1160,3,4,1,2023,Unfurnished,1,0,0,0,0,1,47.07,Synthetic demo record
+DEMO-01223,Jaipur,Kalwar Road,Affordable,Apartment,400,1,1,22,2020,Unfurnished,1,1,1,0,0,3,12.0,Synthetic demo record
+DEMO-01224,Jaipur,Mansarovar,Mid-Range,Apartment,1370,3,2,18,2023,Semi-Furnished,0,1,0,0,0,1,58.6,Synthetic demo record
+DEMO-01225,Jaipur,Ajmer Road,Mid-Range,Apartment,1730,3,4,10,2023,Unfurnished,1,1,1,1,0,4,75.85,Synthetic demo record
+DEMO-01226,Jaipur,Sanganer,Affordable,Apartment,1320,2,2,10,2021,Semi-Furnished,0,1,1,1,0,3,40.77,Synthetic demo record
+DEMO-01227,Jaipur,Malviya Nagar,Premium,Apartment,960,1,1,17,2023,Semi-Furnished,1,1,1,0,1,4,67.23,Synthetic demo record
+DEMO-01228,Jaipur,Malviya Nagar,Premium,Apartment,480,1,1,1,2018,Semi-Furnished,1,1,1,0,0,3,27.88,Synthetic demo record
+DEMO-01229,Jaipur,Ajmer Road,Mid-Range,Apartment,1280,2,1,15,2021,Semi-Furnished,1,1,0,1,0,3,46.17,Synthetic demo record
+DEMO-01230,Jaipur,Vaishali Nagar,Premium,Apartment,1610,4,5,5,2022,Semi-Furnished,1,1,1,0,0,3,119.78,Synthetic demo record
+DEMO-01231,Jaipur,Sirsi Road,Mid-Range,Villa,530,1,1,12,2024,Unfurnished,1,0,1,0,0,2,33.44,Synthetic demo record
+DEMO-01232,Jaipur,Kalwar Road,Affordable,Apartment,460,1,2,15,2020,Unfurnished,1,1,0,1,0,3,12.0,Synthetic demo record
+DEMO-01233,Jaipur,Sirsi Road,Mid-Range,Apartment,2240,4,5,23,2021,Semi-Furnished,0,0,0,1,0,1,79.81,Synthetic demo record
+DEMO-01234,Jaipur,Ajmer Road,Mid-Range,Apartment,1200,2,3,5,2025,Semi-Furnished,1,0,1,1,0,3,64.51,Synthetic demo record
+DEMO-01235,Jaipur,Ajmer Road,Mid-Range,Independent House,1100,2,1,0,2021,Unfurnished,1,0,1,0,0,2,49.61,Synthetic demo record
+DEMO-01236,Jaipur,Vidhyadhar Nagar,Affordable,Independent House,1070,2,3,20,2025,Unfurnished,1,0,0,1,1,3,34.3,Synthetic demo record
+DEMO-01237,Jaipur,Sanganer,Affordable,Apartment,1500,3,3,23,2019,Furnished,1,1,0,1,0,3,35.48,Synthetic demo record
+DEMO-01238,Jaipur,Ajmer Road,Mid-Range,Apartment,840,1,2,22,2023,Unfurnished,1,1,0,0,0,2,29.36,Synthetic demo record
+DEMO-01239,Jaipur,Ajmer Road,Mid-Range,Independent House,760,1,1,24,2024,Semi-Furnished,1,0,1,0,1,3,30.48,Synthetic demo record
+DEMO-01240,Jaipur,Ajmer Road,Mid-Range,Independent House,1300,3,4,1,2025,Semi-Furnished,0,0,0,0,0,0,70.54,Synthetic demo record
+DEMO-01241,Jaipur,Ajmer Road,Mid-Range,Builder Floor,1580,3,2,25,2023,Semi-Furnished,0,1,0,0,0,1,57.75,Synthetic demo record
+DEMO-01242,Jaipur,Mansarovar,Mid-Range,Apartment,1120,2,2,15,2020,Unfurnished,1,1,1,0,0,3,43.93,Synthetic demo record
+DEMO-01243,Jaipur,Sirsi Road,Mid-Range,Apartment,1560,3,2,22,2023,Furnished,1,1,1,1,0,4,77.99,Synthetic demo record
+DEMO-01244,Jaipur,Ajmer Road,Mid-Range,Apartment,1080,2,2,20,2026,Semi-Furnished,1,1,0,1,1,4,45.92,Synthetic demo record
+DEMO-01245,Jaipur,Sanganer,Affordable,Villa,1060,2,2,10,2022,Furnished,1,0,1,1,0,3,34.0,Synthetic demo record
+DEMO-01246,Jaipur,Jagatpura,Premium,Apartment,820,1,1,12,2020,Furnished,0,1,1,1,0,3,49.69,Synthetic demo record
+DEMO-01247,Jaipur,Vidhyadhar Nagar,Affordable,Apartment,1200,2,3,25,2023,Unfurnished,0,1,1,1,0,3,34.12,Synthetic demo record
+DEMO-01248,Jaipur,Kalwar Road,Affordable,Apartment,1670,3,4,9,2024,Semi-Furnished,0,1,0,0,1,2,52.62,Synthetic demo record
+DEMO-01249,Jaipur,Jagatpura,Premium,Independent House,1200,2,1,12,2024,Unfurnished,1,0,1,0,0,2,81.76,Synthetic demo record
+DEMO-01250,Jaipur,Sanganer,Affordable,Apartment,910,2,2,0,2026,Semi-Furnished,1,1,1,0,0,3,37.21,Synthetic demo record
+DEMO-01251,Jaipur,Sanganer,Affordable,Independent House,1160,2,3,15,2018,Semi-Furnished,1,0,0,0,0,1,31.11,Synthetic demo record
+DEMO-01252,Jaipur,Jagatpura,Premium,Independent House,1350,3,3,2,2020,Unfurnished,0,0,1,1,1,3,78.89,Synthetic demo record
+DEMO-01253,Jaipur,Mansarovar,Mid-Range,Apartment,1630,3,2,10,2023,Semi-Furnished,0,0,1,0,0,1,73.03,Synthetic demo record
+DEMO-01254,Jaipur,Sirsi Road,Mid-Range,Apartment,300,1,1,23,2018,Semi-Furnished,1,1,1,0,0,3,12.0,Synthetic demo record
+DEMO-01255,Jaipur,Ajmer Road,Mid-Range,Apartment,1250,3,2,21,2022,Unfurnished,0,1,1,1,0,3,40.9,Synthetic demo record
+DEMO-01256,Jaipur,Ajmer Road,Mid-Range,Apartment,1660,3,3,21,2023,Unfurnished,0,1,1,0,1,3,64.77,Synthetic demo record
+DEMO-01257,Jaipur,Sirsi Road,Mid-Range,Apartment,1070,2,3,25,2021,Unfurnished,1,1,0,1,1,4,40.22,Synthetic demo record
+DEMO-01258,Jaipur,Malviya Nagar,Premium,Apartment,370,1,2,15,2018,Semi-Furnished,1,1,1,0,0,3,21.23,Synthetic demo record
+DEMO-01259,Jaipur,Mansarovar,Mid-Range,Apartment,760,2,3,10,2023,Furnished,1,1,1,0,0,3,40.54,Synthetic demo record
+DEMO-01260,Jaipur,Ajmer Road,Mid-Range,Apartment,1280,2,2,17,2025,Furnished,1,0,1,0,0,2,63.12,Synthetic demo record
+DEMO-01261,Chandigarh,Kharar,Affordable,Independent House,810,2,3,1,2021,Unfurnished,1,0,0,0,0,1,34.79,Synthetic demo record
+DEMO-01262,Chandigarh,Sector 9,Premium,Apartment,1720,3,4,2,2019,Semi-Furnished,0,1,1,0,0,2,178.85,Synthetic demo record
+DEMO-01263,Chandigarh,Sector 49,Mid-Range,Apartment,450,1,1,15,2025,Semi-Furnished,0,1,1,1,0,3,36.19,Synthetic demo record
+DEMO-01264,Chandigarh,Dera Bassi,Affordable,Villa,940,2,1,24,2022,Semi-Furnished,0,0,1,0,0,1,57.43,Synthetic demo record
+DEMO-01265,Chandigarh,Sector 49,Mid-Range,Apartment,700,2,3,19,2020,Semi-Furnished,1,1,1,0,0,3,46.72,Synthetic demo record
+DEMO-01266,Chandigarh,Sector 44,Mid-Range,Apartment,1180,2,3,22,2023,Furnished,1,1,1,0,0,3,82.16,Synthetic demo record
+DEMO-01267,Chandigarh,Sector 49,Mid-Range,Villa,800,3,4,13,2019,Unfurnished,0,0,0,1,0,1,56.37,Synthetic demo record
+DEMO-01268,Chandigarh,Dera Bassi,Affordable,Apartment,1680,3,3,12,2024,Unfurnished,1,1,0,0,1,3,87.62,Synthetic demo record
+DEMO-01269,Chandigarh,Sector 49,Mid-Range,Apartment,960,3,3,2,2022,Semi-Furnished,1,0,1,0,0,2,72.41,Synthetic demo record
+DEMO-01270,Chandigarh,Landran,Affordable,Apartment,1010,3,2,11,2020,Unfurnished,1,1,1,0,0,3,52.1,Synthetic demo record
+DEMO-01271,Chandigarh,Sector 49,Mid-Range,Apartment,1420,3,3,2,2024,Unfurnished,0,0,0,1,1,2,113.4,Synthetic demo record
+DEMO-01272,Chandigarh,Kharar,Affordable,Apartment,1620,3,3,2,2025,Semi-Furnished,0,0,1,0,0,1,93.86,Synthetic demo record
+DEMO-01273,Chandigarh,Landran,Affordable,Independent House,1020,2,1,5,2020,Unfurnished,0,0,0,1,0,1,50.66,Synthetic demo record
+DEMO-01274,Chandigarh,Kharar,Affordable,Apartment,1760,3,2,2,2020,Semi-Furnished,0,1,1,1,0,3,78.26,Synthetic demo record
+DEMO-01275,Chandigarh,Sector 49,Mid-Range,Apartment,880,2,3,13,2023,Semi-Furnished,1,1,0,1,0,3,71.27,Synthetic demo record
+DEMO-01276,Chandigarh,Zirakpur,Mid-Range,Independent House,740,2,2,11,2024,Semi-Furnished,0,0,0,1,0,1,63.19,Synthetic demo record
+DEMO-01277,Chandigarh,Landran,Affordable,Independent House,330,1,1,24,2024,Unfurnished,1,0,0,0,1,2,16.32,Synthetic demo record
+DEMO-01278,Chandigarh,Sector 44,Mid-Range,Apartment,2170,3,4,9,2025,Semi-Furnished,1,1,1,0,1,4,218.71,Synthetic demo record
+DEMO-01279,Chandigarh,Zirakpur,Mid-Range,Independent House,940,2,2,6,2022,Semi-Furnished,1,0,1,1,0,3,79.83,Synthetic demo record
+DEMO-01280,Chandigarh,Dera Bassi,Affordable,Builder Floor,1100,2,1,16,2025,Unfurnished,0,1,1,1,0,3,54.27,Synthetic demo record
+DEMO-01281,Chandigarh,Sector 9,Premium,Apartment,1110,2,2,5,2025,Furnished,1,0,1,1,0,3,192.42,Synthetic demo record
+DEMO-01282,Chandigarh,Dera Bassi,Affordable,Apartment,740,1,1,0,2023,Semi-Furnished,1,0,0,0,0,1,42.3,Synthetic demo record
+DEMO-01283,Chandigarh,Dera Bassi,Affordable,Apartment,300,1,1,1,2020,Semi-Furnished,0,1,0,0,0,1,17.42,Synthetic demo record
+DEMO-01284,Chandigarh,Zirakpur,Mid-Range,Villa,1070,2,1,17,2022,Unfurnished,1,0,1,0,0,2,81.0,Synthetic demo record
+DEMO-01285,Chandigarh,Dera Bassi,Affordable,Apartment,1320,2,1,24,2024,Unfurnished,0,1,0,1,0,2,50.17,Synthetic demo record
+DEMO-01286,Chandigarh,Sector 9,Premium,Apartment,920,2,1,12,2026,Semi-Furnished,1,1,1,0,0,3,127.7,Synthetic demo record
+DEMO-01287,Chandigarh,Sector 44,Mid-Range,Villa,1080,2,3,1,2023,Furnished,1,0,1,1,0,3,123.93,Synthetic demo record
+DEMO-01288,Chandigarh,Sector 17,Premium,Villa,1600,3,3,8,2023,Semi-Furnished,0,0,0,0,0,0,246.42,Synthetic demo record
+DEMO-01289,Chandigarh,Sector 44,Mid-Range,Apartment,1290,3,3,14,2022,Furnished,1,1,1,1,1,5,107.92,Synthetic demo record
+DEMO-01290,Chandigarh,Dera Bassi,Affordable,Apartment,890,1,1,15,2023,Unfurnished,0,0,0,0,1,1,42.34,Synthetic demo record
+DEMO-01291,Chandigarh,Sector 17,Premium,Apartment,720,2,2,18,2023,Semi-Furnished,1,1,1,0,0,3,82.09,Synthetic demo record
+DEMO-01292,Chandigarh,Sector 9,Premium,Apartment,1770,4,4,7,2020,Semi-Furnished,0,1,1,1,0,3,168.36,Synthetic demo record
+DEMO-01293,Chandigarh,Sector 49,Mid-Range,Apartment,1540,3,4,3,2025,Semi-Furnished,0,1,1,0,0,2,118.15,Synthetic demo record
+DEMO-01294,Chandigarh,Dera Bassi,Affordable,Apartment,1650,3,3,9,2019,Furnished,1,1,0,0,0,2,86.65,Synthetic demo record
+DEMO-01295,Chandigarh,Sector 8,Premium,Apartment,560,1,1,10,2022,Unfurnished,1,1,1,1,1,5,66.01,Synthetic demo record
+DEMO-01296,Chandigarh,Sector 49,Mid-Range,Apartment,1210,2,2,8,2025,Unfurnished,1,1,0,0,0,2,105.14,Synthetic demo record
+DEMO-01297,Chandigarh,Sector 44,Mid-Range,Villa,960,2,2,1,2026,Semi-Furnished,1,0,0,0,1,2,119.55,Synthetic demo record
+DEMO-01298,Chandigarh,Zirakpur,Mid-Range,Apartment,1310,2,2,4,2023,Unfurnished,1,1,1,0,0,3,94.91,Synthetic demo record
+DEMO-01299,Chandigarh,Kharar,Affordable,Apartment,1340,3,3,19,2024,Furnished,1,1,0,0,0,2,72.52,Synthetic demo record
+DEMO-01300,Chandigarh,Kharar,Affordable,Independent House,790,1,2,21,2021,Furnished,1,0,1,1,0,3,36.4,Synthetic demo record
+DEMO-01301,Chandigarh,Sector 49,Mid-Range,Apartment,1350,3,4,11,2026,Semi-Furnished,1,1,0,1,0,3,134.52,Synthetic demo record
+DEMO-01302,Chandigarh,Sector 44,Mid-Range,Independent House,760,1,1,25,2020,Semi-Furnished,0,0,1,0,0,1,38.34,Synthetic demo record
+DEMO-01303,Chandigarh,Kharar,Affordable,Apartment,1200,2,2,20,2026,Semi-Furnished,1,0,1,1,0,3,80.78,Synthetic demo record
+DEMO-01304,Chandigarh,Sector 49,Mid-Range,Villa,1410,2,1,24,2022,Unfurnished,1,0,0,0,0,1,100.01,Synthetic demo record
+DEMO-01305,Chandigarh,Landran,Affordable,Apartment,450,1,1,1,2019,Unfurnished,1,0,0,1,0,2,21.26,Synthetic demo record
+DEMO-01306,Chandigarh,Kharar,Affordable,Apartment,1030,2,3,3,2021,Semi-Furnished,1,1,1,0,0,3,60.38,Synthetic demo record
+DEMO-01307,Chandigarh,Sector 17,Premium,Apartment,570,1,1,0,2024,Furnished,1,1,0,0,1,3,97.14,Synthetic demo record
+DEMO-01308,Chandigarh,Kharar,Affordable,Villa,1130,2,3,2,2018,Semi-Furnished,1,0,0,0,0,1,68.12,Synthetic demo record
+DEMO-01309,Chandigarh,Sector 8,Premium,Villa,1550,2,3,14,2024,Furnished,0,0,0,0,0,0,209.39,Synthetic demo record
+DEMO-01310,Chandigarh,Sector 9,Premium,Apartment,1920,4,4,11,2023,Semi-Furnished,1,1,1,1,0,4,244.34,Synthetic demo record
+DEMO-01311,Chandigarh,Kharar,Affordable,Apartment,1160,2,3,7,2025,Semi-Furnished,1,1,0,0,0,2,64.61,Synthetic demo record
+DEMO-01312,Chandigarh,Sector 44,Mid-Range,Apartment,1360,2,3,0,2020,Semi-Furnished,1,1,1,1,0,4,82.25,Synthetic demo record
+DEMO-01313,Chandigarh,Sector 8,Premium,Apartment,470,1,1,10,2020,Unfurnished,0,0,1,0,0,1,48.35,Synthetic demo record
+DEMO-01314,Chandigarh,Sector 44,Mid-Range,Apartment,410,1,1,15,2025,Semi-Furnished,0,1,1,1,1,4,33.02,Synthetic demo record
+DEMO-01315,Chandigarh,Kharar,Affordable,Apartment,960,1,1,20,2026,Semi-Furnished,0,1,1,1,1,4,46.12,Synthetic demo record
+DEMO-01316,Chandigarh,Dera Bassi,Affordable,Builder Floor,790,3,3,7,2022,Furnished,1,1,0,0,0,2,39.91,Synthetic demo record
+DEMO-01317,Chandigarh,Zirakpur,Mid-Range,Apartment,1210,3,4,18,2026,Semi-Furnished,1,0,1,0,0,2,106.72,Synthetic demo record
+DEMO-01318,Chandigarh,Sector 8,Premium,Independent House,1110,2,1,15,2025,Semi-Furnished,1,0,0,0,0,1,124.46,Synthetic demo record
+DEMO-01319,Chandigarh,Kharar,Affordable,Villa,1250,2,2,23,2026,Unfurnished,0,0,0,0,0,0,69.59,Synthetic demo record
+DEMO-01320,Chandigarh,Sector 49,Mid-Range,Builder Floor,1050,1,1,3,2019,Unfurnished,1,1,1,0,0,3,72.31,Synthetic demo record
+DEMO-01321,Chandigarh,Landran,Affordable,Apartment,1300,3,3,3,2024,Furnished,1,1,1,0,0,3,80.92,Synthetic demo record
+DEMO-01322,Chandigarh,Sector 44,Mid-Range,Apartment,1750,3,4,22,2021,Semi-Furnished,1,1,1,1,0,4,124.7,Synthetic demo record
+DEMO-01323,Chandigarh,Landran,Affordable,Apartment,1010,2,2,9,2020,Furnished,1,1,1,0,1,4,52.98,Synthetic demo record
+DEMO-01324,Chandigarh,Zirakpur,Mid-Range,Apartment,730,1,2,15,2022,Semi-Furnished,0,1,0,1,0,2,49.31,Synthetic demo record
+DEMO-01325,Chandigarh,Zirakpur,Mid-Range,Apartment,850,1,1,0,2021,Unfurnished,1,1,1,0,0,3,67.8,Synthetic demo record
+DEMO-01326,Chandigarh,Sector 49,Mid-Range,Independent House,590,1,2,9,2020,Semi-Furnished,0,0,0,0,0,0,42.44,Synthetic demo record
+DEMO-01327,Chandigarh,Sector 9,Premium,Independent House,1380,2,1,16,2026,Unfurnished,1,0,0,0,0,1,179.99,Synthetic demo record
+DEMO-01328,Chandigarh,Sector 9,Premium,Apartment,600,1,1,2,2021,Semi-Furnished,1,1,1,0,0,3,76.68,Synthetic demo record
+DEMO-01329,Chandigarh,Kharar,Affordable,Independent House,480,1,1,21,2023,Unfurnished,1,0,1,0,0,2,26.56,Synthetic demo record
+DEMO-01330,Chandigarh,Zirakpur,Mid-Range,Independent House,300,1,2,24,2025,Unfurnished,0,0,0,0,0,0,22.73,Synthetic demo record
+DEMO-01331,Chandigarh,Sector 44,Mid-Range,Villa,760,2,2,11,2024,Unfurnished,1,0,1,0,1,3,78.39,Synthetic demo record
+DEMO-01332,Chandigarh,Zirakpur,Mid-Range,Independent House,1550,3,3,1,2021,Furnished,1,0,1,0,0,2,124.51,Synthetic demo record
+DEMO-01333,Chandigarh,Sector 44,Mid-Range,Apartment,300,1,1,19,2018,Semi-Furnished,1,1,0,0,0,2,16.41,Synthetic demo record
+DEMO-01334,Chandigarh,Kharar,Affordable,Apartment,1290,2,2,3,2023,Semi-Furnished,1,0,0,1,0,2,85.93,Synthetic demo record
+DEMO-01335,Chandigarh,Sector 49,Mid-Range,Apartment,1730,4,4,22,2020,Furnished,1,1,0,1,0,3,90.15,Synthetic demo record
+DEMO-01336,Chandigarh,Sector 49,Mid-Range,Apartment,1480,3,4,2,2026,Unfurnished,1,1,0,0,0,2,141.41,Synthetic demo record
+DEMO-01337,Chandigarh,Sector 44,Mid-Range,Independent House,1030,2,1,24,2021,Semi-Furnished,0,0,0,1,0,1,55.55,Synthetic demo record
+DEMO-01338,Chandigarh,Zirakpur,Mid-Range,Apartment,800,1,1,24,2020,Semi-Furnished,0,1,1,1,1,4,51.15,Synthetic demo record
+DEMO-01339,Chandigarh,Sector 8,Premium,Apartment,1040,2,2,12,2021,Semi-Furnished,1,0,1,0,0,2,88.07,Synthetic demo record
+DEMO-01340,Chandigarh,Sector 44,Mid-Range,Apartment,1220,2,2,22,2023,Semi-Furnished,1,1,0,0,0,2,74.89,Synthetic demo record
+DEMO-01341,Chandigarh,Zirakpur,Mid-Range,Apartment,690,1,1,6,2023,Semi-Furnished,1,1,1,0,0,3,61.52,Synthetic demo record
+DEMO-01342,Chandigarh,Dera Bassi,Affordable,Apartment,1280,3,2,23,2022,Unfurnished,1,1,1,1,0,4,60.1,Synthetic demo record
+DEMO-01343,Chandigarh,Dera Bassi,Affordable,Apartment,640,1,2,8,2018,Unfurnished,0,1,1,0,1,3,25.14,Synthetic demo record
+DEMO-01344,Chandigarh,Zirakpur,Mid-Range,Apartment,1550,3,3,1,2022,Semi-Furnished,1,0,1,0,1,3,131.89,Synthetic demo record
+DEMO-01345,Chandigarh,Sector 49,Mid-Range,Apartment,300,1,1,5,2021,Semi-Furnished,1,1,1,0,0,3,25.13,Synthetic demo record
+DEMO-01346,Chandigarh,Sector 44,Mid-Range,Apartment,1450,3,2,20,2018,Unfurnished,1,0,1,0,1,3,75.12,Synthetic demo record
+DEMO-01347,Chandigarh,Zirakpur,Mid-Range,Builder Floor,1420,3,2,7,2021,Unfurnished,1,0,0,0,0,1,101.78,Synthetic demo record
+DEMO-01348,Chandigarh,Zirakpur,Mid-Range,Apartment,560,1,1,10,2019,Semi-Furnished,1,0,1,0,1,3,38.84,Synthetic demo record
+DEMO-01349,Chandigarh,Sector 44,Mid-Range,Apartment,1120,3,3,16,2019,Unfurnished,1,1,1,0,0,3,73.89,Synthetic demo record
+DEMO-01350,Chandigarh,Zirakpur,Mid-Range,Villa,1040,2,2,16,2025,Unfurnished,0,0,1,1,0,2,89.4,Synthetic demo record
+DEMO-01351,Chandigarh,Sector 8,Premium,Villa,1930,4,5,2,2020,Semi-Furnished,1,0,0,1,0,2,219.95,Synthetic demo record
+DEMO-01352,Chandigarh,Sector 17,Premium,Independent House,1670,4,3,25,2020,Furnished,1,0,0,1,0,2,166.75,Synthetic demo record
+DEMO-01353,Chandigarh,Sector 49,Mid-Range,Villa,990,1,2,9,2022,Unfurnished,1,0,1,0,0,2,90.68,Synthetic demo record
+DEMO-01354,Chandigarh,Zirakpur,Mid-Range,Villa,1240,3,3,15,2023,Semi-Furnished,1,0,1,1,0,3,111.93,Synthetic demo record
+DEMO-01355,Chandigarh,Sector 17,Premium,Apartment,1070,2,3,18,2020,Semi-Furnished,1,1,0,1,0,3,109.7,Synthetic demo record
+DEMO-01356,Chandigarh,Zirakpur,Mid-Range,Apartment,900,2,1,15,2024,Semi-Furnished,0,1,0,1,0,2,64.77,Synthetic demo record
+DEMO-01357,Chandigarh,Sector 8,Premium,Apartment,1090,3,2,23,2021,Semi-Furnished,1,1,1,1,0,4,121.91,Synthetic demo record
+DEMO-01358,Chandigarh,Sector 49,Mid-Range,Apartment,930,1,1,3,2021,Semi-Furnished,1,1,0,1,0,3,68.56,Synthetic demo record
+DEMO-01359,Chandigarh,Zirakpur,Mid-Range,Apartment,930,2,2,8,2024,Semi-Furnished,1,1,1,0,0,3,64.22,Synthetic demo record
+DEMO-01360,Chandigarh,Sector 44,Mid-Range,Apartment,730,2,3,14,2019,Semi-Furnished,1,1,1,1,0,4,42.57,Synthetic demo record
+DEMO-01361,Chandigarh,Dera Bassi,Affordable,Apartment,1160,2,1,20,2019,Unfurnished,1,0,0,0,0,1,40.26,Synthetic demo record
+DEMO-01362,Chandigarh,Zirakpur,Mid-Range,Apartment,790,1,1,4,2022,Semi-Furnished,1,1,1,1,0,4,56.49,Synthetic demo record
+DEMO-01363,Chandigarh,Kharar,Affordable,Apartment,860,2,2,11,2024,Semi-Furnished,1,0,1,1,0,3,53.59,Synthetic demo record
+DEMO-01364,Chandigarh,Sector 49,Mid-Range,Apartment,640,1,1,25,2019,Semi-Furnished,0,0,0,1,0,1,29.66,Synthetic demo record
+DEMO-01365,Chandigarh,Sector 44,Mid-Range,Independent House,1440,3,3,23,2021,Unfurnished,1,0,0,1,0,2,94.24,Synthetic demo record
+DEMO-01366,Chandigarh,Zirakpur,Mid-Range,Apartment,1500,3,3,11,2018,Furnished,1,0,0,1,1,3,98.03,Synthetic demo record
+DEMO-01367,Chandigarh,Landran,Affordable,Apartment,470,1,2,1,2026,Furnished,0,1,1,0,1,3,34.48,Synthetic demo record
+DEMO-01368,Chandigarh,Sector 49,Mid-Range,Apartment,760,1,1,8,2026,Semi-Furnished,0,1,0,0,1,2,65.3,Synthetic demo record
+DEMO-01369,Chandigarh,Landran,Affordable,Independent House,1040,2,2,24,2021,Semi-Furnished,0,0,0,0,0,0,39.15,Synthetic demo record
+DEMO-01370,Chandigarh,Sector 17,Premium,Builder Floor,780,1,1,16,2022,Semi-Furnished,0,1,1,0,0,2,75.1,Synthetic demo record
+DEMO-01371,Chandigarh,Sector 17,Premium,Apartment,860,2,3,14,2019,Semi-Furnished,1,1,1,1,0,4,89.3,Synthetic demo record
+DEMO-01372,Chandigarh,Dera Bassi,Affordable,Apartment,1000,2,3,16,2026,Furnished,1,0,0,0,0,1,50.7,Synthetic demo record
+DEMO-01373,Chandigarh,Dera Bassi,Affordable,Apartment,1050,3,2,3,2023,Semi-Furnished,0,1,1,1,0,3,58.16,Synthetic demo record
+DEMO-01374,Chandigarh,Sector 44,Mid-Range,Apartment,1310,3,3,17,2018,Semi-Furnished,0,1,1,0,0,2,75.42,Synthetic demo record
+DEMO-01375,Chandigarh,Sector 44,Mid-Range,Apartment,1340,3,2,16,2026,Unfurnished,1,1,0,1,0,3,110.62,Synthetic demo record
+DEMO-01376,Chandigarh,Sector 9,Premium,Villa,1280,2,2,23,2019,Semi-Furnished,1,0,0,1,1,3,125.4,Synthetic demo record
+DEMO-01377,Chandigarh,Sector 17,Premium,Apartment,1010,2,3,9,2024,Furnished,1,1,1,0,1,4,136.69,Synthetic demo record
+DEMO-01378,Chandigarh,Dera Bassi,Affordable,Apartment,540,1,1,11,2020,Unfurnished,0,1,1,0,0,2,24.45,Synthetic demo record
+DEMO-01379,Chandigarh,Sector 8,Premium,Apartment,1080,2,3,10,2023,Unfurnished,1,1,1,0,0,3,105.69,Synthetic demo record
+DEMO-01380,Chandigarh,Sector 17,Premium,Villa,780,1,1,5,2022,Unfurnished,1,0,1,0,0,2,108.82,Synthetic demo record
+DEMO-01381,Chandigarh,Sector 17,Premium,Independent House,1190,2,3,5,2022,Semi-Furnished,0,0,1,1,0,2,180.26,Synthetic demo record
+DEMO-01382,Chandigarh,Zirakpur,Mid-Range,Builder Floor,1420,2,2,24,2026,Semi-Furnished,1,1,1,0,1,4,104.26,Synthetic demo record
+DEMO-01383,Chandigarh,Sector 17,Premium,Apartment,1230,3,3,20,2018,Unfurnished,1,1,1,1,1,5,75.75,Synthetic demo record
+DEMO-01384,Chandigarh,Zirakpur,Mid-Range,Apartment,1160,3,4,3,2021,Furnished,0,1,1,0,0,2,93.6,Synthetic demo record
+DEMO-01385,Chandigarh,Zirakpur,Mid-Range,Apartment,1920,3,2,24,2021,Semi-Furnished,1,1,1,1,0,4,104.8,Synthetic demo record
+DEMO-01386,Chandigarh,Zirakpur,Mid-Range,Independent House,2030,3,2,2,2024,Furnished,1,0,0,1,1,3,193.27,Synthetic demo record
+DEMO-01387,Chandigarh,Sector 49,Mid-Range,Apartment,580,1,1,14,2021,Unfurnished,0,1,1,0,0,2,37.86,Synthetic demo record
+DEMO-01388,Chandigarh,Dera Bassi,Affordable,Builder Floor,1340,2,3,12,2019,Unfurnished,0,1,1,1,0,3,56.77,Synthetic demo record
+DEMO-01389,Chandigarh,Sector 17,Premium,Independent House,1610,3,3,20,2021,Semi-Furnished,1,0,1,1,1,4,168.76,Synthetic demo record
+DEMO-01390,Chandigarh,Sector 44,Mid-Range,Villa,1420,3,4,1,2025,Furnished,1,0,1,0,0,2,171.55,Synthetic demo record
+DEMO-01391,Chandigarh,Zirakpur,Mid-Range,Apartment,1280,3,4,4,2022,Unfurnished,1,1,0,0,0,2,79.52,Synthetic demo record
+DEMO-01392,Chandigarh,Sector 49,Mid-Range,Apartment,1470,2,3,19,2022,Semi-Furnished,1,1,1,0,0,3,98.77,Synthetic demo record
+DEMO-01393,Chandigarh,Sector 49,Mid-Range,Independent House,1120,2,2,8,2019,Furnished,1,0,1,0,0,2,96.78,Synthetic demo record
+DEMO-01394,Chandigarh,Sector 9,Premium,Independent House,1170,3,2,17,2019,Furnished,1,0,1,0,1,3,112.17,Synthetic demo record
+DEMO-01395,Chandigarh,Zirakpur,Mid-Range,Apartment,1030,2,2,8,2025,Semi-Furnished,0,1,1,1,0,3,91.28,Synthetic demo record
+DEMO-01396,Chandigarh,Sector 8,Premium,Apartment,930,1,1,10,2024,Semi-Furnished,0,1,0,1,0,2,120.04,Synthetic demo record
+DEMO-01397,Chandigarh,Landran,Affordable,Apartment,740,1,1,9,2020,Unfurnished,1,1,1,0,0,3,32.38,Synthetic demo record
+DEMO-01398,Chandigarh,Sector 44,Mid-Range,Apartment,1440,2,1,24,2024,Semi-Furnished,1,1,0,0,0,2,102.16,Synthetic demo record
+DEMO-01399,Chandigarh,Landran,Affordable,Apartment,820,1,1,23,2021,Furnished,1,1,1,0,0,3,37.36,Synthetic demo record
+DEMO-01400,Chandigarh,Landran,Affordable,Independent House,1410,3,4,10,2026,Semi-Furnished,0,0,1,1,0,2,102.74,Synthetic demo record

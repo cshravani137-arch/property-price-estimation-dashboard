@@ -1,0 +1,46 @@
+city,price_inr,area_sqft,locality,bhk,resale,gym,swimming_pool,parking,lift,price_lakhs,source_note,source_url
+Mumbai,4850000,720,Kharghar,1,1,1,0,1,1,48.5,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,4500000,600,Kharghar,1,1,1,1,1,1,45.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,6700000,650,Kharghar,1,1,1,1,1,1,67.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,4500000,650,Kharghar,1,1,0,0,1,1,45.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,5000000,665,Kharghar,1,1,0,0,1,1,50.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,17000000,2000,Kharghar,4,1,1,1,1,1,170.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,12500000,1550,Kharghar,3,1,0,0,1,1,125.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,10500000,1370,Sector-13 Kharghar,3,1,0,0,1,1,105.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,10500000,1356,Kharghar,3,1,1,1,1,1,105.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,15000000,1680,Kharghar,3,1,1,1,1,1,150.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,8700000,980,Kharghar,2,1,1,1,1,1,87.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,9000000,1000,Kharghar,2,1,1,0,1,1,90.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,11000000,1060,Kharghar,2,1,1,1,1,1,110.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,10500000,1095,Kharghar,2,1,1,1,1,1,105.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Mumbai,9700000,1155,Kharghar,2,1,1,1,1,1,97.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,10500000,1200,Sector 10 Dwarka,2,1,1,0,1,1,105.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,6000000,1000,Uttam Nagar,3,0,0,0,1,0,60.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,15000000,1350,Sarita Vihar,2,1,0,0,0,0,150.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,2500000,435,Uttam Nagar,2,0,0,0,1,0,25.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,5800000,900,Dwarka Mor,3,0,0,0,1,1,58.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,15800000,1800,Sector 7 Dwarka,4,1,1,1,1,1,158.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,15400000,1500,Sector 6 Dwarka,3,1,0,0,0,0,154.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,13500000,1800,Sector 5 Dwarka,3,1,1,0,1,0,135.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,6500000,1000,Sector 23 Rohini,3,0,0,0,0,1,65.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,12500000,1300,Mayur Vihar II,2,1,0,0,0,0,125.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,11000000,1000,Sector 24 Rohini,3,0,0,0,0,1,110.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,12500000,1550,Sector 11 Dwarka,3,1,0,0,1,1,125.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,14800000,1800,Sector 23 Dwarka,3,1,0,0,0,0,148.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,12500000,600,Sector 12 Dwarka,3,1,0,0,0,0,125.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Delhi,3300000,385,Sector 23 Dwarka,1,1,0,0,0,0,33.0,Public asking-price listing sample; no sale date supplied by source,https://github.com/happygoluckycodeeditor/pricepredictionmodel
+Bengaluru,3907000,1056,Electronic City Phase II,2,,,,,,39.07,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,6200000,1440,Uttarahalli,3,,,,,,62.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,5100000,1200,Kothanur,2,,,,,,51.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,3800000,1170,Whitefield,2,,,,,,38.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,20400000,2732,Old Airport Road,4,,,,,,204.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,60000000,3300,Rajaji Nagar,4,,,,,,600.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,6325000,1310,Marathahalli,3,,,,,,63.25,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,37000000,1020,Gandhi Bazar,6,,,,,,370.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,7000000,1800,Whitefield,3,,,,,,70.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,29500000,2785,Whitefield,4,,,,,,295.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,3800000,1000,7th Phase JP Nagar,2,,,,,,38.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,4000000,1100,Gottigere,2,,,,,,40.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,14800000,2250,Sarjapur,3,,,,,,148.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,7350000,1175,Mysore Road,2,,,,,,73.5,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
+Bengaluru,4800000,1180,Bisuvanahalli,3,,,,,,48.0,Public listing extract; Bengaluru source price is in ₹ lakh; amenities not supplied in source,https://github.com/Anamikaa-MK/Bengaluru-House-Price-Analysis/blob/main/Data/Bengaluru_House_RawData.csv
